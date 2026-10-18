@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>오늘의 시장 시세</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📈</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f3f5f8; --ink: #17202b; --muted: #687384; --rule: #d9dfe6;
+    --up: #d2283c; --down: #1c66e0; --flat: #8a94a3; --row: #ffffff;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #0f141a; --ink: #e6ebf1; --muted: #8d98a8; --rule: #253040;
+      --up: #ff5a68; --down: #5b9bff; --flat: #6f7a8a; --row: #161d26;
+      color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--paper); color: var(--ink); }
+  body {
+    font-family: "IBM Plex Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+    font-variant-numeric: tabular-nums;
+    padding: env(safe-area-inset-top, 0px) 0 env(safe-area-inset-bottom, 0px);
+  }
+  main { max-width: 46rem; margin: 0 auto; padding: 2.5rem 1.25rem 3rem; }
+  h1 { font-weight: 300; font-size: clamp(1.9rem, 6vw, 2.6rem); letter-spacing: -0.02em; margin: 0; }
+  .stamp { color: var(--muted); font-size: .875rem; margin: .5rem 0 0; }
+  .group { margin-top: 2.25rem; }
+  .group h2 { font-size: .9375rem; font-weight: 600; margin: 0 0 .5rem; }
+  .rows { background: var(--row); border-top: 2px solid var(--ink); }
+  .row {
+    display: grid; grid-template-columns: 1fr auto 6.5rem; align-items: center; gap: 1rem;
+    padding: .9rem .25rem .9rem .75rem; border-bottom: 1px solid var(--rule);
+  }
+  .name { font-size: .9375rem; }
+  .meta { color: var(--muted); font-size: .75rem; margin-top: .15rem; }
+  .num { text-align: right; }
+  .value { font-size: 1.5rem; font-weight: 300; letter-spacing: -0.01em; }
+  .chg { font-size: .875rem; margin-top: .1rem; }
+  .up { color: var(--up); } .down { color: var(--down); } .flat { color: var(--flat); }
+  svg.spark { width: 100%; height: 2.25rem; display: block; overflow: visible; }
+  .notice { margin-top: 2rem; color: var(--muted); font-size: .8125rem; line-height: 1.6; }
+  .error { color: var(--up); }
+  @media (max-width: 30rem) {
+    .row { grid-template-columns: 1fr auto; }
+    .spark-cell { grid-column: 1 / -1; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>오늘의 시장 시세</h1>
+  <p class="stamp" id="stamp">시세를 불러오는 중입니다.</p>
+  <div id="board"></div>
+  <p class="notice" id="notice"></p>
+</main>
+<script>
+const fmt = (x, d) => Number(x).toLocaleString("ko-KR", { minimumFractionDigits: d, maximumFractionDigits: d });
+const signed = (x, d) => (x > 0 ? "+" : "") + fmt(x, d);
+const dir = (x) => (x > 0 ? "up" : x < 0 ? "down" : "flat");
+const arrow = (x) => (x > 0 ? "▲" : x < 0 ? "▼" : "–");
+
+function spark(history, cls) {
+  const pts = history.slice(-30).map((h) => h.v);
+  if (pts.length < 2) return "";
+  const w = 100, h = 36, min = Math.min(...pts), max = Math.max(...pts), span = max - min || 1;
+  const xy = pts.map((v, i) => [(i / (pts.length - 1)) * w, h - ((v - min) / span) * (h - 4) - 2]);
+  const d = xy.map((p, i) => (i ? "L" : "M") + p[0].toFixed(1) + " " + p[1].toFixed(1)).join(" ");
+  const [lx, ly] = xy[xy.length - 1];
+  return `<svg class="spark ${cls}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-label="최근 30거래일 추이">
+    <path d="${d}" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+    <circle cx="${lx}" cy="${ly}" r="2.2" fill="currentColor"/></svg>`;
+}
+
+function el(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text != null) e.textContent = text;
+  return e;
+}
+
+async function load() {
+  const board = document.getElementById("board");
+  try {
+    const res = await fetch("data/market.json?t=" + Date.now());
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    document.getElementById("stamp").textContent = `마지막 업데이트 ${data.updated_at} (한국 시간)`;
+    const groups = {};
+    data.items.forEach((it) => (groups[it.group] ||= []).push(it));
+    board.textContent = "";
+    for (const [g, items] of Object.entries(groups)) {
+      const sec = el("section", "group");
+      sec.append(el("h2", null, g));
+      const rows = el("div", "rows");
+      items.forEach((it) => {
+        const c = dir(it.change), d = it.decimals ?? 2;
+        const row = el("div", "row");
+        const left = el("div");
+        left.append(el("div", "name", it.name), el("div", "meta", `${it.date} · ${it.unit}`));
+        const mid = el("div", "num");
+        mid.append(el("div", "value", fmt(it.value, d)),
+                   el("div", "chg " + c, `${arrow(it.change)} ${signed(it.change, d)} (${signed(it.change_pct, 2)}%)`));
+        const right = el("div", "spark-cell " + c);
+        right.innerHTML = spark(it.history || [], c);
+        right.title = it.source;
+        row.append(left, mid, right);
+        rows.append(row);
+      });
+      sec.append(rows);
+      board.append(sec);
+    }
+    const notice = document.getElementById("notice");
+    notice.textContent = "오른쪽 선은 최근 30거래일 추이입니다. 시세는 평일 오후 3시 40분과 오전 6시 30분쯤 자동으로 업데이트되며, 지연되거나 증권사 시세와 조금 다를 수 있습니다.";
+    if (data.errors && data.errors.length) {
+      const e = el("span", "error", ` 이번 업데이트에서 ${data.errors.length}개 항목을 가져오지 못해 이전 값을 표시합니다.`);
+      notice.append(e);
+    }
+  } catch (err) {
+    document.getElementById("stamp").textContent = "시세 파일(data/market.json)을 불러오지 못했습니다. Actions 탭에서 '시세 업데이트'를 한 번 실행해 주세요.";
+  }
+}
+load();
+</script>
+</body>
+</html>
