@@ -47,7 +47,7 @@ FRED_CSV = "https://fred.stlouisfed.org/graph/fredgraph.csv?id={}"
 GOLD_API = "https://apis.data.go.kr/1160100/service/GetGeneralProductInfoService/getGoldPriceInfo"
 
 
-def make_item(id_, group, name, unit, decimals, history, source, note=None):
+def make_item(id_, group, name, unit, decimals, history, source, note=None, no_pct=False):
     """history: [(날짜, 값), ...] 오래된 것부터"""
     last_d, last_v = history[-1]
     prev_v = history[-2][1] if len(history) > 1 else last_v
@@ -62,6 +62,8 @@ def make_item(id_, group, name, unit, decimals, history, source, note=None):
     }
     if note:
         item["note"] = note
+    if no_pct:
+        item["no_pct"] = True  # 변화량 자체를 보여주는 지표라 퍼센트는 의미 없음
     return item
 
 
@@ -139,7 +141,7 @@ def payrolls(src):
     s = fred_series("PAYEMS")
     diff = [(s[i][0], s[i][1] - s[i - 1][1]) for i in range(1, len(s))]
     return make_item("payems", "미국 경제", "미국 비농업 고용 증감", "천 명", 0, diff, src,
-                     note="전월 대비 일자리 증가 수, 이후 수정될 수 있음")
+                     note="전월 대비 일자리 증가 수, 이후 수정될 수 있음", no_pct=True)
 
 
 def fetch_krx_gold(api_key):
@@ -216,22 +218,35 @@ def update_market():
 # 검색어를 바꾸고 싶으면 아래 queries 만 고치면 됩니다.
 TOPICS = [
     {"id": "sapa", "section": "법·노동", "title": "중대재해처벌법",
-     "queries": ["중대재해처벌법", "중대재해법 판결", "중대재해처벌법 개정"]},
+     "queries": ["중대재해처벌법", "중대재해법 판결", "중대재해처벌법 개정"],
+     "must": r"중대재해"},
     {"id": "yellow", "section": "법·노동", "title": "노란봉투법 (노조법 2·3조)",
-     "queries": ["노란봉투법", "노조법 2조 3조 개정", "노란봉투법 판결"]},
+     "queries": ["노란봉투법", "노조법 2조 3조 개정", "노란봉투법 판결"],
+     "must": r"노란봉투|노조법|노동조합법|원청|하청|교섭"},
     {"id": "ltcg", "section": "세금", "title": "양도세 · 장기보유특별공제 개편",
-     "queries": ["장기보유특별공제 한도 10억", "장기거주소득공제", "양도세 개편 국회", "장특공제 개편"]},
+     "queries": ["장기보유특별공제 한도 10억", "장기거주소득공제", "양도세 개편 국회", "장특공제 개편"],
+     "must": r"양도세|양도소득세|장기보유|장특|장기거주|세제개편|세법|부동산 세제"},
     {"id": "fed", "section": "미국·국제", "title": "연준 · 미국 금리",
-     "queries": ["연준 기준금리", "FOMC 금리"]},
+     "queries": ["연준 기준금리", "FOMC 금리"],
+     "must": r"연준|금리|FOMC|Fed|파월|워시"},
     {"id": "usdata", "section": "미국·국제", "title": "미국 물가 · 고용",
-     "queries": ["미국 소비자물가지수", "미국 고용지표 비농업"]},
+     "queries": ["미국 소비자물가지수", "미국 고용지표 비농업"],
+     "must": r"물가|CPI|PCE|인플레|고용|일자리|실업"},
     {"id": "crypto", "section": "미국·국제", "title": "가상자산",
-     "queries": ["비트코인 시세", "이더리움", "리플 XRP"]},
+     "queries": ["비트코인 시세", "이더리움", "리플 XRP"],
+     "must": r"비트코인|이더리움|리플|XRP|가상자산|암호화폐|코인"},
     {"id": "trump", "section": "미국·국제", "title": "트럼프",
-     "queries": ["트럼프 관세", "트럼프 행정부"]},
+     "queries": ["트럼프 관세", "트럼프 행정부"],
+     "must": r"트럼프"},
     {"id": "war", "section": "미국·국제", "title": "전쟁 · 국제 분쟁",
-     "queries": ["전쟁 휴전", "중동 전쟁", "우크라이나 전쟁"]},
+     "queries": ["전쟁 휴전", "중동 전쟁", "우크라이나 전쟁"],
+     "must": r"전쟁|휴전|분쟁|공습|교전|침공|미사일|폭격|평화협상|종전"},
 ]
+
+# 제목에 이런 단어가 있으면 스팸·광고로 보고 뺍니다. 이상한 기사가 또 보이면 여기에 단어를 추가하세요.
+BLOCK_WORDS = r"카지노|바카라|슬롯머신|토토사이트|먹튀|보너스 코드|프로모션 코드"
+# 믿기 어려운 출처(언론사 이름)를 여기에 추가하면 그 출처 기사는 모두 빠집니다.
+BLOCK_SOURCES = ["Calgary Roughnecks"]
 PER_TOPIC = 12
 DAYS = 7
 
@@ -281,6 +296,10 @@ def fetch_topic(topic):
             k = norm(n["title"])
             if k in seen:
                 continue
+            if not re.search(topic["must"], n["title"], re.I):
+                continue  # 주제와 관계없는 기사
+            if re.search(BLOCK_WORDS, n["title"]) or n["source"] in BLOCK_SOURCES:
+                continue  # 스팸·광고
             seen.add(k)
             n["tags"] = tag_title(n["title"])
             items.append(n)

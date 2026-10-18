@@ -178,8 +178,10 @@ function renderMarket(data) {
       const date = MONTHLY.has(it.id) ? it.date.slice(0, 7) + "월분" : it.date;
       left.append(el("div", "name", it.name), el("div", "meta", `${date} · ${it.unit}${it.note ? " · " + it.note : ""}`));
       const mid = el("div", "num");
-      const pctPart = it.unit === "%" ? "" : ` (${signed(it.change_pct, 2)}%)`;
-      const chgText = it.unit === "%" ? `${signed(it.change, d)}%p` : signed(it.change, d);
+      const pctPart = it.unit === "%" || it.no_pct ? "" : ` (${signed(it.change_pct, 2)}%)`;
+      const chgText = it.unit === "%" ? `${signed(it.change, d)}%p`
+        : it.no_pct ? `전월보다 ${fmt(Math.abs(it.change), d)}${it.unit} ${it.change >= 0 ? "많음" : "적음"}`
+        : signed(it.change, d);
       mid.append(el("div", "value", fmt(it.value, d) + (it.unit === "%" ? "%" : "")),
                  el("div", "chg " + c, `${arrow(it.change)} ${chgText}${pctPart}`));
       const right = el("div", "spark-cell " + c);
