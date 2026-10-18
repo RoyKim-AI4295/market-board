@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   update:
@@ -28,3 +29,8 @@ jobs:
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
           git add data/
           git diff --staged --quiet || (git commit -m "시세 업데이트 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')" && git pull --rebase && git push)
+      - name: 개편안 알림 보내기
+        if: hashFiles('alert.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "[개편안 알림] 장특공제 개편 관련 새 기사 $(TZ=Asia/Seoul date '+%m/%d %H:%M')" --body-file alert.md
