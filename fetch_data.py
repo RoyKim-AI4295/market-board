@@ -12,11 +12,61 @@ import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import quote
+from zoneinfo import ZoneInfo
 
 import requests
 import yfinance as yf
 
 KST = dt.timezone(dt.timedelta(hours=9))
+NY = ZoneInfo("America/New_York")
+WEEK = "월화수목금토일"
+
+# 미국 시장 항목: 뉴욕 시간과 한국 시간을 함께 표시
+#   "close"    = 뉴욕 정규장 종가(16:00) 기준
+#   "intraday" = 거의 24시간 거래 → 마지막 체결 시각
+US_TIME = {"nasdaq": "close", "sp500": "close",
+           "es_fut": "intraday", "nq_fut": "intraday", "gold_intl": "intraday"}
+# 미국 경제지표 발표 시각 (뉴욕 시간)
+US_RELEASE = {"fed": ("FOMC 결정", 14, 0), "cpi": ("발표", 8, 30),
+              "unrate": ("발표", 8, 30), "payems": ("발표", 8, 30)}
+
+
+def two_clocks(t):
+    """뉴욕 시각 t(aware) → ('10/16(금) 16:00', '10/17(토) 05:00')"""
+    f = lambda x: f"{x.month}/{x.day}({WEEK[x.weekday()]}) {x:%H:%M}"
+    return f(t.astimezone(NY)), f(t.astimezone(KST))
+
+
+def add_us_time(item, ticker):
+    kind = US_TIME.get(item["id"])
+    if not kind:
+        return
+    try:
+        if kind == "close":
+            d = dt.date.fromisoformat(item["date"])
+            t = dt.datetime.combine(d, dt.time(16, 0), NY)
+            item["time_label"] = "뉴욕 종가"
+        else:
+            bars = yf.Ticker(ticker).history(period="5d", interval="5m")
+            t = bars.index[-1].to_pydatetime()
+            if t.tzinfo is None:
+                t = t.replace(tzinfo=NY)
+            item["time_label"] = "최근 체결"
+        item["time_us"], item["time_kr"] = two_clocks(t)
+    except Exception as e:
+        print(f"  ({item['name']} 시각 확인 실패: {e})")
+
+
+def add_release_time(item):
+    rel = US_RELEASE.get(item["id"])
+    if not rel:
+        return
+    label, h, m = rel
+    now_ny = dt.datetime.now(NY)
+    t = now_ny.replace(hour=h, minute=m, second=0, microsecond=0)
+    kr = t.astimezone(KST)
+    next_day = " (다음 날)" if kr.date() > t.date() else ""
+    item["release"] = f"{label} 뉴욕 {t:%H:%M} = 한국 {kr:%H:%M}{next_day}"
 DATA = Path(__file__).parent / "data"
 HISTORY_DAYS = 60
 UA = {"User-Agent": "Mozilla/5.0 (market-board; +https://github.com)"}
@@ -28,6 +78,8 @@ TICKERS = [
     ("kosdaq", "국내 증시", "코스닥", "^KQ11", "pt", 2, 1),
     ("nasdaq", "미국 증시", "나스닥 종합", "^IXIC", "pt", 2, 1),
     ("sp500", "미국 증시", "S&P 500", "^GSPC", "pt", 2, 1),
+    ("es_fut", "선물", "S&P 500 선물 (E-mini)", "ES=F", "pt", 2, 1),
+    ("nq_fut", "선물", "나스닥 100 선물 (E-mini)", "NQ=F", "pt", 2, 1),
     ("gold_intl", "금", "국제 금 (뉴욕 선물)", "GC=F", "달러/온스", 2, 1),
     ("usdkrw", "환율", "원/달러", "KRW=X", "원", 2, 1),
     ("jpykrw", "환율", "원/100엔", "JPYKRW=X", "원", 2, 100),
@@ -45,6 +97,59 @@ CRYPTO = [
 FRED_CSV = "https://fred.stlouisfed.org/graph/fredgraph.csv?id={}"
 
 GOLD_API = "https://apis.data.go.kr/1160100/service/GetGeneralProductInfoService/getGoldPriceInfo"
+
+# 국내 지수 선물: 공공데이터포털 '금융위원회_파생상품시세정보' (하루 1회 갱신, 1영업일 지연)
+FUTURES_API = "https://apis.data.go.kr/1160100/service/GetDerivativeProductInfoService/getFuturesPriceInfo"
+KR_FUTURES = [
+    # (id, 이름, 검색어, 종목명 패턴, 빼야 할 종목명 패턴)
+    ("k200_fut", "코스피200 선물 (최근월물)", "코스피200", r"코스피\s?200", r"미니|옵션|변동성|섹터|위클리|ESG|스프레드|SP"),
+    ("kq150_fut", "코스닥150 선물 (최근월물)", "코스닥150", r"코스닥\s?150", r"미니|옵션|섹터|스프레드|SP"),
+]
+
+
+def pick(d, *keys):
+    for k in keys:
+        if d.get(k) not in (None, ""):
+            return d[k]
+    return None
+
+
+def fetch_kr_future(api_key, id_, name, keyword, include, exclude):
+    begin = (dt.datetime.now(KST) - dt.timedelta(days=90)).strftime("%Y%m%d")
+    rows, page = [], 1
+    while page <= 10:
+        params = {"serviceKey": api_key, "resultType": "json", "numOfRows": 1000, "pageNo": page,
+                  "beginBasDt": begin, "likeItmsNm": keyword}
+        r = requests.get(FUTURES_API, params=params, timeout=30)
+        r.raise_for_status()
+        body = r.json()["response"]["body"]
+        items = body.get("items", {}).get("item", [])
+        if isinstance(items, dict):
+            items = [items]
+        rows += items
+        if len(rows) >= int(body.get("totalCount", 0)) or not items:
+            break
+        page += 1
+    if rows and page == 1:
+        print(f"  ({name} 응답 항목 예시: {list(rows[0].keys())})")
+    by_day = {}
+    for it in rows:
+        nm = str(pick(it, "itmsNm", "isuNm", "prdNm") or "")
+        if not re.search(include, nm) or re.search(exclude, nm):
+            continue
+        day = str(pick(it, "basDt") or "")
+        price = pick(it, "clpr", "clsprc", "stlPrc")
+        vol = float(pick(it, "trqu", "accTrdvol", "trdvol") or 0)
+        if not day or price is None:
+            continue
+        # 같은 날 여러 만기월이 있으면 거래량이 가장 많은 종목(보통 최근월물)을 고름
+        if day not in by_day or vol > by_day[day][1]:
+            by_day[day] = (float(price), vol)
+    if not by_day:
+        raise ValueError(f"{name}: 조건에 맞는 종목 없음 (받은 행 {len(rows)}개)")
+    history = [(f"{d[:4]}-{d[4:6]}-{d[6:]}", v[0]) for d, v in sorted(by_day.items())]
+    return make_item(id_, "선물", name, "pt", 2, history, "한국거래소, 공공데이터포털 (1영업일 지연)",
+                     note="정규장 종가 기준, 야간 거래 미반영")
 
 
 def make_item(id_, group, name, unit, decimals, history, source, note=None, no_pct=False):
@@ -73,7 +178,9 @@ def fetch_yahoo(id_, group, name, ticker, unit, decimals, scale):
     if closes.empty:
         raise ValueError(f"{ticker}: 데이터 없음")
     history = [(i.strftime("%Y-%m-%d"), float(v) * scale) for i, v in closes.items()]
-    return make_item(id_, group, name, unit, decimals, history, f"Yahoo Finance ({ticker})")
+    item = make_item(id_, group, name, unit, decimals, history, f"Yahoo Finance ({ticker})")
+    add_us_time(item, ticker)
+    return item
 
 
 def fetch_crypto(id_, name, upbit_market, yahoo_ticker):
@@ -191,6 +298,13 @@ def update_market():
     except Exception as e:
         keep_old("gold_krx", f"국내 금: {e}")
 
+    if key:
+        for f in KR_FUTURES:
+            try:
+                items[f[0]] = fetch_kr_future(key, *f)
+            except Exception as e:
+                keep_old(f[0], f"{f[1]}: {e}")
+
     for c in CRYPTO:
         try:
             items[c[0]] = fetch_crypto(*c)
@@ -199,11 +313,12 @@ def update_market():
 
     macro, macro_err = fetch_us_macro()
     for m in macro:
+        add_release_time(m)
         items[m["id"]] = m
     for e in macro_err:
         keep_old(e.split()[2].rstrip(":"), e)
 
-    order = ["kospi", "kosdaq", "nasdaq", "sp500", "gold_intl", "gold_krx", "gold_krw_est",
+    order = ["kospi", "kosdaq", "nasdaq", "sp500", "k200_fut", "kq150_fut", "es_fut", "nq_fut", "gold_intl", "gold_krx", "gold_krw_est",
              "usdkrw", "jpykrw", "eurkrw", "btc", "eth", "xrp",
              "fed", "ust10", "cpi", "unrate", "payems"]
     out = {"updated_at": now_kst(), "errors": errors, "items": [items[i] for i in order if i in items]}

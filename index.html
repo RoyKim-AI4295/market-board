@@ -57,6 +57,7 @@
   .name { font-size: .9375rem; }
   .meta { color: var(--muted); font-size: .75rem; margin-top: .15rem; }
   .num { text-align: right; }
+  .meta.when { color: var(--ink); opacity: .75; }
   .value { font-size: 1.5rem; font-weight: 300; letter-spacing: -0.01em; }
   .chg { font-size: .875rem; margin-top: .1rem; }
   .up { color: var(--up); } .down { color: var(--down); } .flat { color: var(--flat); }
@@ -103,6 +104,7 @@
 <main>
   <h1>오늘의 시장 시세</h1>
   <p class="stamp" id="stamp">불러오는 중입니다.</p>
+  <p class="stamp" id="clock"></p>
 
   <section class="panel" id="panel-market" role="tabpanel"><div id="board"></div></section>
 
@@ -176,7 +178,14 @@ function renderMarket(data) {
       const row = el("div", "row");
       const left = el("div");
       const date = MONTHLY.has(it.id) ? it.date.slice(0, 7) + "월분" : it.date;
-      left.append(el("div", "name", it.name), el("div", "meta", `${date} · ${it.unit}${it.note ? " · " + it.note : ""}`));
+      left.append(el("div", "name", it.name));
+      if (it.time_us) {
+        left.append(el("div", "meta when", `${it.time_label} 뉴욕 ${it.time_us} · 한국 ${it.time_kr}`));
+        left.append(el("div", "meta", `${it.unit}${it.note ? " · " + it.note : ""}`));
+      } else {
+        left.append(el("div", "meta", `${date} · ${it.unit}${it.note ? " · " + it.note : ""}`));
+      }
+      if (it.release) left.append(el("div", "meta when", it.release));
       const mid = el("div", "num");
       const pctPart = it.unit === "%" || it.no_pct ? "" : ` (${signed(it.change_pct, 2)}%)`;
       const chgText = it.unit === "%" ? `${signed(it.change, d)}%p`
@@ -259,6 +268,31 @@ function renderNews(news) {
   if (s.items.length) sig.append(newsList(s.items));
 }
 
+/* ---------- 한국·뉴욕 시계 ---------- */
+function clockParts(tz) {
+  const p = Object.fromEntries(new Intl.DateTimeFormat("en-US", {
+    timeZone: tz, weekday: "short", month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hourCycle: "h23"
+  }).formatToParts(new Date()).map((x) => [x.type, x.value]));
+  return p;
+}
+const KWEEK = { Mon: "월", Tue: "화", Wed: "수", Thu: "목", Fri: "금", Sat: "토", Sun: "일" };
+const showClock = (p) => `${p.month}/${p.day}(${KWEEK[p.weekday]}) ${p.hour}:${p.minute}`;
+function usSession(p) {
+  if (p.weekday === "Sat" || p.weekday === "Sun") return "주말 휴장";
+  const m = Number(p.hour) * 60 + Number(p.minute);
+  if (m >= 570 && m < 960) return "정규장 거래 중";
+  if (m >= 240 && m < 570) return "프리마켓";
+  if (m >= 960 && m < 1200) return "애프터마켓";
+  return "장 마감";
+}
+function tickClock() {
+  const kr = clockParts("Asia/Seoul"), ny = clockParts("America/New_York");
+  document.getElementById("clock").textContent =
+    `지금 한국 ${showClock(kr)} · 뉴욕 ${showClock(ny)} · 미국 증시 ${usSession(ny)}`;
+}
+tickClock();
+setInterval(tickClock, 30000);
+
 /* ---------- 탭 ---------- */
 function showTab(name) {
   document.querySelectorAll("nav.tabs button").forEach((b) => b.setAttribute("aria-selected", b.dataset.tab === name ? "true" : "false"));
@@ -286,7 +320,7 @@ async function load() {
   stamp.textContent = parts.length
     ? `마지막 업데이트 ${parts.join(" · ")} (한국 시간)`
     : "데이터 파일을 불러오지 못했습니다. Actions 탭에서 '시세 업데이트'를 한 번 실행해 주세요.";
-  notice.textContent = "시세는 지연되거나 증권사 시세와 조금 다를 수 있습니다. 뉴스 꼬리표는 제목의 단어로 자동 분류한 것이라 틀릴 수 있으니, 중요한 내용은 기사 원문으로 확인하세요.";
+  notice.textContent = "미국 증시 상태는 요일과 시간만으로 계산해서 미국 공휴일은 반영하지 않습니다. 시세는 지연되거나 증권사 시세와 조금 다를 수 있습니다. 뉴스 꼬리표는 제목의 단어로 자동 분류한 것이라 틀릴 수 있으니, 중요한 내용은 기사 원문으로 확인하세요.";
   const errs = (m.value?.errors?.length || 0) + (n.value?.errors?.length || 0);
   if (errs) notice.append(el("span", "error", ` 이번 업데이트에서 ${errs}개 항목을 가져오지 못해 이전 값을 표시합니다.`));
   if (n.status !== "fulfilled") {
