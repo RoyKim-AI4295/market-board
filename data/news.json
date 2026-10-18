@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18 11:55",
+ "updated_at": "2026-10-18 12:21",
  "errors": [],
  "topics": [
   {
@@ -383,6 +383,13 @@
    ],
    "items": [
     {
+     "title": "미국 소비자 물가 이어 생산자 물가도 폭등",
+     "source": "세상을 바꾸는 시민언론 민들레",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IazM1MkhKM0Zpb2RRRVBSbFhJc1AxVEgwZHpkdTJIWkRNM3JuUU9pbWF5UWxSMExBczVvMUtGd1puNVFyVlo0aU91Y2pFUVRnRU9GRzlneEE4Rk9ub1dwMlhDU29fQ2ZfTEpzNg?oc=5",
+     "published": "2026-10-16 15:07",
+     "tags": []
+    },
+    {
      "title": "미국 생산자물가도 급등‥금리 인상 '압력'",
      "source": "MBC 뉴스",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IOWFMTjY0c1lUUFBKOU9fOFlZUG1QRl9VTlg5d1JJSV9jSUg5MV9hdGV5eGd2RVZwVVJwa1J2NEdZY241cl9IVTFQQVM4NmtueW8yc19kbDlTLTdSODJQWHktVnlkMmxhODBHdVdTbkFhMHp5TnV4MdIBeEFVX3lxTE5IOWFMTjY0c1lUUFBKOU9fOFlZUG1QRl9VTlg5d1JJSV9jSUg5MV9hdGV5eGd2RVZwVVJwa1J2NEdZY241cl9IVTFQQVM4NmtueW8yc19kbDlTLTdSODJQWHktVnlkMmxhODBHdVdTbkFhMHp5TnV4MQ?oc=5",
@@ -464,13 +471,6 @@
      "tags": [
       "확정·통과"
      ]
-    },
-    {
-     "title": "미국 물가 재반등… 美 금리 추가 인상 가능성에 국내 증시 부담 확대",
-     "source": "이코리아",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Sd2xnSGNlLTdvU0xqUnNMck1jUFhBSlhPM3lmSUMxd1pORjY5aDQ4Wmt5Wm42d0RfMld3eVhmYjhVYXEydkFsU1F6OGlkUVR2WDc5d3RkRnJBQ0E5Z3FKQVBpT0JHMXFadEExY2R6Zw?oc=5",
-     "published": "2026-10-15 11:20",
-     "tags": []
     }
    ]
   },
@@ -485,9 +485,16 @@
    ],
    "items": [
     {
+     "title": "[오후 시세브리핑] 암호화폐 시장 혼조세… 비트코인 81,708달러, 이더리움 2,413달러",
+     "source": "토큰포스트",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BeWM5TGYyTVpxTUZkWUw4dU0xOHFyazlVb1djMm00WlVWOENkSnNoYXlxSVBSWWxDcVFFcGJzb0xSU1Z2WEpseHV2M3hmWF9JX0h1X1Y4WnA?oc=5",
+     "published": "2026-10-18 12:01",
+     "tags": []
+    },
+    {
      "title": "업비트 비트코인·리플 반등에도 거래대금 7,000억원대 추락…상승 동력 사라졌나?",
      "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PakVRYU51OFhOQkNzaGltUjV4eEw5ck5ncTVVYTh4ekhwWWh0QTNvWWxNWmNKNXJ5ZnM3ZGRaMHBkRW0zbXhFdWdB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wQ0VIZk5TNWxlcXAzWHRDTmdzWUo5cGlHSGd3UzhfZ3pSYjYxa2VUVlBtNWo0bVdDTHBRSzlLNlowX3JteXJybw?oc=5",
      "published": "2026-10-18 10:15",
      "tags": []
     },
@@ -548,24 +555,17 @@
      "tags": []
     },
     {
+     "title": "Zest Protocol (ZEST) 가격, 차트, 시가총액 | 코인마켓캡",
+     "source": "CoinMarketCap",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mVWVTSFN0dFduZGFFbXBoMjQyWjcyelk0R2VnTWpSV0MtV3IyelRFZU5GVjN3RXN6VGRsZW0zT190c09RWk5yQTM3MnQtTDBZaWRSUVd6eXdqaTlRZGRQWEY0b0Q?oc=5",
+     "published": "2026-10-18 00:36",
+     "tags": []
+    },
+    {
      "title": "[자정 시세브리핑] 암호화폐 시장 약세… 비트코인 81,461달러, 이더리움 2,424달러",
      "source": "토큰포스트",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VV3pQTmM1aGRDdk51d1prdG5DRDFGVTFEZDc4eVBnRWg2SEhnN3Bpb1FJb1IzSlhQd3Y4ZVJZbXM1TjgzS1RKbm1NbllnOEFoSnVRZG9id3U?oc=5",
      "published": "2026-10-18 00:03",
-     "tags": []
-    },
-    {
-     "title": "이더리움(ETH) 2,423.35달러, 1.49%↓…청산 여파",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlMkV6aWxDbVlxdjlmS2U0NVFtSnFHQ1VuLWhWcTIzd05JVmxNaDdxVHZVVDZPWjRqZzYzMDB0RGNVRUhzNXR3Nmhn?oc=5",
-     "published": "2026-10-17 22:01",
-     "tags": []
-    },
-    {
-     "title": "리플(XRP), 1.29달러로 3.03% 하락…美 물가 쇼크 여파",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93b21ZS1NiR0ItanlNa2RVV2tvSEhnem5EelJUS055UXk1dmN6Znh1aEQ1cW1ibS12SFdLeV8xZHhDQkVFN0c4V0ZB?oc=5",
-     "published": "2026-10-17 22:00",
      "tags": []
     }
    ]
@@ -580,6 +580,13 @@
    ],
    "items": [
     {
+     "title": "미국 전역서 “‘왕’ 필요없다…트럼프 심판하자” 목소리",
+     "source": "농민신문",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBackgtM3lzWjJMWjVaZ0dGcF9VSjRpd1dLck5aM2RwZlZUVElfUGFQdmRVZVh4bWJrbDBkU0l4LU5TclJiWWd2aG1BM3ZpSWIyMkxFUExiUzZVQQ?oc=5",
+     "published": "2026-10-18 11:53",
+     "tags": []
+    },
+    {
      "title": "2500곳서 \"왕은 없다\" 시위…트럼프 행정부 심판론 확산하는 미국",
      "source": "아시아경제",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fczh4bno2NFRjb1dXZ2xtTXNGSThCSlNESzZCSDZadjNLVGtENU5OcVJBamUtcjRlbDI3WkR1REhrOG54TGROT2ctSHB4QTJPZ0kwTlVYYTJhc0dZY29FLQ?oc=5",
@@ -591,6 +598,20 @@
      "source": "연합뉴스",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52dVJhaDRKY0FxMTBjdElMZjZrU1lhbEdKRTI2eHQ3N3RjOUtMb1gyUXB5MFU0UnJlUkVvMXg0WFpvUnhIcDBnMS15MEpDWHQxVTZXa1oxVlN1TDDSAWBBVV95cUxQR3JlUTl5a2dvTUhWVnNDeU5pbUdwN29vR3l3Vk5mS1pxVWxZRVhWdDdXZDltYUstdFBHV21GVVZFYlgtNzg5ZWVmbjc5WWx6RHBZZm5lY2RnUjVNREhETDM?oc=5",
      "published": "2026-10-18 11:17",
+     "tags": []
+    },
+    {
+     "title": "트럼프 행정부, 우크라 종전 위해 유럽에 러시아산 가스 구매 재개 제안",
+     "source": "아주경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16aVhJR3ZLUnVlWnNWOFFwVF9CbS1GbHFqdzB6c1g1V0VrRjdTZVo0NmliN2JLZnBwZ3dXUl9OVlVuYmZUX3JyN0E4UjlWdjBiQW5WX25pT0pMd9IBWEFVX3lxTFB2YlpyZVFGRmZBb3RCdTQ2MUkzdVUwUllwMlUxaFNiUHVBdUhnVC1kZHhZalZQNHFZRHZ6cVJWUEcyblczWUx1Um5seGlPWXhCTnUwRGZTeFc?oc=5",
+     "published": "2026-10-18 11:16",
+     "tags": []
+    },
+    {
+     "title": "트럼프행정부, MS 취업영주권 중단시켰다…“H-1B 악용” 주장 > 시애틀 뉴스/핫이슈",
+     "source": "SeattleN",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZVXFpMEp1am8zMVFxMDM3QnRwNGRRRExPWnZzbXBFeXhJdkgxd3M0SVEtYWZQa3NKVFhoWmZ0WVZ0d1ZZWnkwYXZn?oc=5",
+     "published": "2026-10-18 10:50",
      "tags": []
     },
     {
@@ -640,27 +661,6 @@
      "source": "경북매일",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xTUljcGFxa1VVRk9CeU5oaFVhWDhMV2NrT3hCRHc4V1lCSzNJUmRKdDBHa0Vwd09sdFBGdWZzcnNVSGQwTFhXV01aajN6Ni01VWNNSmltQVdFZw?oc=5",
      "published": "2026-10-18 09:19",
-     "tags": []
-    },
-    {
-     "title": "'1000억불 흑자' 부메랑 맞은 韓…트럼프 '알래스카 투자' 청구서에 진퇴양난",
-     "source": "www.ebn.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xdFpLVEcteG1Zd3lrRHN4YnRnWHVCMUQ5U2dEVFFrYmFCQW5hTmt4UmF1NEYxVXRDM1E4TGNrRkVDamhsUWFrSlJSaHRXQkl2MnJVbTUyQTRMcFV2cVhlc0tOa3huX05U?oc=5",
-     "published": "2026-10-18 09:08",
-     "tags": []
-    },
-    {
-     "title": "\"투표로 트럼프 심판을\"...미 전역서 '노 킹스' 시위",
-     "source": "KBC광주방송",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EbFhzbk1UQ0VIck9WS0stWk1IczNhLTRGOGQweHB5NmxUeF9qSk9Ob09ETWIyQVh5Q0dQWnJEamVzYURkenVIbEZiU09ZQ25laHFZenBZTzdKQUlPQ0U0Qg?oc=5",
-     "published": "2026-10-18 08:06",
-     "tags": []
-    },
-    {
-     "title": "트럼프, ‘그레이엄법’ 대러 고율관세 전격 면제…“현 시점 국익에 부합”",
-     "source": "뉴스로드",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jRlMzd1Q1SDA5eUkyRWplU0VYdzJJVl9fOTE2SW9zRGNMRWJaR3JtXzV6dlJBQW81YVdOYmFzTWtlUW9WdGR4d1JNZUtITXlKRFM1RW81ei1VT01VcndyZWtOcmQwSFVNVDFr0gFvQVVfeXFMT3BNdHNrNnZ6QlB6X3lCd2l4Rm9Nc1lEdS1kZ1gzUXVxMU1aSG5BUGVBWEtPY1UyeXhQZ0NGVEdBbUV3enR4aGJIbDItX2RIZlhLS3FXNi1PdXJDQUN1dklRZ3NudjFQYjV5elVlMW1Z?oc=5",
-     "published": "2026-10-18 08:00",
      "tags": []
     }
    ]
