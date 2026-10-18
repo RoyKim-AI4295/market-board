@@ -11,25 +11,42 @@
   :root {
     --paper: #f3f5f8; --ink: #17202b; --muted: #687384; --rule: #d9dfe6;
     --up: #d2283c; --down: #1c66e0; --flat: #8a94a3; --row: #ffffff;
+    --chip: #e7ebf0; --mark: #fff1c2; --mark-ink: #6b4e00;
     color-scheme: light;
   }
   @media (prefers-color-scheme: dark) {
     :root {
       --paper: #0f141a; --ink: #e6ebf1; --muted: #8d98a8; --rule: #253040;
       --up: #ff5a68; --down: #5b9bff; --flat: #6f7a8a; --row: #161d26;
+      --chip: #222c38; --mark: #3a3112; --mark-ink: #f3d77a;
       color-scheme: dark;
     }
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; background: var(--paper); color: var(--ink); }
+  html { scroll-padding-top: calc(3.5rem + env(safe-area-inset-top, 0px)); }
   body {
     font-family: "IBM Plex Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
     font-variant-numeric: tabular-nums;
-    padding: env(safe-area-inset-top, 0px) 0 env(safe-area-inset-bottom, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
   }
-  main { max-width: 46rem; margin: 0 auto; padding: 2.5rem 1.25rem 3rem; }
+  main { max-width: 46rem; margin: 0 auto; padding: 2rem 1.25rem 3rem; }
   h1 { font-weight: 300; font-size: clamp(1.9rem, 6vw, 2.6rem); letter-spacing: -0.02em; margin: 0; }
   .stamp { color: var(--muted); font-size: .875rem; margin: .5rem 0 0; }
+
+  nav.tabs {
+    position: sticky; top: 0; z-index: 5; background: var(--paper);
+    padding-top: env(safe-area-inset-top, 0px); border-bottom: 1px solid var(--rule);
+  }
+  nav.tabs .inner { max-width: 46rem; margin: 0 auto; display: flex; gap: .25rem; overflow-x: auto; padding: 0 1rem; }
+  nav.tabs button {
+    font: inherit; font-size: .9375rem; background: none; border: 0; color: var(--muted);
+    padding: .9rem .75rem .8rem; border-bottom: 2px solid transparent; cursor: pointer; white-space: nowrap;
+  }
+  nav.tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--ink); font-weight: 600; }
+  nav.tabs button:focus-visible, .filters button:focus-visible, a:focus-visible { outline: 2px solid var(--down); outline-offset: 2px; }
+  .panel[hidden] { display: none; }
+
   .group { margin-top: 2.25rem; }
   .group h2 { font-size: .9375rem; font-weight: 600; margin: 0 0 .5rem; }
   .rows { background: var(--row); border-top: 2px solid var(--ink); }
@@ -44,6 +61,30 @@
   .chg { font-size: .875rem; margin-top: .1rem; }
   .up { color: var(--up); } .down { color: var(--down); } .flat { color: var(--flat); }
   svg.spark { width: 100%; height: 2.25rem; display: block; overflow: visible; }
+
+  .filters { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: 1.5rem; }
+  .filters button {
+    font: inherit; font-size: .8125rem; border: 1px solid var(--rule); background: var(--row); color: var(--ink);
+    border-radius: 999px; padding: .3rem .75rem; cursor: pointer;
+  }
+  .filters button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .news { list-style: none; margin: 0; padding: 0; background: var(--row); border-top: 2px solid var(--ink); }
+  .news li { padding: .85rem .75rem; border-bottom: 1px solid var(--rule); }
+  .news a { color: var(--ink); text-decoration: none; font-size: .9375rem; line-height: 1.5; }
+  .news a:hover { text-decoration: underline; }
+  .news .meta { margin-top: .3rem; }
+  .tag { display: inline-block; font-size: .6875rem; padding: .05rem .45rem; border-radius: .25rem; background: var(--chip); color: var(--muted); margin-right: .3rem; vertical-align: .1em; }
+  .tag.hot { background: var(--mark); color: var(--mark-ink); font-weight: 600; }
+  .empty { padding: 1rem .75rem; color: var(--muted); font-size: .875rem; background: var(--row); border-top: 2px solid var(--ink); }
+
+  .status { margin-top: 1.75rem; background: var(--row); border-left: 3px solid var(--ink); padding: 1rem 1.1rem; }
+  .status h2 { font-size: 1rem; font-weight: 600; margin: 0 0 .5rem; }
+  .status p, .status li { font-size: .875rem; line-height: 1.65; margin: 0; }
+  .status ul { margin: .4rem 0 0; padding-left: 1.1rem; }
+  .status .small { color: var(--muted); font-size: .75rem; margin-top: .6rem; }
+  .signal { margin-top: .9rem; padding-top: .8rem; border-top: 1px solid var(--rule); }
+  .signal strong { font-weight: 600; }
+
   .notice { margin-top: 2rem; color: var(--muted); font-size: .8125rem; line-height: 1.6; }
   .error { color: var(--up); }
   @media (max-width: 30rem) {
@@ -53,10 +94,37 @@
 </style>
 </head>
 <body>
+<nav class="tabs" aria-label="화면 선택"><div class="inner" role="tablist">
+  <button role="tab" data-tab="market" aria-selected="true">시세</button>
+  <button role="tab" data-tab="law" aria-selected="false">법·노동</button>
+  <button role="tab" data-tab="tax" aria-selected="false">세금</button>
+  <button role="tab" data-tab="world" aria-selected="false">미국·국제</button>
+</div></nav>
 <main>
   <h1>오늘의 시장 시세</h1>
-  <p class="stamp" id="stamp">시세를 불러오는 중입니다.</p>
-  <div id="board"></div>
+  <p class="stamp" id="stamp">불러오는 중입니다.</p>
+
+  <section class="panel" id="panel-market" role="tabpanel"><div id="board"></div></section>
+
+  <section class="panel" id="panel-law" role="tabpanel" hidden></section>
+
+  <section class="panel" id="panel-tax" role="tabpanel" hidden>
+    <div class="status">
+      <h2>장기보유특별공제 10억 한도, 확정됐나요?</h2>
+      <p>아직 정부안 단계로, 국회 심의 중입니다 (2026년 10월 18일 기준).</p>
+      <ul>
+        <li>8월 3일: 정부가 2026년 세제개편안 발표. 보유기간 공제를 단계적으로 없애고 거주기간 중심으로 개편, 공제 한도는 2028년 20억 원, 2029년부터 10억 원</li>
+        <li>9월 초: 입법예고와 국무회의를 거쳐 정기국회에 제출</li>
+        <li>12월까지: 국회 심의 중이며, 이 과정에서 내용이 바뀔 수 있음</li>
+      </ul>
+      <p class="small">위 경과는 Claude가 2026년 10월 18일에 정리한 내용이라 자동으로 바뀌지 않습니다. 아래 자동 감지와 최신 기사로 변화를 확인하세요.</p>
+      <div class="signal" id="ltcg-signal"></div>
+    </div>
+    <div id="tax-news"></div>
+  </section>
+
+  <section class="panel" id="panel-world" role="tabpanel" hidden></section>
+
   <p class="notice" id="notice"></p>
 </main>
 <script>
@@ -64,18 +132,7 @@ const fmt = (x, d) => Number(x).toLocaleString("ko-KR", { minimumFractionDigits:
 const signed = (x, d) => (x > 0 ? "+" : "") + fmt(x, d);
 const dir = (x) => (x > 0 ? "up" : x < 0 ? "down" : "flat");
 const arrow = (x) => (x > 0 ? "▲" : x < 0 ? "▼" : "–");
-
-function spark(history, cls) {
-  const pts = history.slice(-30).map((h) => h.v);
-  if (pts.length < 2) return "";
-  const w = 100, h = 36, min = Math.min(...pts), max = Math.max(...pts), span = max - min || 1;
-  const xy = pts.map((v, i) => [(i / (pts.length - 1)) * w, h - ((v - min) / span) * (h - 4) - 2]);
-  const d = xy.map((p, i) => (i ? "L" : "M") + p[0].toFixed(1) + " " + p[1].toFixed(1)).join(" ");
-  const [lx, ly] = xy[xy.length - 1];
-  return `<svg class="spark ${cls}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-label="최근 30거래일 추이">
-    <path d="${d}" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
-    <circle cx="${lx}" cy="${ly}" r="2.2" fill="currentColor"/></svg>`;
-}
+const MONTHLY = new Set(["cpi", "unrate", "payems"]);
 
 function el(tag, cls, text) {
   const e = document.createElement(tag);
@@ -84,45 +141,155 @@ function el(tag, cls, text) {
   return e;
 }
 
-async function load() {
+function spark(history) {
+  const pts = history.slice(-30).map((h) => h.v);
+  if (pts.length < 2) return "";
+  const w = 100, h = 36, min = Math.min(...pts), max = Math.max(...pts), span = max - min || 1;
+  const xy = pts.map((v, i) => [(i / (pts.length - 1)) * w, h - ((v - min) / span) * (h - 4) - 2]);
+  const d = xy.map((p, i) => (i ? "L" : "M") + p[0].toFixed(1) + " " + p[1].toFixed(1)).join(" ");
+  const [lx, ly] = xy[xy.length - 1];
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">
+    <path d="${d}" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+    <circle cx="${lx}" cy="${ly}" r="2.2" fill="currentColor"/></svg>`;
+}
+
+function timeAgo(s) {
+  const t = new Date(s.replace(" ", "T") + ":00+09:00");
+  const m = Math.round((Date.now() - t) / 60000);
+  if (m < 60) return `${Math.max(m, 1)}분 전`;
+  if (m < 60 * 24) return `${Math.round(m / 60)}시간 전`;
+  return `${Math.round(m / 1440)}일 전`;
+}
+
+/* ---------- 시세 ---------- */
+function renderMarket(data) {
   const board = document.getElementById("board");
-  try {
-    const res = await fetch("data/market.json?t=" + Date.now());
-    if (!res.ok) throw new Error(res.status);
-    const data = await res.json();
-    document.getElementById("stamp").textContent = `마지막 업데이트 ${data.updated_at} (한국 시간)`;
-    const groups = {};
-    data.items.forEach((it) => (groups[it.group] ||= []).push(it));
-    board.textContent = "";
-    for (const [g, items] of Object.entries(groups)) {
-      const sec = el("section", "group");
-      sec.append(el("h2", null, g));
-      const rows = el("div", "rows");
-      items.forEach((it) => {
-        const c = dir(it.change), d = it.decimals ?? 2;
-        const row = el("div", "row");
-        const left = el("div");
-        left.append(el("div", "name", it.name), el("div", "meta", `${it.date} · ${it.unit}`));
-        const mid = el("div", "num");
-        mid.append(el("div", "value", fmt(it.value, d)),
-                   el("div", "chg " + c, `${arrow(it.change)} ${signed(it.change, d)} (${signed(it.change_pct, 2)}%)`));
-        const right = el("div", "spark-cell " + c);
-        right.innerHTML = spark(it.history || [], c);
-        right.title = it.source;
-        row.append(left, mid, right);
-        rows.append(row);
+  const groups = {};
+  data.items.forEach((it) => (groups[it.group] ||= []).push(it));
+  board.textContent = "";
+  for (const [g, items] of Object.entries(groups)) {
+    const sec = el("section", "group");
+    sec.append(el("h2", null, g));
+    const rows = el("div", "rows");
+    items.forEach((it) => {
+      const c = dir(it.change), d = it.decimals ?? 2;
+      const row = el("div", "row");
+      const left = el("div");
+      const date = MONTHLY.has(it.id) ? it.date.slice(0, 7) + "월분" : it.date;
+      left.append(el("div", "name", it.name), el("div", "meta", `${date} · ${it.unit}${it.note ? " · " + it.note : ""}`));
+      const mid = el("div", "num");
+      const pctPart = it.unit === "%" ? "" : ` (${signed(it.change_pct, 2)}%)`;
+      const chgText = it.unit === "%" ? `${signed(it.change, d)}%p` : signed(it.change, d);
+      mid.append(el("div", "value", fmt(it.value, d) + (it.unit === "%" ? "%" : "")),
+                 el("div", "chg " + c, `${arrow(it.change)} ${chgText}${pctPart}`));
+      const right = el("div", "spark-cell " + c);
+      right.innerHTML = spark(it.history || []);
+      right.title = it.source;
+      row.append(left, mid, right);
+      rows.append(row);
+    });
+    sec.append(rows);
+    board.append(sec);
+  }
+}
+
+/* ---------- 뉴스 ---------- */
+const HOT = new Set(["판결", "확정·통과", "10억 한도"]);
+
+function newsList(items) {
+  if (!items.length) return el("div", "empty", "최근 7일 안에 해당하는 기사가 없습니다.");
+  const ul = el("ul", "news");
+  items.forEach((n) => {
+    const li = el("li");
+    li.dataset.tags = n.tags.join(",");
+    const a = el("a");
+    a.href = n.link; a.target = "_blank"; a.rel = "noopener";
+    n.tags.forEach((t) => a.append(el("span", "tag" + (HOT.has(t) ? " hot" : ""), t)));
+    a.append(document.createTextNode(n.title));
+    li.append(a, el("div", "meta", `${n.source} · ${timeAgo(n.published)}`));
+    ul.append(li);
+  });
+  return ul;
+}
+
+function renderTopics(container, topics, filterTags) {
+  container.textContent = "";
+  if (filterTags) {
+    const bar = el("div", "filters");
+    bar.setAttribute("role", "group");
+    bar.setAttribute("aria-label", "기사 꼬리표로 거르기");
+    ["전체", ...filterTags].forEach((t, i) => {
+      const b = el("button", null, t);
+      b.setAttribute("aria-pressed", i === 0 ? "true" : "false");
+      b.addEventListener("click", () => {
+        bar.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", x === b ? "true" : "false"));
+        container.querySelectorAll(".news li").forEach((li) => {
+          li.hidden = t !== "전체" && !li.dataset.tags.split(",").includes(t);
+        });
       });
-      sec.append(rows);
-      board.append(sec);
-    }
-    const notice = document.getElementById("notice");
-    notice.textContent = "오른쪽 선은 최근 30거래일 추이입니다. 시세는 평일 오후 3시 40분과 오전 6시 30분쯤 자동으로 업데이트되며, 지연되거나 증권사 시세와 조금 다를 수 있습니다.";
-    if (data.errors && data.errors.length) {
-      const e = el("span", "error", ` 이번 업데이트에서 ${data.errors.length}개 항목을 가져오지 못해 이전 값을 표시합니다.`);
-      notice.append(e);
-    }
-  } catch (err) {
-    document.getElementById("stamp").textContent = "시세 파일(data/market.json)을 불러오지 못했습니다. Actions 탭에서 '시세 업데이트'를 한 번 실행해 주세요.";
+      bar.append(b);
+    });
+    container.append(bar);
+  }
+  topics.forEach((t) => {
+    const sec = el("section", "group");
+    sec.id = "topic-" + t.id;
+    sec.append(el("h2", null, t.title), newsList(t.items));
+    container.append(sec);
+  });
+}
+
+function renderNews(news) {
+  const by = (s) => news.topics.filter((t) => t.section === s);
+  renderTopics(document.getElementById("panel-law"), by("법·노동"), ["판결", "법 개정", "확정·통과"]);
+  renderTopics(document.getElementById("tax-news"), by("세금"), ["10억 한도", "법 개정", "확정·통과"]);
+  renderTopics(document.getElementById("panel-world"), by("미국·국제"), null);
+
+  const sig = document.getElementById("ltcg-signal");
+  sig.textContent = "";
+  const s = news.ltcg_signal || { count: 0, items: [] };
+  const p = el("p");
+  p.append(el("strong", null, "자동 감지: "));
+  p.append(document.createTextNode(s.count
+    ? `최근 7일 기사 중 '10억'과 '통과·의결·확정' 같은 표현이 함께 나온 제목이 ${s.count}건 있어요. 실제 확정인지 기사 원문으로 확인하세요.`
+    : "최근 7일 기사 제목에서 '10억 한도'와 '국회 통과·확정'이 함께 나온 기사는 없습니다."));
+  sig.append(p);
+  if (s.items.length) sig.append(newsList(s.items));
+}
+
+/* ---------- 탭 ---------- */
+function showTab(name) {
+  document.querySelectorAll("nav.tabs button").forEach((b) => b.setAttribute("aria-selected", b.dataset.tab === name ? "true" : "false"));
+  document.querySelectorAll(".panel").forEach((p) => (p.hidden = p.id !== "panel-" + name));
+  history.replaceState(null, "", "#" + name);
+}
+document.querySelectorAll("nav.tabs button").forEach((b) => b.addEventListener("click", () => showTab(b.dataset.tab)));
+const start = location.hash.slice(1);
+if (["market", "law", "tax", "world"].includes(start)) showTab(start);
+
+/* ---------- 불러오기 ---------- */
+async function getJSON(path) {
+  const r = await fetch(path + "?t=" + Date.now());
+  if (!r.ok) throw new Error(r.status);
+  return r.json();
+}
+
+async function load() {
+  const notice = document.getElementById("notice");
+  const stamp = document.getElementById("stamp");
+  const [m, n] = await Promise.allSettled([getJSON("data/market.json"), getJSON("data/news.json")]);
+  const parts = [];
+  if (m.status === "fulfilled") { renderMarket(m.value); parts.push(`시세 ${m.value.updated_at}`); }
+  if (n.status === "fulfilled") { renderNews(n.value); parts.push(`뉴스 ${n.value.updated_at}`); }
+  stamp.textContent = parts.length
+    ? `마지막 업데이트 ${parts.join(" · ")} (한국 시간)`
+    : "데이터 파일을 불러오지 못했습니다. Actions 탭에서 '시세 업데이트'를 한 번 실행해 주세요.";
+  notice.textContent = "시세는 지연되거나 증권사 시세와 조금 다를 수 있습니다. 뉴스 꼬리표는 제목의 단어로 자동 분류한 것이라 틀릴 수 있으니, 중요한 내용은 기사 원문으로 확인하세요.";
+  const errs = (m.value?.errors?.length || 0) + (n.value?.errors?.length || 0);
+  if (errs) notice.append(el("span", "error", ` 이번 업데이트에서 ${errs}개 항목을 가져오지 못해 이전 값을 표시합니다.`));
+  if (n.status !== "fulfilled") {
+    ["panel-law", "tax-news", "panel-world"].forEach((id) =>
+      document.getElementById(id).append(el("div", "empty", "뉴스는 다음 자동 업데이트 후에 표시됩니다.")));
   }
 }
 load();
