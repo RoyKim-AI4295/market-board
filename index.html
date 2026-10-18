@@ -86,6 +86,10 @@
   .signal { margin-top: .9rem; padding-top: .8rem; border-top: 1px solid var(--rule); }
   .signal strong { font-weight: 600; }
 
+  .lawalert { margin-top: 1.25rem; background: var(--mark); color: var(--mark-ink); padding: .9rem 1rem; border-left: 3px solid var(--mark-ink); font-size: .875rem; line-height: 1.6; }
+  .lawalert strong { font-weight: 600; }
+  .lawalert ul { margin: .4rem 0 0; padding-left: 1.1rem; }
+  .lawalert a { color: inherit; }
   .notice { margin-top: 2rem; color: var(--muted); font-size: .8125rem; line-height: 1.6; }
   .error { color: var(--up); }
   @media (max-width: 30rem) {
@@ -105,6 +109,7 @@
   <h1>오늘의 시장 시세</h1>
   <p class="stamp" id="stamp">불러오는 중입니다.</p>
   <p class="stamp" id="clock"></p>
+  <div class="lawalert" id="lawalert" hidden></div>
 
   <section class="panel" id="panel-market" role="tabpanel"><div id="board"></div></section>
 
@@ -310,10 +315,32 @@ async function getJSON(path) {
   return r.json();
 }
 
+function renderLawAlert(w) {
+  const box = document.getElementById("lawalert");
+  const alerts = (w.alerts || []).slice().reverse();
+  if (!alerts.length) { box.hidden = true; return; }
+  box.textContent = "";
+  const p = el("p");
+  p.style.margin = "0";
+  p.append(el("strong", null, "장특공제 개편안에 변화가 있을 수 있어요. "),
+    document.createTextNode("최근 2주 안에 국회 통과나 수정 관련 기사가 감지됐습니다. 확인 후 Claude 채팅에 붙여넣으면 매도시점 시뮬레이터를 업데이트할 수 있어요."));
+  const ul = el("ul");
+  alerts.slice(0, 5).forEach((a) => {
+    const li = el("li");
+    const link = el("a", null, a.title);
+    link.href = a.link; link.target = "_blank"; link.rel = "noopener";
+    li.append(el("strong", null, `[${a.kind}] `), link, document.createTextNode(` (${a.source}, ${timeAgo(a.published)})`));
+    ul.append(li);
+  });
+  box.append(p, ul);
+  box.hidden = false;
+}
+
 async function load() {
   const notice = document.getElementById("notice");
   const stamp = document.getElementById("stamp");
-  const [m, n] = await Promise.allSettled([getJSON("data/market.json"), getJSON("data/news.json")]);
+  const [m, n, w] = await Promise.allSettled([getJSON("data/market.json"), getJSON("data/news.json"), getJSON("data/law_watch.json")]);
+  if (w.status === "fulfilled") renderLawAlert(w.value);
   const parts = [];
   if (m.status === "fulfilled") { renderMarket(m.value); parts.push(`시세 ${m.value.updated_at}`); }
   if (n.status === "fulfilled") { renderNews(n.value); parts.push(`뉴스 ${n.value.updated_at}`); }

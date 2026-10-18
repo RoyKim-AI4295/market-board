@@ -339,7 +339,8 @@ TOPICS = [
      "queries": ["노란봉투법", "노조법 2조 3조 개정", "노란봉투법 판결"],
      "must": r"노란봉투|노조법|노동조합법|원청|하청|교섭"},
     {"id": "ltcg", "section": "세금", "title": "양도세 · 장기보유특별공제 개편",
-     "queries": ["장기보유특별공제 한도 10억", "장기거주소득공제", "양도세 개편 국회", "장특공제 개편"],
+     "queries": ["장기보유특별공제 한도 10억", "장기거주소득공제", "양도세 개편 국회", "장특공제 개편",
+                 "소득세법 개정안 본회의", "장기보유특별공제 국회 수정"],
      "must": r"양도세|양도소득세|장기보유|장특|장기거주|세제개편|세법|부동산 세제"},
     {"id": "fed", "section": "미국·국제", "title": "연준 · 미국 금리",
      "queries": ["연준 기준금리", "FOMC 금리"],
@@ -448,6 +449,59 @@ def update_news():
         print("  -", e)
 
 
+# ───────────────────────── 3. 개편안 감시 ─────────────────────────
+# 장특공제 개편안이 국회에서 통과되거나 수정됐다는 기사가 새로 나오면 알림을 만듭니다.
+WATCH_PASS = (r"본회의|국회 통과|국회통과|가결|의결|공포",
+              r"장특|장기보유|장기거주|양도세|양도소득세|소득세법|세법 개정|세법개정|세제개편|부동산 세제")
+WATCH_CHANGE = (r"수정안|수정|유예|축소|완화|철회|여야 합의|합의",
+                r"장특|장기보유|장기거주|공제 한도|10억")
+ALERT_DAYS = 14  # 대시보드 안내를 띄워 두는 기간
+
+
+def classify(title):
+    if re.search(WATCH_PASS[0], title) and re.search(WATCH_PASS[1], title):
+        return "국회 통과·의결"
+    if re.search(WATCH_CHANGE[0], title) and re.search(WATCH_CHANGE[1], title):
+        return "내용 수정·유예"
+    return None
+
+
+def update_law_watch():
+    news_path, path = DATA / "news.json", DATA / "law_watch.json"
+    if not news_path.exists():
+        return
+    ltcg = next((t for t in json.loads(news_path.read_text(encoding="utf-8"))["topics"] if t["id"] == "ltcg"), None)
+    if not ltcg:
+        return
+    first_run = not path.exists()
+    state = {"seen": [], "alerts": []} if first_run else json.loads(path.read_text(encoding="utf-8"))
+    seen = set(state["seen"])
+    new = []
+    for n in ltcg["items"]:
+        key = norm(n["title"])
+        if key in seen:
+            continue
+        seen.add(key)
+        kind = classify(n["title"])
+        if kind and not first_run:  # 처음 실행 때는 기존 기사를 '이미 본 것'으로만 기록
+            new.append({**n, "kind": kind, "found": now_kst()})
+
+    cutoff = (dt.datetime.now(KST) - dt.timedelta(days=ALERT_DAYS)).strftime("%Y-%m-%d %H:%M")
+    alerts = [a for a in state["alerts"] if a["found"] >= cutoff] + new
+    state = {"updated_at": now_kst(), "seen": sorted(seen)[-2000:], "alerts": alerts[-30:]}
+    path.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"[개편안 감시] 새 알림 {len(new)}건, 표시 중 {len(alerts)}건")
+
+    if new:  # GitHub 이슈(이메일 알림)로 보낼 내용
+        owner = os.environ.get("GITHUB_REPOSITORY_OWNER", "")
+        lines = [f"@{owner} 장기보유특별공제 개편안 관련 새 기사가 감지됐어요.", "",
+                 "기사를 확인하고 내용이 바뀌었다면 Claude 채팅에 붙여넣어 시뮬레이터 업데이트를 요청하세요.", ""]
+        for a in new:
+            lines.append(f"- **[{a['kind']}]** [{a['title']}]({a['link']}) ({a['source']}, {a['published']})")
+        lines += ["", "_제목의 단어로 자동 감지한 것이라 실제 통과·수정이 아닐 수 있어요._"]
+        Path("alert.md").write_text("\n".join(lines), encoding="utf-8")
+
+
 def now_kst():
     return dt.datetime.now(KST).strftime("%Y-%m-%d %H:%M")
 
@@ -456,3 +510,4 @@ if __name__ == "__main__":
     DATA.mkdir(exist_ok=True)
     update_market()
     update_news()
+    update_law_watch()
