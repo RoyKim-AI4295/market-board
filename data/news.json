@@ -1,0 +1,794 @@
+{
+ "updated_at": "2026-10-18 11:25",
+ "errors": [],
+ "topics": [
+  {
+   "id": "sapa",
+   "section": "법·노동",
+   "title": "중대재해처벌법",
+   "queries": [
+    "중대재해처벌법",
+    "중대재해법 판결",
+    "중대재해처벌법 개정"
+   ],
+   "items": [
+    {
+     "title": "[단독-중대재해 리포트 ⑤] ‘집행유예’ 선고되면 검찰은 항소 포기했다",
+     "source": "매일노동뉴스",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56R283X1kwSnlVU3pMR3dFLXRKWWhrT0JKQ2txSUpIbDR2TTV2b0Nkc2xRSmhqRmExM1A1RnRBMm5fcDNiS1Vra1hVS2NwZFJQQTVPQS1TNU90YXFCSEUxeDllcW1sUFQzNlNaS1dka1U?oc=5",
+     "published": "2026-10-17 14:32",
+     "tags": [
+      "판결"
+     ]
+    },
+    {
+     "title": "[2026 노동 국감] 개정 노조법 현장 혼란 더하나? ‘아니다’",
+     "source": "참여와혁신",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwUUY1bGRXOUF1c3NmZmMxdDIxczVNNGNCSkhFdWY3WjVIS20tcG9HWUo1ODBrR3lwS3kybmVSenFaaDVUM21say1JcHVQc1dQRFUycHc5dzRZeTlLNTVfWUhSVkJhbnRBeUFNcjhn?oc=5",
+     "published": "2026-10-16 22:55",
+     "tags": [
+      "법 개정"
+     ]
+    },
+    {
+     "title": "중대재해 경영책임자 39명 중 실형은 1명…형 확정 사업장 37곳 공개",
+     "source": "세이프티퍼스트닷뉴스",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZRlY5TlQ0amR0NVNwU2h0NXRKV1RJOXNSdm1qNTQtV21NTGVweDFlcl85MDloMGhoaWlVbjBiM2Z6Y2hOSnZwM0hrNUtFQ093M0tqRUhWcENDRE1xelEwVGZ5MDFpRFAtUDZDUjBLdw?oc=5",
+     "published": "2026-10-16 16:48",
+     "tags": [
+      "확정·통과"
+     ]
+    },
+    {
+     "title": "고용노동부, ‘근로자 4명 사상’ 영풍 석포제련소 중대산업재해 명단에 올려",
+     "source": "유교신문",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uRTZ4VG5jWkJHeG9zRVRZUjlOelJQYWFhdF9wX3p6MGJkSjZlSDJRNGxUV1FvY1p4NjM2bWt1bDRDV3NaVm5lamVrRnVKZk9Ramt0QWJ0aGFLaVRfQ0E?oc=5",
+     "published": "2026-10-16 13:57",
+     "tags": []
+    },
+    {
+     "title": "영풍 석포제련소, 중대재해 사업장 명단 포함…유해가스 사고 재조명",
+     "source": "민주신문",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43ay1zUmxrYVNGbVVPbFJ6NmJLTXpKSzFOYXRYOHE0d0syTlJpdldzOXItQkRJZElheEZucDN2VE9YT3NnQmdoemVNUGxUUEZrUFVERy1BZHIyd24xVHhLTnRlOUlacHdh0gFrQVVfeXFMTzloeHJYSUNxWGRkZUQyeHJOb2hxVXRSZmhqdGdXeURfR1JTVHRMZlhKRkFpSHJBTGJFRFBzdTlLLWh1WTVmMDJnMUtTd2poSm1iWDREY2lwTHdjV2NZRnVGb2RzYWhyT1BhakE?oc=5",
+     "published": "2026-10-16 13:49",
+     "tags": []
+    },
+    {
+     "title": "중대재해처벌법 위반 사업장 37곳 공개…경영책임자 39명 형 확정",
+     "source": "포커스경제",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MYTF3eGxRMWMxN2tGOXVhYTVmT0t1dmZfd3VkVjlTbkNqd24zUUtDNmlEZVo1QUdXVVd6Qi1OZUlPa3RBR0tRQUxJX2czQ05rSElRVjlBcHhDMm9FTUNpSU9JODBlcWQ0b0VadTZn?oc=5",
+     "published": "2026-10-16 12:28",
+     "tags": [
+      "확정·통과"
+     ]
+    },
+    {
+     "title": "[로펌을만나다] 이동훈 바른 대표 \"복잡해진 기업 리스크, 선제적 식별해야\"",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRdVN5VW5Qc015bmw3Vk1xaTJCSUxUSzNPNlVlMGlBTmM5V25JcGxOUTRxQzhKbkdYUVNTRVMzU3FvVEZ1OVBtSGE1NXJNN0FXZE1oZ1JHN0hVczDSAWBBVV95cUxQd1dxendrOHFadGpFS3MtNm00MjFIMUUwOE9Bb3ZiM0xkYkFLS0ltbktmVUVkTDRnQ0hCZUhDeVZ4Q2JsNHE0MmtQdFNBUzBFOTNyelJFNV9ZZXgzQ2hseDY?oc=5",
+     "published": "2026-10-16 09:00",
+     "tags": []
+    },
+    {
+     "title": "'4명 사상' 영풍 석포제련소, 중대산업재해 사업장 명단에",
+     "source": "한국금융신문",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpZkpnckNxclljVWRUZnk2dENNdlpBXzhNeGdhakQzN1NKM3pHVVJfeUJ6bGZJNTJqdkx1RFNZaHdvSThXaWlYc2l6RkhLZ2Y4NFF1aFNPYWloa0ZqLVJPTlg2QTg4R2tKRng4SVhYT2pvQVhDcERSajE4Y0U?oc=5",
+     "published": "2026-10-16 08:54",
+     "tags": []
+    },
+    {
+     "title": "군위군, 2026년 하반기 중대재해예방 인식제고 교육 실시",
+     "source": "프라임경북뉴스",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oZ0FRWDB5bjNoaFprUlRwaEh6VmktVzY5a2FRbzh2NXFSU3FYb2x1SkZFc1ZvaTVVVmxjbWFCOVR2czZBMHB3REpiS28xNEs3WHA4M2l4LXVHM25rb2w1NG9yTS16VVhocjhlNXd3WQ?oc=5",
+     "published": "2026-10-16 08:49",
+     "tags": []
+    },
+    {
+     "title": "노동부, 영풍 석포제련소 등 중대재해 사업장 37곳 공표",
+     "source": "지디넷코리아",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMMkJULWJBWWNyS0JjV2Z1RHp4dXNaWnowNnVFcGN1T2JwMk4yYWJmZ3VyaWRGVkdSTFdONUZDTHlQWFh0b01kdk9PMC1QMU1BSmFHWTdR?oc=5",
+     "published": "2026-10-16 08:33",
+     "tags": []
+    },
+    {
+     "title": "석포제련소,‘중대산업재해 사업장’ 명단에",
+     "source": "비즈워치",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GNVFwOVVnSkprM05nN1VUMENlRnI4NjNVRWtCa01XZzg1Xzl6ZHJ2UWFROGxKVTZsa2hhLTNRbGNtYUw2T3MwemZEeE1QSFBMRlF1cWtIYU41X05neHFMd0FMWU1PWjZLSTVDZw?oc=5",
+     "published": "2026-10-16 08:12",
+     "tags": []
+    },
+    {
+     "title": "중대재해 사업장 37곳 공표, 실형 단 1명뿐",
+     "source": "매일노동뉴스",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ua2JVbnFkTG9IV3dENm9XM0J0YXpGSGNqUVhyUk9FcXZvYjhzVTB3UEhBMl9JUkg0bWFpTlBVQ3FhMEI4Z0xyQm03cWtwdzl2Ym4tb1ZpX3p2NHBsR2Zta3BBVnVudFpVM0J5SlNkMms?oc=5",
+     "published": "2026-10-16 06:30",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "yellow",
+   "section": "법·노동",
+   "title": "노란봉투법 (노조법 2·3조)",
+   "queries": [
+    "노란봉투법",
+    "노조법 2조 3조 개정",
+    "노란봉투법 판결"
+   ],
+   "items": [
+    {
+     "title": "노란봉투법 첫 노동부 국감…교섭요구 원청 456곳 중 102곳만 교섭",
+     "source": "ISSUE ON (이슈온)",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IbElJV3p4Nm1uWFFFalFUZThHejlIU3Y0NGxsdFNzbnpFbGxBOEFwQWtHZzU5WjhhT3JKUUZZTklITmh3WmlaR0pyTVFza09Kbml4aGwyY1Bha1FVeFFWVDBWcnRnbnhnZEY0?oc=5",
+     "published": "2026-10-17 09:36",
+     "tags": []
+    },
+    {
+     "title": "노란봉투법 교섭 첫발 뗀 경남도·창원시…광역단체는 첫 사례",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lbWtJU0hnaWowd3M2TjVhbjJzU3FnS0VzVTdZMnNWTERfUFlIRXJndUV1b0lDUmI1OWNoZGRYRTdNSE9EaWJNZFNUdTdlQU9pU1cyTTJqemVicTDSAWBBVV95cUxQZExCRk01UUhWd0NjVXhHV0JnTE9GaWJGZVBJMm9CYjVxUndZOER5NmNHSzl6V053NTd3MU1PZG5EaXJfVVdfeDhGckFVR1Q4SUp6bEtxVEF6SGF3UHJkZTY?oc=5",
+     "published": "2026-10-17 07:45",
+     "tags": []
+    },
+    {
+     "title": "노란봉투법 시행 7개월, 사건 631건 중 미처리 8%…안호영 의원 “교섭 대란 주장과 달라”",
+     "source": "월드장애인사랑뉴스",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DdDdKMXBlX3NfekpmdzJGNEVzM1BDWGpUdWJUMW5zNWhSaWotQ2N6ZTRiSE92YnVkbXFhS0FSVV9WNjRxdjRGTXhpdktGNU1Na181V0EtcVBidVNjWTk4aS16MFUyVkdCdlh0Yko0bw?oc=5",
+     "published": "2026-10-16 20:06",
+     "tags": [
+      "확정·통과"
+     ]
+    },
+    {
+     "title": "노란봉투법 옹호한 중노위원장, \"반대로는 왜 생각 못하나?\"",
+     "source": "이데일리",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHJCeENKYWlrWUtIQVUxSUpFTUM1ajJzQlhzR2llVnlwRXF6MUZwcXhyekJqZVFDcnBHTlRFUkhyQTFsMm9sSTd5ZVlDRmZTZkpVc1J3LVBZQnRrZk5KcTdIZG5SUnFxaHdnOFFxLW1yWl93ZTFvYXRrX3AtMmJQcQ?oc=5",
+     "published": "2026-10-16 19:40",
+     "tags": []
+    },
+    {
+     "title": "[2026국감-환노위] 민주노총 복귀 불발에 경사노위 대표성 도마…노란봉투법 두고 여야 '격돌'",
+     "source": "폴리뉴스 Polinews",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSGRzUDE3dTd6RWwzVWxNNWZLQ2NrcUtDbElDSnNtcjVTemhvZ3hCOS1RMG5iS2JBNFN4VjcyQXR2TlRvbHlZMEdkeEVJTHJSSnV2N3YybVpPejQzcGFuWHlYQXlIWlNIaTBtTFln?oc=5",
+     "published": "2026-10-16 19:31",
+     "tags": []
+    },
+    {
+     "title": "여야, 노란봉투법 시행 7개월 평가 엇갈려…'삼성·SK' 증인 채택 신경전도",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jNmxCTV92TV9XVjF3QXFFRVdxX3RQbTJyWjBPMUhGS0w5elh5VG1HY3ZhZ1ctczBvU3ZsY3dKUjJXOUExNUpwNHBBMHFyQWlOajNPSnNfdHRNYVRMMkRha095c3o4VUU1LVJkUFpnajdkc1dBR21xa9IBeEFVX3lxTE9jNmxCTV92TV9XVjF3QXFFRVdxX3RQbTJyWjBPMUhGS0w5elh5VG1HY3ZhZ1ctczBvU3ZsY3dKUjJXOUExNUpwNHBBMHFyQWlOajNPSnNfdHRNYVRMMkRha095c3o4VUU1LVJkUFpnajdkc1dBR21xaw?oc=5",
+     "published": "2026-10-16 18:31",
+     "tags": [
+      "확정·통과"
+     ]
+    },
+    {
+     "title": "'노란봉투법' 변호 나선 중노위원장…\"현장 혼란 침소봉대\"(종합)",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xdmhiVU5WSzA2dy1LbjJ4VVFWMXhWQ2dncGhYVjlMRlppV2JYeUVLN243ZHFVSm9tR2tiVFVURHBiUTZPTllvVXFuTGpKaE5TczVfRHA2TVdMYl8xQVpXMXVuZHAycWozalFZdV8wdEpQZVV3QjVPV9IBeEFVX3lxTE0xdmhiVU5WSzA2dy1LbjJ4VVFWMXhWQ2dncGhYVjlMRlppV2JYeUVLN243ZHFVSm9tR2tiVFVURHBiUTZPTllvVXFuTGpKaE5TczVfRHA2TVdMYl8xQVpXMXVuZHAycWozalFZdV8wdEpQZVV3QjVPVw?oc=5",
+     "published": "2026-10-16 18:28",
+     "tags": []
+    },
+    {
+     "title": "중노위 \"공공기관 지방 이전 노란봉투법상 노사교섭 사안\"",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40Q0ZTMUF6SDcza1NlNUJXMlBNc3d6MGdrejRoOXdKbFdCbVNDbklNeFpjY3hEMWw3LThRY2tQWFRIeV9qbFpsSkVnZU9DaHVtajhuVS1tV3dBZw?oc=5",
+     "published": "2026-10-16 18:22",
+     "tags": []
+    },
+    {
+     "title": "중노위원장 \"공공기관 지방 이전·통폐합, 노조법상 교섭 대상\"",
+     "source": "연합뉴스TV",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMNjVOajMtaU10MDdjbVdDQmVSb2k1QUdZUjZMX3hXRUNPc28xZHFUZzUtdFh1WkZGZmhrQlhSZDRSWDZiVjJiMkkyc0ZobmtyemlOODRMQVRLN3JpcWVDUThlb0RUOHc?oc=5",
+     "published": "2026-10-16 18:12",
+     "tags": []
+    },
+    {
+     "title": "박수근 중노위 위원장 \"공공기관 이전·통폐합, 노란봉투법상 교섭 대상 가능\"",
+     "source": "MBC 뉴스",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uVUJubi02YVlFSWVhWXQyLVhUdEJsbTFJVEo1bjF2NEhqUnhvWktVOExzMFpMRTZOWGZrVmdHQWlULUdLeU5ET09JYXI0d1phdUdRWUo5TVVoWW1oblFYX2ZCNDloQk9TbGZUYnpRR2xkbDllc2Ew0gF3QVVfeXFMTlBiWk45SXVxdmRSOGd6LXYyVkd4N3NkdzRxaUJmcXFFQU1kczJ0OVF0eVBPaERCRDZTZ1BWTzBHcGhWbkNucy1jUmFuSElvaXJJNWZGYmNpYzZvVTJOZ3F1UDhkSzBEZkJkbEdlQ2N0d01zd2pHSG8?oc=5",
+     "published": "2026-10-16 17:43",
+     "tags": []
+    },
+    {
+     "title": "중노위원장, 뒤집힌 ‘노란봉투법 모태 사건’에 “대법원 상황 영향 미쳐”",
+     "source": "서울경제",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JZ29vWnhteWNoZFYyN2RiNXRCakNVMng4OHdSc3ZUS2UyMklRVmJZMWNWOGpjcGRVV0NpRkV6NnJBOHQ5UkxOYmw3T1lVajd1VlHSAVNBVV95cUxQbl9hcUZ6UUlsaXotbFdVZmppZ2ZWcjFhRzRuLUJKSV8tOVVnNVFIWWVGVTl6RnJxZk1TcGhlY0Q1OWlRVEZjeGYwNW44WVd0S1NCSQ?oc=5",
+     "published": "2026-10-16 17:36",
+     "tags": [
+      "판결"
+     ]
+    },
+    {
+     "title": "중노위원장 \"공공기관 지방이전·통폐합, 노조법상 교섭 대상\"(종합)",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwTTNhRE9fY1VDR1V1T2VEdWtTaDl1SURwRHF0S3o0UmNtQk13QmwzejZnZlNEbWpjS0Q2MDBJM3lzdm5XLWthRHZzWXUzWWMtNXpsVHYzcEZWR2NYZURocdIBYEFVX3lxTFBwTTNhRE9fY1VDR1V1T2VEdWtTaDl1SURwRHF0S3o0UmNtQk13QmwzejZnZlNEbWpjS0Q2MDBJM3lzdm5XLWthRHZzWXUzWWMtNXpsVHYzcEZWR2NYZURocQ?oc=5",
+     "published": "2026-10-16 17:20",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "ltcg",
+   "section": "세금",
+   "title": "양도세 · 장기보유특별공제 개편",
+   "queries": [
+    "장기보유특별공제 한도 10억",
+    "장기거주소득공제",
+    "양도세 개편 국회",
+    "장특공제 개편"
+   ],
+   "items": [
+    {
+     "title": "현재 단계가 헷갈릴 때 보는 새로 생긴 카지노 부지 상태 안내",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZub2xwem5wbEs1Mk1SMkhNNF9GdnlUYUtrNWc2eDRiY3JGQ1RsWkNvMmctOUI2U2JWLXpFaGhaSUw4blE1eEkzczB3V3RzNWlNZ3pZVzJnTUVReUVvYlUyWHBIREUtOGt5Q1ZmeFNOaVphUnF0QTdIazEyU2dseVlOZk1XeEs0QUxfQkxRUFlLWGllbThrZFpUMS00RDNDd0x4X09vZGRybWxsZ2RsQzRURDM?oc=5",
+     "published": "2026-10-18 02:12",
+     "tags": []
+    },
+    {
+     "title": "보너스 이름이 같아도 조건은 다를 수 있는 카지노 게임 개발 회사",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX013THZ3OEJjZWs5S2JtMEFCUHFnRlhQMTlRdFlVTXRVUlV6THRhaVRuVzE5SHJ6TDRjWHVPUkxXOWE4Q0RUekhhOTBTVmVMRXVpelBsUTEzWVVEV1VKejV0Wldpakt1Vk1sS2NYQ2lHMkU2WXEtdHF3Um1aeGZ2a3EyeDhZSVc5bXNEaDMwRVdWRFdUdWlpOXpiVlN4ZHp5elpBWjN4NG0yUGR3djlLcFRlY0E4eUhILTFEMzhENmVESDNNdWY0Qmx5Vm82cGxqeWM5c0dxMmRybU9rMk8xd1UxcFY0QQ?oc=5",
+     "published": "2026-10-17 17:58",
+     "tags": []
+    },
+    {
+     "title": "1주택자도 확인하세요! 2026 양도세 개편 핵심 정리",
+     "source": "대한민국 정책브리핑",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcEdZZGphbjhpRzR3Mi02R2ZGcEFFNXVLOFBsVnBGWVBBVVo2M2EzcFRGVTF5UW9iZFVZUXZnZk93ZlB2amVNZzh6MUJaSERHdkM5QWQwTkpBOEpqRi1FQXlnd2RZTHo2UWVSNFFTZEEzdEhQUzZNa1pybjJmWFliNjgyM0I0d21NVGdYX0ViUTBpaVhwOGZ6Q2F1ZmZidTFPbVBlWmxKZXU3eElqUjVGd0J6eXBIbEN2M1ViSzRMSm9VUV9Vbllpd1ZRaUxQTVkyUVhUQlBMRHVidmIxYlNiY3MtOXVMQQ?oc=5",
+     "published": "2026-10-17 09:59",
+     "tags": []
+    },
+    {
+     "title": "심벌 수집 표시와 라운드 횟수, 먹튀 검증 벳무브 화면 구분",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWVZNlFvNzd5Sk9ONFEyRS1UbGRwaWtSYkh0TE9mTjF3NEpmUkNyblREVjlYXzExaVBibVBUTVM5bkZuSUx6eFhULUw2ems4VDJoSkFqZWlqd2NGT3NJREpxMVl5eTJlNGp0VDhxTVo5OVJFaVF1Mll4NjdzdFFVQk5IX0kzUE1ydkRTMkdrcXZMUXljbnRuVHlIV0Y?oc=5",
+     "published": "2026-10-17 08:30",
+     "tags": []
+    },
+    {
+     "title": "부가 기능 없이도 이해할 수 있는 블랙 잭 전략 표 슬롯검증사이트 기본 흐름",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTVhcmQ5TUZpTTJweVZaMkJkWVN3Mm5pU0dZTzN4OWRsU3dFLXotejlCTDRKZ0NTZkp2NE1jSnJtSERsUzJHa0xDXzRfUUYyaHlMb2p1VWNaaUdINzhqR3FfRmRfc2ZoRkVtLXBid05kcVJaR1ZxSGNPeG9iTUJWd2Vjc0Y0dEJhRU9nMHV5Z0o2R1ZTODJGSWpYOUdUcXFFc0ZEc3dPU1hTc3dpQzlFTGFldVM5dw?oc=5",
+     "published": "2026-10-17 06:37",
+     "tags": []
+    },
+    {
+     "title": "국세청 국감…가상자산 과세·종부세 두고 여야 공방",
+     "source": "금융계",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vbnVOZHNWSGdxNm82djdPV0dGbEE1ZC1QdXA2N0dYRkNmZmhDdndfN0RQZ0FrYjJlTFNBZnBNdnRKTE1GWEcxSXFTUl85RWRHVi1DSllXRUprenAxdmlFR1ZVX1JCQ0nSAWtBVV95cUxPTldHb1haVzU0RVd3RG9vUVZBOXJVU2sxR3BHVm1GNVdjX05aZHlycjZ5MEdFYnVXWWgtRnc0MVcwdGpobE1ucmpMZU9nZlFkS29YZ2k2OUw4UjcwaUZsUUtlQi1IY2tRSVJ6TQ?oc=5",
+     "published": "2026-10-16 23:43",
+     "tags": []
+    },
+    {
+     "title": "더존비즈온, ‘TAX Leaders Summit’ 개막…세법개정 절세전략 제시",
+     "source": "팝콘뉴스",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ObzNIaTRKWFdkX0ZCRkw0R2d3WTNiSTNKLUFDMDJNSENkdmNneGZtNVlmNTZYQUxiUi04OHUzSVBMM1pQQkl4RldyWXVrSlY5LXpKMWYzektXWkVIa0g4VC1hNzNwVXhhaWFTSFA3blU1Z9IBckFVX3lxTE1ObzNIaTRKWFdkX0ZCRkw0R2d3WTNiSTNKLUFDMDJNSENkdmNneGZtNVlmNTZYQUxiUi04OHUzSVBMM1pQQkl4RldyWXVrSlY5LXpKMWYzektXWkVIa0g4VC1hNzNwVXhhaWFTSFA3blU1Zw?oc=5",
+     "published": "2026-10-16 11:22",
+     "tags": [
+      "법 개정"
+     ]
+    },
+    {
+     "title": "서울 강남권 아파트 실거래가지수 4개월 만에 ‘하락 전환’…세제 개편 여파",
+     "source": "경기일보",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYVljdFUwc0VPNjM2RU9YSzhUT1BVVW1OdXhlUEowbzJ4cXNTcC1YcHpxWGw4Uk1WZzNyZGoyb21mV1lBOXE3ZU95cV8tem05QnVSbjNOWjJ6Tlk?oc=5",
+     "published": "2026-10-16 11:06",
+     "tags": []
+    },
+    {
+     "title": "더존비즈온 ‘TAX Leaders Summit’ 개최...절세 해법 모색",
+     "source": "Daily NTN",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52X1B4eDZtSmJpX2Y2eDVLb0I2Skx1ME1hLWJ0b1pmcWlkblpwQWRUZDY3U3RVNG8xNzJYUWJGUGxNOGxKY3lLdkdoenRLeWNFaGo3eFdXWU1IREIyREptMXlWa0hPSnpUbkE?oc=5",
+     "published": "2026-10-16 07:30",
+     "tags": []
+    },
+    {
+     "title": "계약금 일단 쏘는 ‘노룩 계약’에 10억원대 ‘생존 매수’까지.. 혼돈 빠진 부동산 시장",
+     "source": "조선일보",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlM1ZmxtODF6SW1yR28tLTZqcjd5VW1NWTROcDhuNTBuNjB2YlhyVHFEVVZEYkdIcXVzNzBpYlRLSm92ZGtJNm1PSWV3TlR0S3JyMVZQcmp1ZU5NMmExRjZvSlAycTFKNVBSYTZnREVoblZZZUZweEVac1ZoLTlwTw?oc=5",
+     "published": "2026-10-16 05:32",
+     "tags": [
+      "10억 한도"
+     ]
+    },
+    {
+     "title": "더존비즈온 ‘TAX Leaders Summit’ 첫 강연서 절세 해법 제시",
+     "source": "조세플러스",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tUWRiVG0xa19rVTUwazlQY0swNHY5aU5VOGVpNXB1cjVuZ0NCWDJnS3hEY3pTQUNTTVR0empkSEFXeWZNbW9vZ1JaVTYwRlBYQ21IalhOSmvSAVNBVV95cUxQTmdvSmtMUmlSTGthRS1DVTY5bzJ4N0NkVm14b1hHRF9qZGNCQXFqY2JRTEtuZHlqWUcyaUIzYnV0Z3dCRjZHbmNwTkoxV01BQTJnSQ?oc=5",
+     "published": "2026-10-15 18:52",
+     "tags": []
+    },
+    {
+     "title": "광교신문",
+     "source": "광교신문",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ER01mb2w3cjB6N1dISm5jZVpUZWhPTjMtRmY2S2JjUmEyVWRKa3hzaXZ6Yi1xYmNZMGtoSWgwME4xTFVpX1BRLWdIWjZhRnJjZjBHZEN1WDM?oc=5",
+     "published": "2026-10-15 17:54",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "fed",
+   "section": "미국·국제",
+   "title": "연준 · 미국 금리",
+   "queries": [
+    "연준 기준금리",
+    "FOMC 금리"
+   ],
+   "items": [
+    {
+     "title": "정지 화면만으로 파악할 수 있는 마리오 슬롯 구성 요소",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZV91TWh6dVluSURUdEJfLWdHelNyb1ZlV2ZsX3kwZ2RLWF9YMmphd0VzVS1UdUxsY3RyR0hzSERRbzR5ZUxHaDAyd2tUWUpKMUVfU1RpNG53aWdlWXhMRVM0OUwyQWdZVEtLdi01cm1wQy1pNXFCTFpUY2Q0VVNOeldoZGdGcmlxWk04bElpN3k5VDktU29uYThUV1c0WkMzYnI5UmpsejY?oc=5",
+     "published": "2026-10-18 01:43",
+     "tags": []
+    },
+    {
+     "title": "숫자가 올라가는 연출과 최종 표시, 온라인카지노 도메인 화면 해설",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTh6SHc5ZkplLTBxSTliWVY4UVhhWG91Rm0zRE1HeWxVX051ejNpTklGSlpsc1loR3pjcF9JaUgtNm9IbUtORnlXQ0Q0LWQzLWtfcS1nX0p5aVdLMzZDUXRiam81WmRXdVVITGxXWHEtSWFUOTh5dnVwYnhGZHdpSU42R0dNVGMtQVFlUHd6TkpOdXJzM2RkMkJmUVNuVnJ0NlJzb01tTXdGOHM4RHlWRzNIUlNoM1JZNlRZM2d3eW1lZw?oc=5",
+     "published": "2026-10-18 00:50",
+     "tags": []
+    },
+    {
+     "title": "배트맨토토 승부식 초보자가 헷갈리는 화면 표시",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oVXNtQ0FCTkRKcXU2Yk1BSG1QMkVFaXFVdHVxb0ZHMlltWWp4T0NjNHNqa2UtTkctWk1CeW9PTEo2dUNpWTdLcG1yMVUxaVl1aG5UYkxKT1h6S05pMllyQWR0TjFrZWdhSEM3amt5QW93YkE?oc=5",
+     "published": "2026-10-18 00:43",
+     "tags": []
+    },
+    {
+     "title": "주간 전망: 이르면 일요일 미-이란 평화 협정 체결 예정; 워시의 FOMC 데뷔 카운트다운; OpenAI CEO 알트만 한국 방문 예정",
+     "source": "TradingKey",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0EwR3VpUDZNQkZnTWRDV251WHdmdXFrb3pXdGQxNEx6dk9CWWxlTDFISG1FY01lbU5LWkl4eUpsaG5jemVCSHJybXFsazFPV0ppd0tyZXRXZVZUOUJ5TlliLUtGNnpuZTJzclF0Z19hQ3M4emxJTlJNZDZ5eXdxa281cXhuTzFNRkJsS0Q2R3M2TlRGWWFkQ3E3Y2ZTM3UyeFBwTTlwM1ExU21KaFhtM2toZ3l0TGpmUVJwdnBpZw?oc=5",
+     "published": "2026-10-17 23:43",
+     "tags": []
+    },
+    {
+     "title": "일반 라운드로 돌아오는 시점, 방콕 사설 카지노 진행 규칙",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2NLVExUbHNXejlGdzVyRUN3c2lpc3piRXpBS2NSd2pyc1MxOG1lZUhYc2ZWeGlRQldzNkY0SjVPYXp3LU5YLU5vR1NTTjh1TXNXMGFpTHpDYmpVNS1jVmV2MnlxRkFPN2NkV1JVNHkwRVUzcURWUnd2bGptMTF3dw?oc=5",
+     "published": "2026-10-17 18:18",
+     "tags": []
+    },
+    {
+     "title": "모기지 이자 또 오르나…연준, 연내 추가 금리 인상 가능성",
+     "source": "라디오코리아",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NTnloenM1RHdzOG9RWW1CM1N4d3lPXzF4eDVHT0dCU3YybVo5MkRTT0pJaDFlMFo2bDBtTThnelBZRkdHV0hJejhWSUpMZEdNZXV5UGlhVTExZkxSZjA5OVJYRkE?oc=5",
+     "published": "2026-10-17 09:57",
+     "tags": []
+    },
+    {
+     "title": "\"생활비 수백만 원 더 내\"…고유가·고금리에 美 연준 고심",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14UlFuV3haR0l6MzdkLVNPT1NBMkRVb3hxOVJ4Xy1vRjdNZk9wSzNIdlV1dFVGS0xtY3B4MTZkODZ0Nm5wSFNfMktTNFNvUzRVWlRELUlJWnBuaXFydldfcdIBYEFVX3lxTE14UlFuV3haR0l6MzdkLVNPT1NBMkRVb3hxOVJ4Xy1vRjdNZk9wSzNIdlV1dFVGS0xtY3B4MTZkODZ0Nm5wSFNfMktTNFNvUzRVWlRELUlJWnBuaXFydldfcQ?oc=5",
+     "published": "2026-10-17 09:21",
+     "tags": []
+    },
+    {
+     "title": "[뉴욕환시] 달러 하락…금리 인상에 신중한 연준 의장 |",
+     "source": "연합인포맥스",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKdkdoalFDSWZxc0c1YW5PUXhVSHJEcVd4d3NVVUVfN2U2Szh6bGFZSUFuelNOeHJhYzU3QnJOWnF6VDIzcVNDXzZBZGp0VHAxbGI4OS0wMkNEWFlFUWNaQ05RVlNZN25rNVhjdDJjMWxsdWxr?oc=5",
+     "published": "2026-10-17 07:37",
+     "tags": []
+    },
+    {
+     "title": "추가 라운드가 끝난 뒤의 블랙잭 사무라이 진행 순서",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdDNnTkt5Qi14dG9PbFpsTllkMkZsdHo4cEo4eUcyVjJHVnFTSFgzcjRMX3R0bl9TRTFzUUNkUXFQc01pWDJHcTVSVFFxQmtvMkp2akY5UHRNVG5Zckc3WU92dUhKOGl5OWJua0VoNW5yRTBVYi0tQk1JdUxXSzB5MzFxbnVHTVBFcVdsQ3hPOGxtbU0tSF9ORUdZd3IyOFdkU2tkYll3?oc=5",
+     "published": "2026-10-17 06:49",
+     "tags": []
+    },
+    {
+     "title": "ryan yu 포커 기본 배경과 특수 화면 비교",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlVtRElLQ3BQQkFKOTNWYjRBaWdfN2NhMzY5amZBZk92TUhhQnpLLVVQc3NUcm0ydWFPY242Ym9qNndLY1VyVGN6MmJORzAweGtweXFQazlROHFnOVRiNjBkVm1NeGVnZUFGdDdUd181ZWloQmRsS2tKYlpDcncteVcxN0lJeERreFlheVhQVC1NWTZGMFFRUkkzZ0h2dw?oc=5",
+     "published": "2026-10-17 04:44",
+     "tags": []
+    },
+    {
+     "title": "비트코인 8만2000달러 부근 보합…연준 금리 인상 전망 완화",
+     "source": "블루밍비트",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zbjlzak54dW5xNURqZXd3dkppSzNIckw0UFdoeHFySkpMcGpaX1VWR0hxSUQzeWdoSi1SdF9VX3ZoY3JObnc1T2tST2cyUWtv?oc=5",
+     "published": "2026-10-17 02:14",
+     "tags": []
+    },
+    {
+     "title": "규칙이 적용되는 순서가 궁금한 도박 꽁지 뜻",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEtJREFsU2M1ZnZCYTNsUnByRDFtWkRyWU8wQjVIdHlsOFNqM1l4R1ItY2JxRFpDZVVqNzE4bmJ4dGZmYXhUNHdRUXhiMGMyVlFtbGpvS21iLTdjNUpoLWM4Qi1QV21DaHVvYU01OXhsdkticDJPQjJ1Nkxoc0oyNXdKT2NYNi1XcGJ4VFYxcw?oc=5",
+     "published": "2026-10-17 01:51",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "usdata",
+   "section": "미국·국제",
+   "title": "미국 물가 · 고용",
+   "queries": [
+    "미국 소비자물가지수",
+    "미국 고용지표 비농업"
+   ],
+   "items": [
+    {
+     "title": "일반 심벌만으로 읽어보는 슈의 슬롯머신 공략 기본 판정",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zS1h4ekMtUHR4Zk1zVi1TMzZZaklJVjJQdkpWYWVjOUczYzVHUmV4a3hmWW5UWEZRWUN1QXUwdzhlSHJndnZXemNTeTdOVmNjQ2dUbk1sOFlGMEhNUGNSanVyQVB1RXdELWV4eHE5WlN1akVNQllSYVpn?oc=5",
+     "published": "2026-10-18 06:54",
+     "tags": []
+    },
+    {
+     "title": "토르카지노 투자 재테크로 보는 권위 있는 해석: 기초, 심화 및 마스터",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQk5NS2hJRGl6YU9pZjJ6MllWbklMeVdlbFNsODlXU2NpVnRUVFRlOHdrZ1g1OTVnZWp0VWxXOEpCZUtnN3lvc2l4WlREMlA5RWFlcG43VG82RmJYWHJsamk0QkRiaENkWV92TGVacU1TOXMteHZZLWtmT0VRM0J2dzNFc0ViOFlOVFlDRVQ2dm41eGhfcExXWlRRYm9KMk4tdVNKLWFSSXFFNHF6VnZoc1haRDMwaVVET2lna01NT1ctaXQ2QkNJSWtCVVBBOFdrazRvblVaeGdKZzJlaEdpMHlaMA?oc=5",
+     "published": "2026-10-17 23:31",
+     "tags": []
+    },
+    {
+     "title": "프리스핀 중 남은 횟수는 어디에? 블랙잭 ova 11화",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PRlh1cmxYc2JGazkwdmJaRXg1cmo2dU5Xa0Jmd3RQTC14NDdVLUE2a1FpdFU2dU5lRzN1NHBTU0liVWx3ZFFjOHlHSDljQ1ZERF9ZYTlmeWtmVzdGYlh0cldHZFd5WXZQQl9ILUJpRmxkVXVtMTA0RXhOVlNoZjA?oc=5",
+     "published": "2026-10-17 00:11",
+     "tags": []
+    },
+    {
+     "title": "[亞증시-종합] 되돌림 매수세 들어오며 상승",
+     "source": "KB Think",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIdEptR3dPUzY2LWRTWEJBaGY0YjJLV3B6ekJuQnVYbE9Rb1hBTVdpU2ZuR24zUnZQUVdhWFlHaFNEZ01MQ1MyeTlVX2dZZmlqS2JuUzdhWk1GQjJSZS1QNkV6SHpsd3p3bHNrV05aZXRUQQ?oc=5",
+     "published": "2026-10-16 17:22",
+     "tags": []
+    },
+    {
+     "title": "기종에 따라 확인할 스테이 토토 도메인 표시 차이",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zNTFVOWVCZFZEc2c3Mzlsa0pRTGRVbUxoeE1EOUxVVlpLdFdVZ3NPQ1R3S202M1VFR3pVZWdxcDMyWjFBNjhtbDB6UEh3dE9YNjlTWllrN01mMEhtT3c5Ui1TMElXQUNha2NoZ21TYWhxZGw0?oc=5",
+     "published": "2026-10-16 16:01",
+     "tags": []
+    },
+    {
+     "title": "미국 생산자물가도 급등‥금리 인상 '압력'",
+     "source": "MBC 뉴스",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IOWFMTjY0c1lUUFBKOU9fOFlZUG1QRl9VTlg5d1JJSV9jSUg5MV9hdGV5eGd2RVZwVVJwa1J2NEdZY241cl9IVTFQQVM4NmtueW8yc19kbDlTLTdSODJQWHktVnlkMmxhODBHdVdTbkFhMHp5TnV4MdIBeEFVX3lxTE5IOWFMTjY0c1lUUFBKOU9fOFlZUG1QRl9VTlg5d1JJSV9jSUg5MV9hdGV5eGd2RVZwVVJwa1J2NEdZY241cl9IVTFQQVM4NmtueW8yc19kbDlTLTdSODJQWHktVnlkMmxhODBHdVdTbkFhMHp5TnV4MQ?oc=5",
+     "published": "2026-10-16 12:14",
+     "tags": []
+    },
+    {
+     "title": "미국 생산자물가 급등‥인플레이션 압력 가중",
+     "source": "MBC 뉴스",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tc2RULVJ3UWMxbktfalBTVkV5MDFBWW82LWNSVTVfRkRmYTRtWWhORFoyd09QRWFNcXFrZlRKMTBkbndWaTg5cTNnV210aEtaOUNiemdIX3lJMUstdWMxeWFBTXJrejFsMjMyNUpJWGZsYzRCYmk00gF3QVVfeXFMUEktblUxY3FGVTA1UWdRcDZ3amhySzlJaDQ1U1ozV1BodEZERlpmdUhJR2tQamp2THNQQ1VpZTZmUTNBQ2ZGSUZCc3JZU3U4R1RKTUZTZGhFWWFucWFtcmN4QlVSVlNNRlBCbmZmZnJ5ODFrTExlOVU?oc=5",
+     "published": "2026-10-16 09:33",
+     "tags": []
+    },
+    {
+     "title": "미 물가 충격·AI 수익 우려에…코스피 5500선까지 추락",
+     "source": "JTBC",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NX20wbnVZYjdRZ3prMVhFZVFxWFMwNVFrRUEzejBZa0ZjYTJMTXJQNURBLXNWVm5NNWR6WjVmU3VtWEJxaHlURVZYaFB2cWQzUnU4bw?oc=5",
+     "published": "2026-10-16 07:48",
+     "tags": []
+    },
+    {
+     "title": "2026년 미국 고용 반등의 이면: 4억 8백만 일자리 격차와 한국 사업주가 봐야 할 세 가지 압력",
+     "source": "한국공공정책신문",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5MeUlZVjNZS3lTTU1RcGhxcXNTMWNuRkdBbE9pb3lkd2RQdTdGOVZ3LU1mWmc3bmlYZUxHVUJtdWtaaUk?oc=5",
+     "published": "2026-10-16 05:21",
+     "tags": []
+    },
+    {
+     "title": "미국 PPI 생산자물가지수 발표 요약 · 2026.10.15.",
+     "source": "네이버 프리미엄콘텐츠",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa0JDUEx4bVdhQ3FiYWRXM1BiQ1A5cGRMVC1XSm8yX1BMZTNiWGJVU2dlcUdsMjJ1VkNud0YtNFJHVjlEa1VBVi1YVHlLTjZ3d1FlMW5QTmhGTDNDM3VVUkFRX2EtLVg0azM3dEoySkhsMzFCNG9HbmNaeUo1U2lYdmxnNmVWY2Vn?oc=5",
+     "published": "2026-10-15 21:54",
+     "tags": []
+    },
+    {
+     "title": "[亞증시-종합] 美 CPI 충격에 일제히 급락 |",
+     "source": "연합인포맥스",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OS2d3T3lqRUZVWlBicDU5LXBfWlloeGJjN05RX0ZRVGtORkg0TU0wWmE4dGgwOGNEWDR4U05NY1ZoQndIdWZFVWNLV21yV0duZ1BEc3U0dVBOY1E2WkFVV3dicjNTSXlHNEdYeU9qWGNNNXEt?oc=5",
+     "published": "2026-10-15 19:38",
+     "tags": []
+    },
+    {
+     "title": "미국 9월 CPI, 인플레이션이 다시 고개를 들었다 — 그런데 왜 국채수익률은 하락했을까?",
+     "source": "네이버 프리미엄콘텐츠",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeFRQSHZKbmtBcklzWGREVnlDQzZwa1ZHTk16Xy1qRWZNdFl5UERfQzNtYWY3YWtQVzhPNmhvbEdrRFpRaXFWV2JjV0dTVWlRaTA4dHh3cG10bmdZNDVxcThsS3BFRTFyM0lwa0UwTW9kSEY3LVlyVXB5YlFYRERGVmxiSDhKbEZqQTJxajRrMkZFZw?oc=5",
+     "published": "2026-10-15 17:28",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "crypto",
+   "section": "미국·국제",
+   "title": "가상자산",
+   "queries": [
+    "비트코인 시세",
+    "이더리움",
+    "리플 XRP"
+   ],
+   "items": [
+    {
+     "title": "업비트 비트코인·리플 반등에도 거래대금 7,000억원대 추락…상승 동력 사라졌나?",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wQ0VIZk5TNWxlcXAzWHRDTmdzWUo5cGlHSGd3UzhfZ3pSYjYxa2VUVlBtNWo0bVdDTHBRSzlLNlowX3JteXJybw?oc=5",
+     "published": "2026-10-18 10:15",
+     "tags": []
+    },
+    {
+     "title": "리플(XRP) 1.29달러, 24시간 -1.34%…지지선 시험대",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5JNG45N0QtcGhoUnFrTW1OU2JvTWZZYUZUa216MExSNU9FZXh0dGRiLWsxX2NwMUpNcnBzSTNHMlZodWpfOWVvbjNn?oc=5",
+     "published": "2026-10-18 09:00",
+     "tags": []
+    },
+    {
+     "title": "비트코인 단기 약세·장기 추세 혼조…8만달러 지지선 주목",
+     "source": "블록미디어",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1URVZhMTdZdUNNbWYwTHpmWUx5Rjd1RWhxcVo1eTN2YWduU2ZMTFI3NlRFdU5Na1BuTGVST1BXNG1JUjMwVnpjZmpMSTIwUEplbmhvRDhSOWI?oc=5",
+     "published": "2026-10-18 08:31",
+     "tags": []
+    },
+    {
+     "title": "코인 거래대금 1조2449억원…리플XRP 1위, 깃코인 18% 급등",
+     "source": "톱스타뉴스",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01VDNrQU1PbUNZWWxZa0hwbFVDMzlDSm1WaTlSN2lnUGRPUUFkN2xCZ1JtWVNOWkRRSnF0WnV2Ym5sSEd5REZkVXk1RWpyUXVPcEZfcjFhUUJWNXJ6bUk5RGNmRmtEbXEwSE5Qcm8zSk0tdw?oc=5",
+     "published": "2026-10-18 07:43",
+     "tags": []
+    },
+    {
+     "title": "Grvt (GRVT) 가격, 차트, 시가총액 | 코인마켓캡",
+     "source": "CoinMarketCap",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DMUZydU9hN3NIQXFNR2xPNU5VekdjX3Y1eEQyM3dEeW9xVm0xSHhOVUwxZWs5c1lxYXVjclRBSHJ6Qy1URkdweTNNcmp2TzMzUTRxUEpjd3I?oc=5",
+     "published": "2026-10-18 07:13",
+     "tags": []
+    },
+    {
+     "title": "Re (RE) 가격, 차트, 시가총액 | 코인마켓캡",
+     "source": "CoinMarketCap",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96eDNZVVBaYTg2Y3RYdUZZVTkyWDhwaGlvRjdXZWVlZnlYVGNiaDRKNHdYLWpMQWZ0aVJ4RE1hYy1HT1VVLXJUOTcxVFNmQkN0dG8tb19LZ2lNNmpsRlAzSS1n?oc=5",
+     "published": "2026-10-18 07:12",
+     "tags": []
+    },
+    {
+     "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 81,520달러, 이더리움 2,416달러",
+     "source": "토큰포스트",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qUXpqeXlHUGNqR2dTQjVsVWZKa1ZEbnowXzhsZWJneUtucWdLb1kxeTVKa1JJYmFJZjZXTDNiQmtmdm1QaEVKU3RDMUk4UXhZRnNDdktuanM?oc=5",
+     "published": "2026-10-18 05:01",
+     "tags": []
+    },
+    {
+     "title": "비트코인시세 원 진행 표시가 갱신되지 않을 때",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTDZ4X1ZTQXdIWjlxTWxETXE0QjlWY0Y2WFlaZ240ajFjcUZaV2ZGZjk1X0dWeTFDNHBRTElVZ193LU5sVk1fX2FMNEx5ekZRN2VjZ0xTa1ZPSjY1Ql96bkdtM0x3Q2gya3Y1QTQ3aWJYTTJ0OTBDZWF3dU1HcHFId1VqSFdDUkNHNkVneHM0OWhhNkJ2VG1sNUZ3LWEtb3E3SVZBWEJ3?oc=5",
+     "published": "2026-10-18 00:53",
+     "tags": []
+    },
+    {
+     "title": "s 토토 게임 소개에 쓰이는 대표 용어",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWVJJaE5yQkhNbWlPdDZ5NWN3LXVVM2ljSUxUNkVYSWZQWEIxODV0ZWpDN1NrbHZYRmpYZ0FIdG5PUHc0eUVvbGpNQ3cxV1hjMzVrUUdvMkczZ281aXFVb2hjNWZwWVJHaXdPRHZ2SkI5clZwS1oxNW10LVA4WFZ0YjB0bXRUWERo?oc=5",
+     "published": "2026-10-18 00:40",
+     "tags": []
+    },
+    {
+     "title": "Zest Protocol (ZEST) 가격, 차트, 시가총액 | 코인마켓캡",
+     "source": "CoinMarketCap",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mVWVTSFN0dFduZGFFbXBoMjQyWjcyelk0R2VnTWpSV0MtV3IyelRFZU5GVjN3RXN6VGRsZW0zT190c09RWk5yQTM3MnQtTDBZaWRSUVd6eXdqaTlRZGRQWEY0b0Q?oc=5",
+     "published": "2026-10-18 00:36",
+     "tags": []
+    },
+    {
+     "title": "게임 규칙에 나오는 라운드와 스핀, 이더리움 시세 달러 용어 차이",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSWNaaTdpa3JMcjVBcHlxUUJIUXB6aGRBRkdJVFJZZkJlaTV6ZERVNDJIdTZfYnlEQjFTT3h6YUw0cTN6WXIySVFKTzFfdDBMRU9qRFdjUk8zZ3lFcTZ5ZEVEY21Qai1zMW5Lb0l6R2otbDBTc0NlTEhndzdyanZKcjludGtNSVZJYVZCb2RaR1N4cTFHVy1JMEEzOVpYYTRwdnBr?oc=5",
+     "published": "2026-10-18 00:05",
+     "tags": []
+    },
+    {
+     "title": "[자정 시세브리핑] 암호화폐 시장 약세… 비트코인 81,461달러, 이더리움 2,424달러",
+     "source": "토큰포스트",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VV3pQTmM1aGRDdk51d1prdG5DRDFGVTFEZDc4eVBnRWg2SEhnN3Bpb1FJb1IzSlhQd3Y4ZVJZbXM1TjgzS1RKbm1NbllnOEFoSnVRZG9id3U?oc=5",
+     "published": "2026-10-18 00:03",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "trump",
+   "section": "미국·국제",
+   "title": "트럼프",
+   "queries": [
+    "트럼프 관세",
+    "트럼프 행정부"
+   ],
+   "items": [
+    {
+     "title": "\"투표로 트럼프 심판을\"…美전역서 '노킹스' 시위",
+     "source": "연합뉴스 한민족센터",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PSC1YSDBRUkF5UkRrU2tLQTJIV3AxVU9Id3UwRUhiVk84N2dQNEVuR1pJdzZMMnRZX0JZS3hOQUZ5UnlrNVA5OE43T3FkNzVfSHBPcEpmb0dHSWtMMVo3Q0xhcHNyQXR0TnVzNDVfeEhQSEM4?oc=5",
+     "published": "2026-10-18 10:44",
+     "tags": []
+    },
+    {
+     "title": "“트럼프 특사, 유럽에 러시아 가스 다시 수입하자 제안” - 조선비즈",
+     "source": "Chosunbiz",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0VXVngyNXQ2QUdlNHdqclBySFl0WjU3UU13WVdoQzJYdXhpT2dGUVlYcE01V2Q2dEZuVE1kS3hIWXUxTktBempXWGZQcWk2c2NPSWFac2hJVjMwTUJpTGR3Rm5NQkROLTRMd1hBRTRZUEE1SWxGQ2lPa3lUNkN2NHVTMldkdUsyMldyMFZiWUJtZVF2cWhoSE5QT1RBQdIBsgFBVV95cUxNZDVCTUZoa1ZHNFhmYnR2R3lBa2JqX3Z4cmZvOGpjRC1wVXBMbGdIZzdET2FSeE01eENwN2JkWUJsRXlOMzdhNVdNT0pETWttclc0SmJEa2FQR0ZCb3QxNFdfVTNDcjRndjFyaXg2Z1JXYVlTazdhM2NiRVJRd2VpUGpCaS1QWFZxbjlWU1Q1SWtVU2tBWTJLLU9RaGdXZ0wyWjRzcVkzemN4UHhIa0l6ZUtR?oc=5",
+     "published": "2026-10-18 10:19",
+     "tags": []
+    },
+    {
+     "title": "대미 무역흑자 1천억달러 달성 유력…트럼프 투자 압박에 난감한 정부",
+     "source": "연합뉴스TV",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lSXdUZG1yWHhCMWsxeVllQTBmV2lJdk10VWU1VTBpT1c4Qld1a3h2cDNoQ0VOUHF1UVFFVWFZTjJmZ05kRXNUejFsQ2pUeTdoUjZDdlFNZ2Y2WTN6ODZieDhHUi0zZkk?oc=5",
+     "published": "2026-10-18 09:57",
+     "tags": []
+    },
+    {
+     "title": "\"트럼프 특사, 유럽에 러시아산 천연가스 수입재개 제안\"",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nMVR0YUwtTnRXd2RQdkhKVDRfUDRuT2ZFVFpyNHFzWGx3OEEteEpnamJ1ZXNhNHBleFNKdVVnV3lhUEQzVXdfbFpqMXE1SzlDal9QTWQ2WW1XbmvSAWBBVV95cUxQeUVacFdINzA0WlRnUF9jb21SdzZScjhmZjNZNHFRamJtTUFDX242cFlYSzRYN1p0c1hJUXV4UmtFU2hXSlFhM2FpMXJOZjI0N3VWOTZDTkNoZXhwb1R1U3o?oc=5",
+     "published": "2026-10-18 09:56",
+     "tags": []
+    },
+    {
+     "title": "\"왕은 없다\" 뛰쳐나온 미국인들…\"투표로 트럼프 심판을\"",
+     "source": "SBS 뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0QjhuSnVtVnc5WUluRGxFREVtOGFFZFBHZEQ5WEJvX2dBOVpjNENCd1o1UFpEbHNJTzN0N1pKLWtJRnFFRkxhc3hsZmpmdjk0OXVqLTMzMVVhdU9VNjViYjRMeWRqbzZSNkE?oc=5",
+     "published": "2026-10-18 09:56",
+     "tags": []
+    },
+    {
+     "title": "대미 무역흑자 1000억달러 눈앞…트럼프 관세 청구서 부담 커지나",
+     "source": "아주경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ra1hOb2JyWmlUaHBaWWtSdFhPLVVfVVl5Y3p6QXVnaVVxdkNubUNfenJ3TEh0Xy1mWUJOaERoTFpEcDkxTmdQbUNKeFBicWE2ejYzWFdaZnViZ9IBWEFVX3lxTFBMT0ZmcjdxS3ZlWG43cV9rbUpvSXM5YUJocnFjb0FaVFBIdlJKRGtJOVhoZFNiT2RZMUJvTTFkVzVRSlVUUUNYbnFJWlltUkJ4TkgtZWY1ZGs?oc=5",
+     "published": "2026-10-18 09:46",
+     "tags": []
+    },
+    {
+     "title": "트럼프, ‘그레이엄법’ 대러 고율관세 전격 면제…“현 시점 국익에 부합”",
+     "source": "뉴스로드",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wTXRzazZ2ekJQel95QndpeEZvTXNZRHUtZGdYM1F1cTFNWkhuQVBlQVhLT2NVMnl4UGdDRlRHQW1Fd3p0eGhiSGwyLV9kSGZYS0txVzYtT3VyQ0FDdXZJUWdzbnYxUGI1eXpVZTFtWdIBb0FVX3lxTE9wTXRzazZ2ekJQel95QndpeEZvTXNZRHUtZGdYM1F1cTFNWkhuQVBlQVhLT2NVMnl4UGdDRlRHQW1Fd3p0eGhiSGwyLV9kSGZYS0txVzYtT3VyQ0FDdXZJUWdzbnYxUGI1eXpVZTFtWQ?oc=5",
+     "published": "2026-10-18 09:23",
+     "tags": []
+    },
+    {
+     "title": "“왕은 필요 없다(NO KINGS), 투표하자”…美 전역 反트럼프 시위",
+     "source": "경북매일",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xTUljcGFxa1VVRk9CeU5oaFVhWDhMV2NrT3hCRHc4V1lCSzNJUmRKdDBHa0Vwd09sdFBGdWZzcnNVSGQwTFhXV01aajN6Ni01VWNNSmltQVdFZw?oc=5",
+     "published": "2026-10-18 09:19",
+     "tags": []
+    },
+    {
+     "title": "'1000억불 흑자' 부메랑 맞은 韓…트럼프 '알래스카 투자' 청구서에 진퇴양난",
+     "source": "www.ebn.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xdFpLVEcteG1Zd3lrRHN4YnRnWHVCMUQ5U2dEVFFrYmFCQW5hTmt4UmF1NEYxVXRDM1E4TGNrRkVDamhsUWFrSlJSaHRXQkl2MnJVbTUyQTRMcFV2cVhlc0tOa3huX05U?oc=5",
+     "published": "2026-10-18 09:08",
+     "tags": []
+    },
+    {
+     "title": "미국 전역 '왕은 없다' 시위...'투표로 심판' 독려",
+     "source": "YTN",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNU1BcmhkdWhjLXVxUzNQd2hFTEFjNlZ3UWY2WXQzR3JhTjJ2RU5tWGJjY2djb2RJcnNJRG9NTXVPUWNOeEZQM09nbkxpdjYyOG4zd3ZWX1hqa2lFYXc?oc=5",
+     "published": "2026-10-18 09:05",
+     "tags": []
+    },
+    {
+     "title": "\"투표로 트럼프 심판을\"...미 전역서 '노 킹스' 시위",
+     "source": "KBC광주방송",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EbFhzbk1UQ0VIck9WS0stWk1IczNhLTRGOGQweHB5NmxUeF9qSk9Ob09ETWIyQVh5Q0dQWnJEamVzYURkenVIbEZiU09ZQ25laHFZenBZTzdKQUlPQ0U0Qg?oc=5",
+     "published": "2026-10-18 08:06",
+     "tags": []
+    },
+    {
+     "title": "미국 전역 '노 킹스' 시위, 중간선거 앞둔 트럼프 행정부에 날선 메시지",
+     "source": "공감신문",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00N3pfbFZ2SDZxWFZfTTFJWVc0S2ZQS181dm1ob0haczNVbnRLWnlPMGpkNXBaYlkxRUpIZFVERWdaSk91aVZBOGc5bGhQTURVZm5LYjdVamR6R2wzSmZtamlsV3YyM0hk?oc=5",
+     "published": "2026-10-18 07:59",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "war",
+   "section": "미국·국제",
+   "title": "전쟁 · 국제 분쟁",
+   "queries": [
+    "전쟁 휴전",
+    "중동 전쟁",
+    "우크라이나 전쟁"
+   ],
+   "items": [
+    {
+     "title": "젤렌스키, EU에 “내년 전쟁 비용 1550억유로…700억유로 더 달라”",
+     "source": "한겨레",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1NfTkM2R21oX0owVVRqSWRmVE51U050d2tPdTYzdE5qcXg3N0JqN2szYXRTLXpWdUp4TzhiNUxsd3ZqN0tyb1BOU3FuVXU2UnpfLXhzVmlqZHR5cGVhbW1wVzFkanRYZm1WSnoyQ2NWN20zcm00X0dvem8xTVdyOEtB?oc=5",
+     "published": "2026-10-18 10:13",
+     "tags": []
+    },
+    {
+     "title": "러시아 재무장관 입 열자 절반이 퇴장…IMF 회의서 무슨 일",
+     "source": "마켓인",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14eXlzVFpjYlVSb2FOUHJfeVBXa3FoaU01RW9aZWVYNkMxQjlleXZHd1dERGVSMms1bExaRy1lZ3lNS1hFV1FHc0RON0ZxcklZNnhlZ29pVnhob1JVSmtUVWE4SEtiMDZJZDRSN2FBbjAxY2s?oc=5",
+     "published": "2026-10-18 09:00",
+     "tags": []
+    },
+    {
+     "title": "이스라엘 총선 D-9…네타냐후 물러나면 중동 전쟁 끝날까 [지금 중동은]",
+     "source": "KBS 뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zRDZmZ250MGRsYm5OUjE2cnVzbzNIMkFaN296Sm9qd0QzdGdDak5Rd2MtQkJ4djNGRHNmVm1KWEVmVVZCWG94LXFoS2h3YV8zRWNpdG44bE9adHc?oc=5",
+     "published": "2026-10-18 07:03",
+     "tags": []
+    },
+    {
+     "title": "드론이 현대전 바꾸는데…K-무인기 기술·신뢰성 모두 의문부호",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VSExLWWtXQmh0dUR3OXd0WTVyczRNZ1lfSXVBazMwWmh4SFZLc1Zab0RYQnlpZUtyQmlrdl9MVHFIWWd1aEdaUk5lUkhRbUEyaDZQZWVueVVvQi1PQTU5bdIBYEFVX3lxTE9VSExLWWtXQmh0dUR3OXd0WTVyczRNZ1lfSXVBazMwWmh4SFZLc1Zab0RYQnlpZUtyQmlrdl9MVHFIWWd1aEdaUk5lUkhRbUEyaDZQZWVueVVvQi1PQTU5bQ?oc=5",
+     "published": "2026-10-18 05:55",
+     "tags": []
+    },
+    {
+     "title": "안전 지켜줘야 할 CCTV·웹캠이 '전쟁 도구'로 전락",
+     "source": "YTN",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4NW1YTTVfZngzdDNlczg4NTRlaDNudDRpYUNGTG5BQWdUNkp4Q1Q4WEl0Vl9kX0hPRXJOdjVyZ2s3Y3dXWEVaRmJqd0ZLS3BWNUhKa3JQeXdFeUtkcmc?oc=5",
+     "published": "2026-10-18 04:34",
+     "tags": []
+    },
+    {
+     "title": "동일 심벌 판정을 이해하는 토토 윈 주소 예시 설명",
+     "source": "Calgary Roughnecks",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVF9HQVByQURRTWNTZnlJNzNnemkxak1jX2p0UTltd3BVbVdkUjJYUE1kR0J5T1M5OE4zRUNhSmktV0RiQm9PeU43alFqTnBIRkFUd3lRQU5DUVNBYUVJQmhMWWo5NXF5b3BLeVRpbEVWYjJHQ19EeEpBaG01VjM3M0pRUVFUYkZINzBNWjM0SVRLVE94WlRVVXdxZVpIVi1UMjJXTVV5THZHcVFCeVJCaHZ1VE9EV0hkX0lad0NUdm5jQ3dyYmhlTQ?oc=5",
+     "published": "2026-10-18 00:34",
+     "tags": []
+    },
+    {
+     "title": "러시아 특사, 트럼프 대통령의 러시아 제재 패키지 차단 결정에 대해 발언",
+     "source": "Laodong.vn",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcTJmM1hCZVFieS1ITEZTbmhMSUxjNHRUTXZVY25Pbk5NZFUtR19UMEt5c191OU9UNThhVlZ2R3lMbk9FRXQ2dDJmMHg5OFFzaWlLdnJnakVvMEFtX0tYbjlYYU9oSXR1SnBFUzFIRXZnUFJNSUg3SVNsS1c3RGNTN0R1Nm84NXZiSzd0c0ptOHlaT1FyWjBaOGtOUjRNR3ZTN1YzUkkteWdKdHZqeGJrVzNVQ0ZQZUNQV080NHBKaw?oc=5",
+     "published": "2026-10-17 18:11",
+     "tags": []
+    },
+    {
+     "title": "중동전쟁이 바꾼 LNG 수입지도…북미산 두 배 늘고 ‘알래스카 카드’ 부상",
+     "source": "코리아포스트 한글판",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Cc0liM05IOXZienJwWUpZbXdZZEI0THRVLVRrbGR0TDBWNms1QVp1aW1vMnVCeDFCWVhHUEdzYXhTWnk4LUhyX1pIMm81SGZueXRBR1UwU1JGS0tQa3RKSnQwTmtNNktrODRXZ0p3?oc=5",
+     "published": "2026-10-17 16:00",
+     "tags": []
+    },
+    {
+     "title": "트럼프, “러 석유·가스 수입국 100% 관세 부과 면제” 행정명령",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlMDJTMjZ5cjQtUGwwcGlKbG96eXBZRFJLNVdaM09FNnJ5MFptbnFKTlFhZWpIVW5MQUxxdGdiNnpwREdqQy1iMXdfNldYSDRVQUUwRDRweEtUbXkyZjJZctIBeEFVX3lxTE9icXNaRUNEOE1XMFNYVzY5bjVJMnJ3aUNTYUdXNy1QWHRWWnRiTFZRZjFiY3p3TFNXM0ZBSUNiWnFKZS1yUWcxZ3dlRThkOTdFeHQwbndNektPQ2RaRVJ4YzBaTDJZSnY1ekVxU0dPUWs4M2d2d0d2Yg?oc=5",
+     "published": "2026-10-17 12:53",
+     "tags": []
+    },
+    {
+     "title": "중동 전쟁 여파에 LNG 수입 급변…중동산 66% 줄고 북미산 103% 급증",
+     "source": "전국매일신문",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CS2NuR0xYeDI4WUFwVl9PQlNNRmR1NGU0dk5UZXk3TENtQVVoemxwNlpqbUs0MzBPNDhudVFNNzh4alhHblpWSGwwUG1oN0pRUS1uMWVJSjFqZzVKZ1Brc2F3MW8tbW5GeTFCZUN3?oc=5",
+     "published": "2026-10-17 12:20",
+     "tags": []
+    },
+    {
+     "title": "미국과 우크라이나 지도자 간의 관계, 붕괴 직전까지",
+     "source": "Laodong.vn",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5jMDA4MjZCRlBkNUdueXEtZzczYTRlRERwWWQ3RkdDWWJDYTBGU1FmRUxNbEVLOExqZUp3NkRuRkdkT00wbjQ3TVFsTjJnS1NFdjdVeV9vbjYwbE9RR3ROTXNFVzlKS293ZGxDdlkzOEZRQjJmV2lLMGNyNDNrNkgzZWIyNU52Y2RvbzFtcXNLOTZ1Y3BKWVVXQlZhMnpaMTBxRThKOFMxbjZ2?oc=5",
+     "published": "2026-10-17 11:55",
+     "tags": []
+    },
+    {
+     "title": "유럽 동맹국 훈련, 우크라이나 안보 보장을 위한 군대 파견 계획",
+     "source": "Laodong.vn",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekgwc1hVVUp0RkFaZTJxc0pWb2lIY3N2TDdIMVRKNVJSSnFfNDhISFhMYzJRLU5zaXdPSFNmaWZadFJ6X0MxQVQ4M0lNakNnNVFRMUJYYXcwaERxc2Y4UkQySWxZN0hzYVZkODFHZjNjTnkxS2FzeUgtdF9IYWhSNTA0TVY1OVNISS0tUmVYc2NYRDY1MGlRY3BBbGg4X0h6TjQ4LUlQWDBFbVFsTmNuc3NKeXNCYmw2?oc=5",
+     "published": "2026-10-17 11:35",
+     "tags": []
+    }
+   ]
+  }
+ ],
+ "ltcg_signal": {
+  "count": 0,
+  "items": []
+ }
+}
