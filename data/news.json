@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19 16:26",
+ "updated_at": "2026-10-19 18:30",
  "errors": [],
  "topics": [
   {
@@ -119,10 +119,10 @@
    ],
    "items": [
     {
-     "title": "공공기관 ‘모범사용자’? 부산지하철 하청노조, 노란봉투법 이후 첫 파업 한다",
+     "title": "부산지하철 하청노조, 원청 상대 ‘쟁의권 확보 파업’ 첫 사례 되나",
      "source": "한겨레",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yZEVaaTN4WGRuQ1FuSGlpVE9hMVRVTm42ZlI4end3YXlaUlJOMEo5WXhBOXpDam9iMFRGMlJLdW03eHVxZEhlVWNFdzN3b3Q1QWVpbE5PYzBSNURFTkNOdVhfRWQ?oc=5",
-     "published": "2026-10-19 16:17",
+     "published": "2026-10-19 16:25",
      "tags": []
     },
     {
@@ -338,6 +338,13 @@
      "tags": []
     },
     {
+     "title": "[재정운용] 주가는 버텼는데 왜 불안할까? 연준 금리인상 후 증시 읽는 법",
+     "source": "미주조선일보",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVSzhKZTJlWGNCRGF4MDJBN29yUHRld0hpS3M4M21wb1czd0J4TWV5ZElpTjkwNmxQS1p3V2NQd2lTQkJaZGlDc2lHbzZHOXoxSENiY2Fzd2VpVFp1ZGpoOVdkWWthQll3aEl6cG1laUc1WmcxMnc?oc=5",
+     "published": "2026-10-17 19:28",
+     "tags": []
+    },
+    {
      "title": "美 물가 3.7% 급등…고유가·AI 투자에 금리 인상 효과 제한",
      "source": "스페셜경제",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUbDdjN2JCaUVWVHI2TW5ZWFQ1a3pmTXlUc0ZZYjJ1M0Y3bTBTLTZiWUEyTlpqLW00OEJnYkM1OTExUGNmU1JtMDBSX092RzVQVkZ3Vm5GMTl1UEFOUGJ2R2ZLUHJOdS1NRFdrcg?oc=5",
@@ -356,13 +363,6 @@
      "source": "연합인포맥스",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKdkdoalFDSWZxc0c1YW5PUXhVSHJEcVd4d3NVVUVfN2U2Szh6bGFZSUFuelNOeHJhYzU3QnJOWnF6VDIzcVNDXzZBZGp0VHAxbGI4OS0wMkNEWFlFUWNaQ05RVlNZN25rNVhjdDJjMWxsdWxr?oc=5",
      "published": "2026-10-17 07:37",
-     "tags": []
-    },
-    {
-     "title": "비트코인 8만2000달러 부근 보합…연준 금리 인상 전망 완화",
-     "source": "블루밍비트",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zbjlzak54dW5xNURqZXd3dkppSzNIckw0UFdoeHFySkpMcGpaX1VWR0hxSUQzeWdoSi1SdF9VX3ZoY3JObnc1T2tST2cyUWtv?oc=5",
-     "published": "2026-10-17 02:14",
      "tags": []
     }
    ]
@@ -477,6 +477,36 @@
    ],
    "items": [
     {
+     "title": "스트래티지 분리 및 지수 편출 공포… 비트코인 롱 포지션 무덤 개방에 떡락 경보",
+     "source": "핀포인트뉴스",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KMFBORXpCU0RqM001QkFpaUFMTVZhS1pldzBTLTgteDVxNlZFQ3VrXzJ0YVdCakJfSE42eUsxRnJYWTVjTkszOE54OXNCVU84akhscmtLTDRJaUhLVm9xUm04aVhOemZIcEhYQTdVRDlscW_SAXdBVV95cUxQclZaOWUwVTVTRUxOdTRwYWhKZlJ1ZWVsMjBpbzVMLVJFRTA2Ni1CYTlHSEZzejBMdVpOMTF3ZkM5SFlsU0Fhbkl4dFYxeDBfNWNQOEprMURMejZlZXBtZ3dZdjhoQ2o4ejdmckhkTktiUzVyaGppQQ?oc=5",
+     "published": "2026-10-19 18:23",
+     "tags": [
+      "확정·통과"
+     ]
+    },
+    {
+     "title": "\"JP모건, 기관용 예금 토큰 'JPM 코인' 이더리움으로 확대한다\"",
+     "source": "블루밍비트",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NcE5FN2hVVUstQWQ0UFJXSVFzTWU4Ml9mbDlTVjFpbERyaFFUSVowTnlEOHV6eU5mbWNZR015LXdwYVAxZUd0MkpHdkxNaE4w?oc=5",
+     "published": "2026-10-19 16:43",
+     "tags": []
+    },
+    {
+     "title": "엑스알피(XRP), 거래소 보유량 118억개…\"매도 가능 물량 최근 1년 최고권\"",
+     "source": "블루밍비트",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoYU4tclNqR0F4TWt2X1cwUGk3VFY4bGRVb3p3OGVVM2NTLUVkM3RIb0hCUUFScGFYUmhlY2hsZjA3Zlo4NHdSU3N3Wm5KbGlx?oc=5",
+     "published": "2026-10-19 16:33",
+     "tags": []
+    },
+    {
+     "title": "siren (SIREN) 가격, 차트, 시가총액 | 코인마켓캡",
+     "source": "CoinMarketCap",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTnVOZGVUV3hLd2JfcjBLYU5FSE93ZnhNQjBtSG44QUFnZmdYLW9lUjQ5YWQ3MURoTEUwY255MjRpX0FkVDdGT3Y5TUpGcGxqZmkxOHd2anIzSHBSUnJF?oc=5",
+     "published": "2026-10-19 16:14",
+     "tags": []
+    },
+    {
      "title": "리플 1.30달러 지지선 회복…1.34달러 넘지 못하면 반등 제한되나",
      "source": "코인리더스",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zVC0xVlI2cmdwNmhvYWtUeW5seFIyc0JvcGhDY2RtelVVOWhyVXZnSFFlWlFlYW1mSjAtNUpjaEk5M2ZueExOWA?oc=5",
@@ -491,6 +521,20 @@
      "tags": []
     },
     {
+     "title": "이더리움(ETH) 2,427.91달러, 0.85%↑ 보합권…비트코인 따라 반등",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XbEJCZEJtVklKUFRXUDdPS3VjaWp1T1pyTXZYbDNzUVRFSmMyNmFHSS10cks5S19zTWcxT2lBOVYyU0x6Y2I3R1l3?oc=5",
+     "published": "2026-10-19 15:01",
+     "tags": []
+    },
+    {
+     "title": "리플(XRP) 1.31달러, 24시간 1.44%↑…비트코인 반등에 동행",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jZGhONlJQckltLTFHMFJ4V1QxS2pnbE1KOVJheEQ4LTR2al9qYVJ1REpIRlJFV083bW51VXlVeFRwQzBrMUc1aFZ3?oc=5",
+     "published": "2026-10-19 15:00",
+     "tags": []
+    },
+    {
      "title": "리플 1.30달러 '마지막 방어선' 시험…전문가 \"1.24달러 깨지면 위험\"",
      "source": "코인리더스",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yTVY4eXpHMTQ4SThHLUVXQUNlUFdjcDNKLWVaN05UTktlUlRkWk0zUHFvamUzc0NuNWhDSFdvMElEQWpJbzRxZw?oc=5",
@@ -500,7 +544,7 @@
     {
      "title": "리플(XRP) 1.50달러 꿈 멀어지나…ETF 자금 이탈에 0.99달러 추락 경고",
      "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2NUJQa1ZyeHRNeExfR05ZeWZoazNsOW81Z2FUTGRLaVo2ZlBLVkN0V0RNSFdwN2plZU1MWmxHR3J3R1h4TEpoMnln?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKT1NqclN3M052Yk9RZUtXX050ajFIVVdIbkRFT0plSWJXLVBnMU5tYlBHTkxUR3VqMm96RENqc1U4bFczN2EwQg?oc=5",
      "published": "2026-10-19 14:29",
      "tags": []
     },
@@ -517,48 +561,6 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lM3Z1XzB2U2c5UmZBUE9pNEswNEEtQ00yVVJzU2VQOHJfNl8xMVhHY29tOUpiNUVpUTg3QjhtWVRJTDB3NzVvQ0otX1Q0TlVCWUtyS0tJeTZwN2wzd2NfOHd6RVBxUFJTUUVVdGkwYk1oN0k?oc=5",
      "published": "2026-10-19 14:15",
      "tags": []
-    },
-    {
-     "title": "비트코인 8만2,500달러 회복 시도! 리플·이더리움은 여전히 하락 경고",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kc3psalVQM2xBaUk1THI2RkYwRXNJWUZSdEF5QXdTdEV2eDV5dzFINFZKRmQ5Z3hfenFzMUhGWm0tSUp6cHF2ag?oc=5",
-     "published": "2026-10-19 12:55",
-     "tags": []
-    },
-    {
-     "title": "이더리움 ETF서 3억2000만달러 이탈…비트코인보다 더 빠졌다",
-     "source": "디지털투데이",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6TzFSX2NDdnR0emsyN3BYTl9vamNiOURCMm1sc3p4RGJZd3FtMG01WmhCR3EzNFpHejFWYUNnOVRacWYtYk11Y1FJTDlZTGsxZ0dabExGNGhOc29XaE14Znh5ZmFiT0daWUV0WEl0aUxTbFk?oc=5",
-     "published": "2026-10-19 11:15",
-     "tags": []
-    },
-    {
-     "title": "XRP, 검색량 90% 증발...개미들 나갔는데 가격은 '버티기'",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xRGt2RE5QbFl2amFfRk8wTGtFVFhEdHNqcTM5S3o5ZER0SzNQOHMxSVA3WmZyWklVNV9RNVlzMjBvRmJ2Q3hKMnZ3?oc=5",
-     "published": "2026-10-19 10:50",
-     "tags": []
-    },
-    {
-     "title": "XRP 레저 결제량 하루 새 72% 폭락…리플 가격 1달러까지 밀리나",
-     "source": "디지털투데이",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sS2k5LVB0ZlRpOVRBN0hCdmgtbXRiWko1X0NqVXh3ZVM4ZC02LXBsMGRaN3M1bFJONmFZZGs1d1J1NTFKZERBWi1tSFlXd3V5ZGpDMmtkdFYtWTNiMDJZOUVyRmZMdWlIODE4OTZkWnVfT1U?oc=5",
-     "published": "2026-10-19 09:48",
-     "tags": []
-    },
-    {
-     "title": "비트코인·이더리움 '연말 랠리' 올까…금리·ETF 자금이 변수",
-     "source": "디지털투데이",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hemNQZ2loc3NYMU56OExmMnhZVXhCWEp2OGYwUVRBRmhZWWF6NWhEdHRIenVna2xDaFgwREE3YzJ3VkJiaTBYcHRCbzd4ODdna2dILTNjN2thWXQzbG8zYi11OFZucHdCd3dfZl9MZ1k4RzA?oc=5",
-     "published": "2026-10-19 09:19",
-     "tags": []
-    },
-    {
-     "title": "이더리움(ETH), 2,408.64달러 보합권…24시간 0.37% 상승",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzWGFyWUdqdHU5bzNET2VyYlBiMDBWTlMtWnJIbmI4WEVfSlFFUjBQSEhsbmZZXzRxbUVVRGFSbFRGdWl4YlVKVTlB?oc=5",
-     "published": "2026-10-19 09:01",
-     "tags": []
     }
    ]
   },
@@ -571,6 +573,20 @@
     "트럼프 행정부"
    ],
    "items": [
+    {
+     "title": "세계 구리값 사상 최고치 경신에도 가격 하락 전망 늘어, \"트럼프 정부 관세 불발 가능성\"",
+     "source": "비즈니스포스트",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByMlFFSWJidkNrdE80a25ma3VTN0VOcTlMcVdEcTVMemVLQ2pXWFJ1a0tDeThIWHR1ZkVzcWhPaHA4VWw1c1pKMzR1alF1Zm9scW5NRzdrY25QSFdwVURkY3VmRHFET2xMbEh2UXpxSlVfUms?oc=5",
+     "published": "2026-10-19 16:37",
+     "tags": []
+    },
+    {
+     "title": "\"트럼프 한 사람에 달렸다\"…구리 강세장, 관세 불발 땐 '거품 붕괴'",
+     "source": "이데일리",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFdUQXgwelpadUNEeWJTc1FmTEpXTUpCZGNWVWlJekZ4REpFR3FEWFdpRXFJVnNScTFLODFfMnVrTVBWY2NROEg0SDBxbklGVjhobmsxc0RNRzVEdWEyYlJGQ1Rxdnd6ZDlESG0zaVRRWnNFSTltZkM4RlQtbF9Xaw?oc=5",
+     "published": "2026-10-19 16:25",
+     "tags": []
+    },
     {
      "title": "해임된 트럼프 특사 “행정부 인사들, 중간선거 앞두고 도망치는 중”",
      "source": "채널A",
@@ -586,10 +602,10 @@
      "tags": []
     },
     {
-     "title": "트럼프 전 특사 \"중간선거 전 행정부 인사들 대탈출\"",
-     "source": "연합뉴스TV",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ueGQ1OHFsOE9YWEIyQWZjOGM3MkRQaEJjZXMxYzMwZ2QwM05Zci1qQ3dWbU9kTDF1dkJXR28tV01NUUhZdGR5NjIzeW5aNEMzQ3d4UzVCbHpnR1JBd0ZUdE9GanNpZWs?oc=5",
-     "published": "2026-10-19 14:31",
+     "title": "트럼프 전 특사 \"중간선거 앞두고 행정부 인사들 대탈출\"",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5YVdPYW5NS0FnVm9uTnlnUFhTcmlNSjF0ZnlBSVhFcFhmdnBtVkllMTIxcC1MeGZIMktIRzAwMTJEbWNRaDhXaktVS01VSkhYc0xnSWMwbVExbnk1aGN5ZtIBYEFVX3lxTFA5YVdPYW5NS0FnVm9uTnlnUFhTcmlNSjF0ZnlBSVhFcFhmdnBtVkllMTIxcC1MeGZIMktIRzAwMTJEbWNRaDhXaktVS01VSkhYc0xnSWMwbVExbnk1aGN5Zg?oc=5",
+     "published": "2026-10-19 14:27",
      "tags": []
     },
     {
@@ -630,31 +646,17 @@
      "tags": []
     },
     {
+     "title": "\"트럼프 지지율 33% 최저치\"...전국 '노 킹스' 시위 [뉴스UP]",
+     "source": "YTN",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mX3VyNWZfN09Ma3NhMHlOdGtCM29oX2RKRUl3S29icXRxQ3dXTEdFNm44YTJ5QXI4MjBkSkVZSTg4YnpXamtNb1lxb2oyZjY4cmU2bk8tLWo0Z2VTSnc?oc=5",
+     "published": "2026-10-19 08:55",
+     "tags": []
+    },
+    {
      "title": "트럼프 행정부, EU 스타링크 주파수 제한에 '파괴적 보복' 경고",
      "source": "글로벌이코노믹",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdF9Od2NCazdaTmh3Mjk4THRiU1hkSmFTZC0zMDVXeVkzZUs2c19nNkFjMEZHdnN0ZF8xV2FwR2Z1SG54V2NMa0NMTU1ta2dFeDRLd2ZFdUxoNVdSeUlsZnNCOGlHT0YzRHFNWGowbXFjTW1hMl90Q0QzV2d4OTR0c0hzSmJVekVJ?oc=5",
      "published": "2026-10-19 08:16",
-     "tags": []
-    },
-    {
-     "title": "트럼프 '러産 에너지 수입 관세 취소'에 공화도 반발 기류",
-     "source": "티제이비",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RdWRNZjI3UlQyV2lFNjZVdEwtR2Q2NDV4Vk5pSkt4MmxyWTVQaG5KQTVvY0UyazZHelJVc3JZbGt3bGNXZVR4Sk5jZ1RLZ3BLdng2Ny1nbjlNdTBR?oc=5",
-     "published": "2026-10-19 08:03",
-     "tags": []
-    },
-    {
-     "title": "트럼프 지지율 33%, 집권 2기 '최저' … 경제정책 반대 70%",
-     "source": "뉴데일리",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVFpmUE9Gdk45WnlPcUhIYlRDR19UNXdCRW5FR2k3NjZCYlFqWVZYRnEwSVZKMUdKVnkyamRjRGVNUUl6SDZoa2lYa05HNVBFS19FTjhOT1FUYzBvTkJtdGsyUVVsNTh6RUc2VDhWSzdzT3RWd3BTdzFuWWFBYXJSMtIBgAFBVV95cUxQVFpmUE9Gdk45WnlPcUhIYlRDR19UNXdCRW5FR2k3NjZCYlFqWVZYRnEwSVZKMUdKVnkyamRjRGVNUUl6SDZoa2lYa05HNVBFS19FTjhOT1FUYzBvTkJtdGsyUVVsNTh6RUc2VDhWSzdzT3RWd3BTdzFuWWFBYXJSMg?oc=5",
-     "published": "2026-10-19 07:53",
-     "tags": []
-    },
-    {
-     "title": "지지율 최저치에 여권 내분까지…궁지 몰리는 트럼프",
-     "source": "연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DLUhCdXhLOWJ0LTRvd3E1enFxc1E3UW94VE5JSGxwZ3ZUalFnM2prZ3BSRHplRjVORlFzOUhLRnRCOHZySVlkMmRKQUlZUHBfZXR1clNLcVFYQVUwcVNUadIBYEFVX3lxTE1DLUhCdXhLOWJ0LTRvd3E1enFxc1E3UW94VE5JSGxwZ3ZUalFnM2prZ3BSRHplRjVORlFzOUhLRnRCOHZySVlkMmRKQUlZUHBfZXR1clNLcVFYQVUwcVNUaQ?oc=5",
-     "published": "2026-10-19 07:38",
      "tags": []
     }
    ]
@@ -670,10 +672,52 @@
    ],
    "items": [
     {
+     "title": "젤렌스키 \"전쟁 중 대선 치르면 출마할 것\"…트럼프 퇴진 요구 일축",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0taUpJTmxkM2RBaWJNVjBOdVo3S3dWVHJkRER5S2hZT3dWZDloVWUwUTFaWUNpMURLeXg5N0dXZ2FLbUdXME9fck5XTEhQZkNSMXgw?oc=5",
+     "published": "2026-10-19 18:20",
+     "tags": []
+    },
+    {
+     "title": "푸틴, 우크라이나·유럽 빼고…美·中에 '종전 3자회담' 제안",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05NHNvUU9iTlRXZjNudzI5d1V0MHpiVEFSWWp0X3pwaXRBc2t4V3NMVUdreHRMUzdZZDVhOEp4WUwwNmQtTHRPQzZSREVGS1ZKa0dsaVFpdmRPUQ?oc=5",
+     "published": "2026-10-19 18:13",
+     "tags": []
+    },
+    {
+     "title": "카타르도 뚫었다… 중동 전쟁도 못 막은 한우 수출",
+     "source": "한국일보",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wZGQxdEhVNFpFWllpMlRsZklPd2h1dHlOUHRuU0x5N1g5ZzRpc1BhMUZUOGhoa2NubTc5TG1hRWJuby1YSEVsckpJLTBlelU2UUp6M1VYNGdxcmJveWgwX29VMnNLdVktRDhlcDdn0gFzQVVfeXFMTl9FeFhWMk5SX3VLOUxHdWhKZVFZQlh0b2VSWjBQeEZFWU1GTmtuN0VqZHd4TnA5b3otamc4dVdVVG9YVVdOdkp4d3ZLa2FWUERhTVk5Zi1LM0JDckVlOXZ2akt3UzZUeHVUQkpZQ2kzUExKMA?oc=5",
+     "published": "2026-10-19 17:23",
+     "tags": []
+    },
+    {
+     "title": "‘대러 제재 유예’ 비판 속출하자…트럼프 “러·우 전쟁 협상 위한 것”",
+     "source": "경향신문",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xaTVhMFJlUGhqRk1UYW5Ed1d2X1lMSG95bUgtWG1ucnR5RTBDdTRROURpV25xVzdxYVVOdmJINWx2X2V6Z1lkZDBhR19yS1pTOE5WcWJTR0J6NThCYTJB0gFfQVVfeXFMTzFpNWEwUmVQaGpGTVRhbkR3V3ZfWUxIb3ltSC1YbW5ydHlFMEN1NFE5RGlXbnFXN3FhVU52Ykg1bHZfZXpnWWRkMGFHX3JLWlM4TlZxYlNHQno1OEJhMkE?oc=5",
+     "published": "2026-10-19 16:55",
+     "tags": []
+    },
+    {
+     "title": "美국무장관 \"우크라이나 젤렌스키, 전쟁 종식에 집중해야\"",
+     "source": "이투데이",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vel82c1U4REJFenhPUm1zMk9IX1Rrd3NRVWpUWlh0UVB5c2NwSlVfclJfdGJHalF0V2lHNEFDMUF0OFZ0SVFSQURURVQ4dEozNnZtcG10M0JVRUZyZERmbTJmUmNFX3VCOUhMYm9neEY0dzNs?oc=5",
+     "published": "2026-10-19 16:40",
+     "tags": []
+    },
+    {
      "title": "루비오 미 국무장관 \"젤렌스키, 전쟁 종식에 집중해야\" 작심 발언",
      "source": "MBC 뉴스",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZaFNEaUpLU2dxcUpCeU85MWVzcE0xMTJCaUFlcjlXa0RSTFZpSEowU2ZvcEpTV2oxRFl2UVNKbWcxYkl1d19vN3pLUXpVY2tUR3VSOUFTcGJ4NG1MWF9kOVhnWkpTWlliX3hlMk1iZ0VSR2xQ0gF0QVVfeXFMTUVRWkpDMDVYQTZ5N2R6aGk4V1FueHUydC0xNTFEcnY5dmR4SkhhS29TUkdmMXBJMEtDTXMzdUxBd2ZfUjk5d0RDcFVnaHFyYWNUamdOTllZRXNEdVpUUmltdy1kQTNkYXBUYTlJNkdrbWdHOGs?oc=5",
      "published": "2026-10-19 16:07",
+     "tags": []
+    },
+    {
+     "title": "美국무 \"젤렌스키, 전쟁 종식 집중하라\" 압박…美·우크라 경색",
+     "source": "노컷뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EeW14Vi1zcmxCZFJJVnpVSUdWZEtOV2ZIZjlxb2FYaHBUeGdQTkptZDdQck1jZGJpQ0w1UnpmQTNZbGpBOFFRNkppVHJnQ3ZTQWc?oc=5",
+     "published": "2026-10-19 15:50",
      "tags": []
     },
     {
@@ -691,16 +735,16 @@
      "tags": []
     },
     {
-     "title": "美국무, 미중러 정상회담 질문에 \"우크라·러, 전쟁 종식 집중해야\"",
-     "source": "뉴스1",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZWlaeE9xTzZ4ZmFFLVFRRjA1VkJWV2M2R2FyYzBzR2gzMjBZbXhwemRPN1J1a2JrSk5Scy1uVVRqVGhrSDlSY29zZWwzNmV2Skx2NjNlWms?oc=5",
+     "title": "“푸틴, 러·우 종전 위한 트럼프·시진핑과 3자 정상회담 제안”···제2의 얄타회담 바라나",
+     "source": "경향신문",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PVHIyMl9xX1V6anpDVEdrUjlkRkpoeGxWMHFkUS0zM3JxTlB1OFFVcWhXUUVIUmJHWXpadE5HcU0zLWVrM1JkeWV6UnhZRjZxQXBaUElwVFpjb0ZkcVBN0gFfQVVfeXFMTU9UcjIyX3FfVXpqekNUR2tSOWRGSmh4bFYwcWRRLTMzcnFOUHU4UVVxaFdRRUhSYkdZelp0TkdxTTMtZWszUmR5ZXpSeFlGNnFBcFpQSXBUWmNvRmRxUE0?oc=5",
      "published": "2026-10-19 15:16",
      "tags": []
     },
     {
-     "title": "“푸틴, 러·우 종전 위한 트럼프·시진핑과 3자 정상회담 제안”···제2의 얄타회담 바라나",
-     "source": "경향신문",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeDVQaGNvWEJuV1BvaS1FTzlqOXNubWN6ZHQ4S0pCZmM3V1NhLXhRSThXbEg5bDlIMzN6YmhLRUpWcU9abThwMFM1RDY0U29Bbl9FajZuRmNkdG85MXlpampPLVNWSHlxQzRzZDZGYUptZXh6a0pOZmNFdEJzOFJ4RzdCUkNQVzRtRjVaWWxoYUdZQWMzOG0wYlJjQUhIQnRtLU9HbjkzSGM4dw?oc=5",
+     "title": "美국무, 미중러 정상회담 질문에 \"우크라·러, 전쟁 종식 집중해야\"",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZWlaeE9xTzZ4ZmFFLVFRRjA1VkJWV2M2R2FyYzBzR2gzMjBZbXhwemRPN1J1a2JrSk5Scy1uVVRqVGhrSDlSY29zZWwzNmV2Skx2NjNlWms?oc=5",
      "published": "2026-10-19 15:16",
      "tags": []
     },
@@ -709,48 +753,6 @@
      "source": "헤럴드경제",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1za0dzbHJ5RFRVV0NIWHRuYm5lelN2eGFvSDNTckVISnMySGR5SF9xT002Rm5rbUsxenhpSFlrNzg4aWE5Y1Qwb1BKOXNGeEprOXdCTnFn?oc=5",
      "published": "2026-10-19 15:11",
-     "tags": []
-    },
-    {
-     "title": "미 국무 \"젤렌스키, 전쟁 종식에 집중해야\"",
-     "source": "연합뉴스TV",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43djVkZ3NXaGZtN3RvM044U3pOUkQ0bzZENUdqNm01T2RjVFFYMUFZM3RSZThlTzZHOC1zWW5xVkZFUlZFWl92R0JTbC16NHJQNTFnQkNxOGRQNFY3V2FMWDBPYmE5a0k?oc=5",
-     "published": "2026-10-19 15:00",
-     "tags": []
-    },
-    {
-     "title": "푸틴 \"우크라 빼고 종전 논의하자\"…미·중·러 3국 정상회담 제안",
-     "source": "한국일보",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XNWtSX3FWaTMxcVRXVWpkMUFmYkdXMFJUbkgyT2tiSFFZclRrYUlxZ3YxMEJzSk5pc3pEd2FsVGdPZ1FfN2ZHSGw1bWNudklKaDVlRDEwOUsyMmFSNVNFYXVGQ2ZabklMb29VeE1R0gFzQVVfeXFMTnIyMzZfQkUtVWt2ck1KSDdMcVMtVnBMdVl2U3h0a21OemRDVGlxVW81WjAtWUFiTW1nYmtxQXRLX3JsTHdlcHlxRldxbTdiQndPVEJwNkZ0bzNVdWQ0N2g1RVNabWhKU1JiWDdQOHdGZkR5aw?oc=5",
-     "published": "2026-10-19 14:28",
-     "tags": []
-    },
-    {
-     "title": "푸틴, 트럼프·시진핑에 우크라전 종전 3자 정상회담 제안…젤렌스키는 제외",
-     "source": "독립신문",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPUDh3YmoxbURlaGNteks0UXF5VEpFVlJ6OHNvOWtzem9NQkZ5dDJYdEt2T3NYQmdaVmp1NjJ5UGJuS3UzdWJPUTY0NXlmb1pPZmxHMHltd3dyNVRubXNxZlhEbGVzbDZRT21z?oc=5",
-     "published": "2026-10-19 14:12",
-     "tags": []
-    },
-    {
-     "title": "트럼프 대통령: 젤렌스키는 러시아와의 전쟁을 끝내고 싶어한 적이 없었다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmtHdEVZU1VKcFZCNmFJX3EzTENESDZhUlF1cVlqQ2lGbm10RHBwMHNGWXZnNmhWMXR6d0h1SEY3Nkh2dTZtMnc5MTZ3X3NMTWlUNWs1YVJDVFJQVXM5aHdfaHhadzNyTndROEZPdTZkNWM4enBJUzhGSFdaZER2aWx0S1dGaDdoVGdXeVlhV3NTOUJOc1puQ0NLdWhGRzBWejJaMQ?oc=5",
-     "published": "2026-10-19 13:23",
-     "tags": []
-    },
-    {
-     "title": "인천시, 중동 전쟁 피해 중소 수출기업에 5억 2,500만원 지원",
-     "source": "중앙신문",
-     "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQkZhSVE3WEtKMlpxRDdYRURBdjJzaDdsRzhVZUVHX1NxR2xoMkpScVFfa09sU1NXNjJJOTRmNURVV2taemZQY3NRNmRXOGM2QWI2NmJnUmgzNmxORm1DSHFHWVYxODJTWEtRemlsQUVhU1llOXgwVm1qLThPTWxneloxdFlNa2dsajY3a2laY0lpT1VlcXFRdTJvREl0eVpSSzE5UlB3UmRCQUU1ZXdkU3hNQ2NtZHNWeUh6WUV4WTBwSUFnbnlQaHJnODM4T2sybkF4V3BOV2FiRzk5TDJINFh2T09TVWhpRmlyZVlidzByaHRCT0d0bDlUa2NJRUZ2ZXlLTlpQUlJtdDNWWktwaE9hRmx3VklvY29fYUNtYVVFY21tZWJVTnhjQnM4d1FaRUtIa0hkR25hVkltTHFHTV94MzdMZTVVdjdEMUN6RzM1Tk04dVQ0UkdXYw?oc=5",
-     "published": "2026-10-19 13:08",
-     "tags": []
-    },
-    {
-     "title": "중동 전쟁·검역 벽 넘었다… ‘횡성한우’, 카타르 첫 정식 수출",
-     "source": "메트로신문",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uTFhkQUl5Q2RPR1lQMkFYTFp1cEtBWURnZGhlQWdMUkZmNXZ5U3cyVl8ybFVwM3owengyUXo2UDN2SVV3Yk5temZWRk5tREFTQjY2dUw1dnJSUWotbGZJMA?oc=5",
-     "published": "2026-10-19 12:47",
      "tags": []
     }
    ]
