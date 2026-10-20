@@ -184,8 +184,10 @@ function renderMarket(data) {
       const left = el("div");
       const date = MONTHLY.has(it.id) ? it.date.slice(0, 7) + "월분" : it.date;
       left.append(el("div", "name", it.name));
-      if (it.time_us) {
-        left.append(el("div", "meta when", `${it.time_label} 뉴욕 ${it.time_us} · 한국 ${it.time_kr}`));
+      if (it.time_us || it.time_kr) {
+        left.append(el("div", "meta when", it.time_us
+          ? `${it.time_label} 뉴욕 ${it.time_us} · 한국 ${it.time_kr}`
+          : `${it.time_label} 한국 ${it.time_kr}`));
         left.append(el("div", "meta", `${it.unit}${it.note ? " · " + it.note : ""}`));
       } else {
         left.append(el("div", "meta", `${date} · ${it.unit}${it.note ? " · " + it.note : ""}`));

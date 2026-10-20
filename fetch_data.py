@@ -132,7 +132,20 @@ def fetch_kr_index(id_, name, yahoo_ticker, naver_symbol):
     if not merged:
         raise ValueError("두 곳 모두 데이터 없음")
     history = sorted(merged.items())
-    return make_item(id_, "국내 증시", name, "pt", 2, history, " + ".join(used))
+    item = make_item(id_, "국내 증시", name, "pt", 2, history, " + ".join(used))
+    add_kr_time(item)
+    return item
+
+
+def add_kr_time(item):
+    """국내 지수: 오늘 장중이면 확인 시각, 아니면 그날 장 마감(15:30) 시각"""
+    now = dt.datetime.now(KST)
+    d = dt.date.fromisoformat(item["date"])
+    if d == now.date() and now.time() < dt.time(15, 30):
+        t, item["time_label"] = now, "장중 (확인 시각)"
+    else:
+        t, item["time_label"] = dt.datetime.combine(d, dt.time(15, 30), KST), "종가"
+    item["time_kr"] = f"{t.month}/{t.day}({WEEK[t.weekday()]}) {t:%H:%M}"
 
 
 # 가상자산: 업비트 원화 시세 (실패하면 야후 원화 환산 시세)
