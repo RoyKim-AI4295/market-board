@@ -74,8 +74,6 @@ UA = {"User-Agent": "Mozilla/5.0 (market-board; +https://github.com)"}
 # ───────────────────────── 1. 시세 ─────────────────────────
 # (id, 그룹, 이름, 야후 티커, 단위, 소수점, 배율)
 TICKERS = [
-    ("kospi", "국내 증시", "코스피", "^KS11", "pt", 2, 1),
-    ("kosdaq", "국내 증시", "코스닥", "^KQ11", "pt", 2, 1),
     ("nasdaq", "미국 증시", "나스닥 종합", "^IXIC", "pt", 2, 1),
     ("sp500", "미국 증시", "S&P 500", "^GSPC", "pt", 2, 1),
     ("es_fut", "선물", "S&P 500 선물 (E-mini)", "ES=F", "pt", 2, 1),
@@ -85,6 +83,52 @@ TICKERS = [
     ("jpykrw", "환율", "원/100엔", "JPYKRW=X", "원", 2, 100),
     ("eurkrw", "환율", "원/유로", "EURKRW=X", "원", 2, 1),
 ]
+
+# 국내 지수: 야후는 한국 지수가 며칠씩 늦게 들어오는 경우가 있어 네이버 금융 일별 시세와 합칩니다.
+# (id, 이름, 야후 티커, 네이버 심볼)
+KR_INDEX = [
+    ("kospi", "코스피", "^KS11", "KOSPI"),
+    ("kosdaq", "코스닥", "^KQ11", "KOSDAQ"),
+]
+NAVER_DAILY = "https://api.finance.naver.com/siseJson.naver"
+
+
+def naver_index_history(symbol):
+    end = dt.datetime.now(KST)
+    params = {"symbol": symbol, "requestType": 1, "timeframe": "day",
+              "startTime": (end - dt.timedelta(days=200)).strftime("%Y%m%d"), "endTime": end.strftime("%Y%m%d")}
+    r = requests.get(NAVER_DAILY, params=params, headers=UA, timeout=20)
+    r.raise_for_status()
+    # 응답 예: ["20261016", 5600.1, 5680.2, 5590.3, 5668.05, 123456, 0.0]
+    rows = re.findall(r'\["(\d{8})",\s*([\d.]+),\s*([\d.]+),\s*([\d.]+),\s*([\d.]+)', r.text)
+    if not rows:
+        raise ValueError(f"네이버 {symbol}: 데이터 없음")
+    return {f"{d[:4]}-{d[4:6]}-{d[6:]}": float(c) for d, _o, _h, _l, c in rows}
+
+
+def fetch_kr_index(id_, name, yahoo_ticker, naver_symbol):
+    merged, used, notes = {}, [], []
+    try:
+        df = yf.Ticker(yahoo_ticker).history(period="6mo", interval="1d", auto_adjust=False)
+        for i, v in df["Close"].dropna().items():
+            merged[i.strftime("%Y-%m-%d")] = float(v)
+        used.append("Yahoo")
+        notes.append(f"야후 최신 {max(merged) if merged else '없음'}")
+    except Exception as e:
+        notes.append(f"야후 실패: {e}")
+    try:
+        nv = naver_index_history(naver_symbol)
+        merged.update(nv)  # 같은 날짜는 네이버(한국거래소 종가) 값 우선
+        used.append("네이버 금융")
+        notes.append(f"네이버 최신 {max(nv)}")
+    except Exception as e:
+        notes.append(f"네이버 실패: {e}")
+    print(f"  ({name}: {', '.join(notes)})")
+    if not merged:
+        raise ValueError("두 곳 모두 데이터 없음")
+    history = sorted(merged.items())
+    return make_item(id_, "국내 증시", name, "pt", 2, history, " + ".join(used))
+
 
 # 가상자산: 업비트 원화 시세 (실패하면 야후 원화 환산 시세)
 CRYPTO = [
@@ -282,6 +326,12 @@ def update_market():
         errors.append(msg)
         if id_ in old:
             items[id_] = old[id_]
+
+    for k in KR_INDEX:
+        try:
+            items[k[0]] = fetch_kr_index(*k)
+        except Exception as e:
+            keep_old(k[0], f"{k[1]}: {e}")
 
     for t in TICKERS:
         try:
