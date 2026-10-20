@@ -44,8 +44,13 @@ def add_us_time(item, ticker):
     try:
         if kind == "close":
             d = dt.date.fromisoformat(item["date"])
-            t = dt.datetime.combine(d, dt.time(16, 0), NY)
-            item["time_label"] = "뉴욕 종가"
+            now_ny = dt.datetime.now(NY)
+            if d == now_ny.date() and now_ny.time() < dt.time(16, 0):
+                t = now_ny  # 장중 실행: 아직 종가가 아닌 현재가
+                item["time_label"] = "장중 (확인 시각)"
+            else:
+                t = dt.datetime.combine(d, dt.time(16, 0), NY)
+                item["time_label"] = "뉴욕 종가"
         else:
             bars = yf.Ticker(ticker).history(period="5d", interval="5m")
             t = bars.index[-1].to_pydatetime()
