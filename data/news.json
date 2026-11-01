@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01 21:37",
+ "updated_at": "2026-11-02 06:56",
  "errors": [],
  "topics": [
   {
@@ -12,6 +12,15 @@
     "중대재해처벌법 개정"
    ],
    "items": [
+    {
+     "title": "[단독-중대재해 리포트 ⑩] 아리셀 선고가 남긴 ‘숙제’ 하급심 흔들까",
+     "source": "매일노동뉴스",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Y01GWE1oQ3JtQk9RS19USzdKWFBva2poVnoyN25DNjFIOGE3ZlI1QS1wX09SbWphRXR5aWNKN3ZYUnk5YmNPbWZ1dk40enFDbWpsWWVOV28wajZaRGZDLWxwY20wTnpXOHRZTVZEcDA?oc=5",
+     "published": "2026-11-02 06:30",
+     "tags": [
+      "판결"
+     ]
+    },
     {
      "title": "금호타이어 광주공장 끼임 사고 30대 근로자 사망, 노동당국 중대재해법 수사 착수",
      "source": "스페셜타임스",
@@ -31,6 +40,13 @@
      "source": "https://www.ppss.kr/",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6Y0p0Zkw2OUhmQlpPOEF5TzRkUUlxVjh2d2ZKQlE0bHFHbHE1VmQ2NThoUllTMW1EZUcwamh0WlNqMFJUdFNaNWZHbmJPbDFISXdqdVJEaUMxTGF1VERLMk5QMnk?oc=5",
      "published": "2026-11-01 18:28",
+     "tags": []
+    },
+    {
+     "title": "금호타이어 광주공장서 30대 노동자 끼임 사망…중대재해법 위반 수사",
+     "source": "비즈중앙",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DcFZDU25WcWljd1lrQjlYWDZVV3hGRzFqYldMM3IxXzlYaE1vMEVwSktzd1c1Z0VTTjlWMG1NdlFST3hIZXZhUmlFRmc2NTBQMUUtWG02OXU0b25fZnRTOENIU0w2TGlDSVJTTHdtdFI?oc=5",
+     "published": "2026-11-01 18:06",
      "tags": []
     },
     {
@@ -76,26 +92,10 @@
      "tags": []
     },
     {
-     "title": "진천군, ‘2026년 중대재해예방 역량 강화 교육’ 실시… 안전관리 체계 확립",
-     "source": "내외뉴스통신",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82c2dyNXdnM2RWdVE1MUhMRmRyN3RYdFlyMC1HR1lOeUtFaG1VbzNwRE1Ral9ZU18zYmNBYW9mNjBManZ2TzdjNHBaQkVwcGVSRkl5UVM4aXJVN0pFZDNaUEJGVnJkRzhHREZVd9IBcEFVX3lxTE9ocVVMZnpSbDRpTEUxWk1WOWxnZnNzbHFjWmZHU1VWbzhWOUhWeWJvSW9zd2ZLSjlMVW1SMTdwRGVKX1Qwd3g2TnpXbmxlT1FsZU1tX2F1cmwxdGtTQW1zeklrSnRKZkROWVlCSWxKZHI?oc=5",
-     "published": "2026-10-29 21:27",
-     "tags": []
-    },
-    {
-     "title": "중대재해 꾸준히 발생하지만, 전주지법 4년간 중처법 위반 모두 집행유예",
-     "source": "전북도민일보",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96Q1ZNMTlNNHd4SzhSVVZJa0hMdVhkYlJmOTQ4TUpKZUdUOHM5T2YyYXB0Q3hfYU1LTG1ENUFPdGdKcGF1U2dsOUFQYW1aYTZtNmdUa29WcHg2TDN0dFRNOXFlV1BXYVdRcG80?oc=5",
-     "published": "2026-10-29 14:55",
-     "tags": [
-      "판결"
-     ]
-    },
-    {
-     "title": "인천환경공단, 중대재해 예방을 위한 ‘2026년 안전 패트롤’ 실시",
-     "source": "인디포커스",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXFFYzY5SVU0NjdsTnhwbUZQamFmOGJvZVRqVlUxb1ZNWDJVdHZCZjhXSjFNZG5ta09aeGllN2JOMm5WTVVTRkpjUEtzSmI2UFVCRDY1M3B1cGJDUnFaU1YyQ2hDM1hReTZKWWdWZTN1Qk9jbmpnR3M2NWxTRHJnNmpjQ2NSSG04YjNGQ21fc0M?oc=5",
-     "published": "2026-10-29 13:19",
+     "title": "안성 일죽농협, 중대재해 배상책임보험 현판식",
+     "source": "농민신문",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBY1dPMGdXNVVwSXFidHducGpqdHIwdTF0ZGVVQ1N2Q2xfd2sxc1hJUmZUMUZCWW1DTjNWbGZBamdSSFdmZDVlOEo2SzdlVm5aS1dDdnJvYlVpQQ?oc=5",
+     "published": "2026-10-29 23:01",
      "tags": []
     }
    ]
@@ -110,6 +110,13 @@
     "노란봉투법 판결"
    ],
    "items": [
+    {
+     "title": "[K-양극화 막을 노동정책 ⑤] 노란봉투법 현장 안착을 위한 몇 가지 제언",
+     "source": "매일노동뉴스",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zaXFFaTBTemxvLTNFbDFRcUo4T3poSzVQVjRNNUtTWVc5a09wbnFjRUVBbkUyUVF4VUUzTVFpa0tUN2NnbTd6OV9Jb3A4YTFrX3I0bGwza05aVVFBYXh6TGgwb2ZacEFsOTkyZzV5RnI?oc=5",
+     "published": "2026-11-02 06:30",
+     "tags": []
+    },
     {
      "title": "오늘의 카드뉴스|[카드뉴스] 노란봉투법 시행 7개월, 원청 교섭은 어디까지?",
      "source": "ZUM 뉴스",
@@ -180,25 +187,20 @@
      "tags": []
     },
     {
-     "title": "조선3사 추투, 끝 보인다..남은 고비는 하청 교섭",
-     "source": "파이낸셜뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nNWFEOXk3Umgxb1d2b2JjaGVSOXJoODhkS2dqTW5mN3E5bUVITk9zbDJtdk9XMmkwRTVxMEpzdWN1Yi0yajdITUxaWjRSaGpKN0ZuZ3NwZGp1dw?oc=5",
-     "published": "2026-10-29 07:29",
+     "title": "‘노란봉투법’을 둘러싼 찬반논란",
+     "source": ":: 위즈경제 ::",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iN2pVUTB5MW9uUmJDeUVoZ2ZITzVKQl9vR1RiMUJrSXlTSi1jZER3Qnd5SURaOFhtV2RNMGxkNGF5QTRNZi1iZVBsQjd4Tm84M0Zj?oc=5",
+     "published": "2026-10-29 16:00",
      "tags": []
     },
     {
-     "title": "카카오모빌리티에도 드리운 ‘노란봉투법 논란’… 치열한 공방 전망",
-     "source": "시사위크",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xdTVmSG1UWXdhZnVKeDRqa2o5R3ZNR0Fob19BMEpKYTdkWnRsckVpTGR1MjZfb0VJblh2ZXI5M1pPdXdrbTVjdkp5TzBNYzlMak5XSmhMZDlQUFF5Nmw0ZGFXbXUwbGNmYWJn0gFvQVVfeXFMTWlXT1lqMUlBN1I1MkZtWGh5UFFncVgyWEZ0N2VoT0lZd0FYUWl6ZmlrS2ZJS3ZkeVlDZzJGekpWUzA0TDlZZVdCX2lXYmY3cGV0ZllCeTlTRWdoS3F0NEwzcTlLSWJhTkhURE05M1Bj?oc=5",
-     "published": "2026-10-28 16:28",
-     "tags": []
-    },
-    {
-     "title": "‘노란봉투법 세미나’ 개최",
-     "source": "법무법인 세종",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNRVByQTlVaGhvaFFWb3JycG8yd250UkE1WUMtYjNCam0wUmVYbFNISGZoRXVBOHdiam5NXzNWbzFUWjVMNE00eVZ6cDJMSzJ1VGpVQTlZbFE?oc=5",
-     "published": "2026-10-28 09:26",
-     "tags": []
+     "title": "‘원청 사용자성’부터 ‘n% 성과급’까지…박지순 교수 “노란봉투법 보완 입법 시급”",
+     "source": ":: 위즈경제 ::",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pZTI4Vk1BaENpZTBydU9RRTMzdF9pYlRPVEFoSEZsOUhTdEpvQnBGQUZrYXBBQmhlaDhIQ05hNFFLQldQa2tNTmV4VVRnVmVva3Iteg?oc=5",
+     "published": "2026-10-29 16:00",
+     "tags": [
+      "법 개정"
+     ]
     }
    ]
   },
@@ -215,6 +217,13 @@
     "장기보유특별공제 국회 수정"
    ],
    "items": [
+    {
+     "title": "직장·돌봄으로 집 비운 1주택자는? 부동산 세제개편안 국회 '심사대'",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pOWQyMVVRYU82QndBRVNHSjFBSVF2SHhLd0JKX3VTaUJvX1psczFXaXB3a0ctUDJnU1d5RmJUeE5tbHN2a0drbkN4NzJ3b0xLREhXaEZ6RTBJd3hNVVM5QdIBeEFVX3lxTFBTamd4SG1DSmkyMzdENXRQY2NGYmFNRXVxZ3JuaEhCMXd0SFBGeUNTUnNpNmVIOE1vNFlhZ0RQZER3OUJKWkRkcGc5anFocE1rN01KQ3lTLU9JblRkVjZtSXZBcUpFNmI2MXdhZ3FyX1dHYndrNEdaTg?oc=5",
+     "published": "2026-11-02 06:00",
+     "tags": []
+    },
     {
      "title": "‘장특공제’에 자녀 학폭 전학도 ‘거주 인정’?…“오히려 논란 키운다”",
      "source": "세정일보",
@@ -353,10 +362,10 @@
      "tags": []
     },
     {
-     "title": "연준, 선거 앞두고 일단 금리 동결…46년만에 회의 횟수도 축소",
-     "source": "서울경제",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nektEejEwQU5MTFI1UHlXZ3FzaUVrRldjcGpWYmFZZkt2Wm53M3MwaGRRbnJ6R2xuM2pFT2RURzlYR2ptLXVnSkt0UGxwM05SeVHSAVNBVV95cUxPWU5WYlZZT3c0YXhZWHBwVGo4ZUF1Z3AtQW9HRWJzLUltSkpiN2VuVjVUMHk0SkZDTEtQY2tSb0RkaG9pVkU4T2FzQVRSY2xUMEV5cw?oc=5",
-     "published": "2026-10-29 17:59",
+     "title": "연준, 기준금리 동결 `숨 고르기`… 한은은 `11월 인상` 무게",
+     "source": "매일신문",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nVTh2eHJRc1RXQmc0WldVSll4c2ZMQXh1NFNkakV2QUlSaGFfQVVzMG5Fd2VqNmpLV2pmSVRTNmVldFZjcnQ5UUd0YlE3MlMzbzNjcEFrQlBqYl91eWY4M2Zn?oc=5",
+     "published": "2026-10-29 17:34",
      "tags": []
     }
    ]
@@ -370,6 +379,20 @@
     "미국 고용지표 비농업"
    ],
    "items": [
+    {
+     "title": "[이번주 관전포인트] 물가·美고용 발표…이달 금리 인상 여부 갈린다",
+     "source": "센트럴경제",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vbXdpQklxWFM2R0FJYVVMT3lJekY0WkUyRHNlTFZEU1ZRZGtiZDBwRWh2Yk5mWDJHdWNFZnlpR3NLZDNWVnlTSl83OTFLYXRXLURPMXVBZ3NicmdydlJZWmE3Z3Jqd9IBakFVX3lxTFAySU5DQS1UYzV5Vy1kLTBlNkJhZWhHTVBGb1pQVlNVdnlydGREZXFOdDBuQXJKRk15TmlMOVFQeFpKdlRONC1RWXZuNF8xNTJkdkxaUE5NbHVKREhoT1VIZFpJSVdYY0dxVmc?oc=5",
+     "published": "2026-11-02 06:00",
+     "tags": []
+    },
+    {
+     "title": "[금주의 뉴욕증시] 알파벳·아마존 실적 여진 속 미국 중간선거·고용 지표 대기…빅테크 AI 충격 딛고 반등할까",
+     "source": "CBC뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tb1plcmdFTlRsWjZnQWNRc3NWMVhELVNGWEVHNWhmc1VuVUdqcl91SUFCUnRPUDYwY096ZENRa1lVU29nUXRxWTB2TjBiY0lyWlFXbHZuNF9PN2RoWkdFVTNjUHlFcmdq?oc=5",
+     "published": "2026-11-02 00:00",
+     "tags": []
+    },
     {
      "title": "미국 중간선거 3일·고용 6일…애플·AMD 실적 발표",
      "source": "토큰포스트",
@@ -392,6 +415,13 @@
      "tags": []
     },
     {
+     "title": "주간 프리뷰 | 美 중간선거·비농업 고용지표·애플 실적 발표 러시…Bitway(BTW) 1억 달러 규모 토큰 언락",
+     "source": "PANews",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MLWFnV1lQeVhzbC1WOUpqWDhHM2R0RDFqXzBpY1dIaWZ3WHhldU1hcm1CbkhOeUFSX3Bpd0szUThHbnRib3ZXNGdCTWtyZ2gxYXF5U1FZT0lEc1lETVdHazFMZmRDbVFyaDlHblgzN1VGX0JkbWVlSS1LTDlNMlk?oc=5",
+     "published": "2026-11-01 11:07",
+     "tags": []
+    },
+    {
      "title": "美 고용 증가세 회복 전망…연준 추가 금리 인상 가능성 커져",
      "source": "블루밍비트",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Bd2EzUklTSWM5SVN5VlEtNmlqcE9JUnZJYkY3bnpVNG9waDM3SzBQRzN5RTRGTlo3d08ycjVlTXo4WEEydFRGZHVFZUFRSzln?oc=5",
@@ -400,8 +430,8 @@
     },
     {
      "title": "[뉴욕증시-주간전망] 애플·AMD, 급락세에 제동걸까…고용·선거도 주시",
-     "source": "연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IcXFsUFJjM0t0MUlWaV9rUGNFVjZkQkptYllQaE9OLWNOaEtZaUcxZG5GcjNOMk1nUHlGT0hiUDVpMmNFTlJZOXliR2Z5LTlaV3BpcDRBWENMaGxVSVk4edIBYEFVX3lxTE9IcXFsUFJjM0t0MUlWaV9rUGNFVjZkQkptYllQaE9OLWNOaEtZaUcxZG5GcjNOMk1nUHlGT0hiUDVpMmNFTlJZOXliR2Z5LTlaV3BpcDRBWENMaGxVSVk4eQ?oc=5",
+     "source": "연합인포맥스",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UVBYWFJSYXZyZndTbFo4VGhJZS1SSlo3M0tUaWd3Q1k3V25aNjliTTBoVjRBemtxV1o2bHRJN0pxOUVaRjRsQk1iNkNEcFFzcFhGUnpSVC1TLVE4UzJhMUR3Umh5MmtxTDRZajZCdjI?oc=5",
      "published": "2026-11-01 07:00",
      "tags": []
     },
@@ -410,6 +440,13 @@
      "source": "TradingKey",
      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd1NWenlCaVVFZ3dORTV0M0g3cUhiUEUtM0xEc0xabTctalhzTm9uWkFlZlkwUlcyRmdPa1d0eE4zd3hCN2ZzdlQzU19OaUI0c0JURTlPVXdzWXlSZnpRajlaS0dNQjZnTWZJUm1INXhENGhfWjF6cFFmVF95MFZySnVfMGVOcmRuNnJKdnU3TU9DNkVNMHdFYlpoV2dscHlnWjR2MzNNQkxKSE53bzZ3bndrT181SlA1TDdGLXpMeE9MMEs5Z0x1RFpTRjM2VGxqTWllU2lNa0hKUkdhemc?oc=5",
      "published": "2026-10-31 23:00",
+     "tags": []
+    },
+    {
+     "title": "미국 물가연동채권 금리 5.51%로 인상…한국 환율·금리에도 부담",
+     "source": "OBC 뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wY2RJT3JfLW9yM2Mtbk93amF1aEV5eHdsX0RlZi1EM21JU1NyQ3p5a29LWnlzcGNyV1ZBQVlIZ3pZVXQ2WVJOUVFCOFVaa1V6VVpvRzkxSmpvU2FaaVBaVVhBMjhOOEp5bEE?oc=5",
+     "published": "2026-10-31 21:34",
      "tags": []
     },
     {
@@ -425,34 +462,6 @@
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UaEx2RUlXNlJsWnJVQTNmNkZjNUdMLXlfZFZzMUl2MmRwU3Y1RExBUGI1b2RoSHVCc2l2Mkc4bWNCdlVkMHRvLXBONmFsejdKSFZBeFp2eUtmWWdwaUM2ZlU0OGpsaEtwSU55YzZkSFZmMzY0Q1F2NnJETElCQQ?oc=5",
      "published": "2026-10-31 09:10",
      "tags": []
-    },
-    {
-     "title": "휘발유 CPI 34.2% 상승…미 성인 74% 에너지 우려",
-     "source": "토큰포스트",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40RlJmN1EzNUo3Nno2clRoaFdXem1YYUNRSGtzRWJwcGpBYnd2dHhNSURMcHVIS2YwRlE3eWJqRTJrVnBJd1lKdlhwcHpnTE1BT1hwM244OEc5VW_SAVtBVV95cUxONEZSZjdRMzVKNzZ6NnJUaGhXV3ptWGFDUUhrc0VicHBqQWJ3dnR4TUlETHB1SEtmMEZRN3liakUya1ZwSXdZSnZYcHB6Z0xNQU9YcDNuODhHOVVv?oc=5",
-     "published": "2026-10-31 07:41",
-     "tags": []
-    },
-    {
-     "title": "호주달러 소폭 상승… 높은 CPI 상승률과 RBA의 매파적 기조에 금리 인상 기대 확대",
-     "source": "www.tmgm.com",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPekw3S1BEX1JFdXZXRGNNQ2FlaXA3VlllOTd4OFhLQjJzTzFOQV9xa2w5RU9hZl9odE5sMTMtWDRZbXVCQS14OFFHZTd5bFJra0lIbElDZDJGR2VJVVFFOHFmUS1aMzhRdE9zWVlmQlVtWTZsX2tmQ1RUOTU2aXJMajJ5U3BGR1Rob3FpRThMdDhMeHBMalk0RU4yNXp0WmN6WWRUajNEd19jLUFib2xNRkRMU3E5LWI0YVhlSVZYSVROWDdySUYzX3ZRc1NhZTR6R2VyRkJ5Z2hOQUx6bDk1dngteDVpMDU2?oc=5",
-     "published": "2026-10-30 15:55",
-     "tags": []
-    },
-    {
-     "title": "9월 PCE 전년 대비 3.6% 상승…근원 PCE는 3.1%",
-     "source": "토큰포스트",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbTA3alRLcnZiZVhGaTRlZ3BjRUZyTXpmUXJDOHowX29YU3I0dlNiSmFwOVRNMHlENHVlZnVuYUtpaXhXWkJ1Tl90U1N0ekxzaXk3V2NKUFVoMkHSAVtBVV95cUxQSm0wN2pUS3J2YmVYRmk0ZWdwY0VGck16ZlFyQzh6MF9vWFNyNHZTYkphcDlUTTB5RDR1ZWZ1bmFLaWl4V1pCdU5fdFNTdHpMc2l5N1djSlBVaDJB?oc=5",
-     "published": "2026-10-30 01:55",
-     "tags": []
-    },
-    {
-     "title": "美 3분기 성장률 3.4%…9월 PCE 물가 3.6%로 상승",
-     "source": "글로벌이코노믹",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTk1nWGZZYWpTZ3hxeG5aR0o4dE5uOHNSNDMzazJOQW03WkJYal9VTjdGNThSUEctSWtNZWhRbk5Sdm01dWVYejFoSy1LNFg3dE1EOHV1ZGxfSnhjRF9UVkhhX191UVd1TE9RQUlfR2t1NDNzNzNNSXpaTlFsQndpX1dPWWt4b081?oc=5",
-     "published": "2026-10-29 21:45",
-     "tags": []
     }
    ]
   },
@@ -467,87 +476,87 @@
    ],
    "items": [
     {
-     "title": "업비트 비트코인·리플 보합권…거래대금 1위 리스크, 파워렛저 26.59% 급등",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GbXU0RVB1Q3U2QVgydU9pM1E3YmRyejFRTzBobEZpYUtUcjNBVjU4RnloR1Q0ZjU3US1VSjJSRWxOTkRwc3ItMWh3?oc=5",
-     "published": "2026-11-01 20:01",
+     "title": "2026년11월2일(월) 비트코인 시황",
+     "source": "네이버 프리미엄콘텐츠",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNng3QTFJYU52eloyUVdFS3pleV9kVTFZZWdFX01rNGhwWU0zMmVxRVhneXVlRldrb0NudnFiRGZxT3N3alowMmZKc2NxenNhOUtZMUtGTy1oZ3FmSWNEdHdwSDBFTDBDanJwYXU1UjlvWTFOenBSM1ZnM2tLUlV1dzBn?oc=5",
+     "published": "2026-11-02 06:12",
      "tags": []
     },
     {
-     "title": "[코인 크라임] 3시간 만에 12만 BTC 털린 거래소…6년 뒤 드러난 범인의 ‘황당 정체’",
-     "source": "블록미디어",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3N25qUHNVUjR4d2stUk5OZzNvcHJrempkbm5Ic1hrNUM2aWZfT1c5MkMzLXFLaDJnU1pwU2c3VGNWb2x6ejFPNHZXWE1YLV9IN1FiVlpaaEM?oc=5",
-     "published": "2026-11-01 19:00",
+     "title": "\"눈 뜨고 8.4조 털렸다\"…20분 만에 세계 최대 코인거래소 뚫은 北 해커 - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12a01pZnVYc1Flb3dfRkZWUFBZOU9RYzFFS082QW5lTTJPaF9fSGdLYUJDNGNTX2t1RUVkT0U0RkZNOUFOc090eDVzUFJLR3p6ZmFla0tYVnFOVk1PYV9rWkt1czNsMmdS0gFuQVVfeXFMT0FjYU9Ea1pMcG1td2thc3doQkVNUUdQYktCVHRGbFNXYW1zNUc4VDBzSGQ3VXd2RDdyOW1hSTRSUjB6bkxCa2R0c2l4U1NBZExPYlVHSkNrLTZSMk90a1BhSGZVNHpPNkcwZGhKOUE?oc=5",
+     "published": "2026-11-02 06:00",
      "tags": []
     },
     {
-     "title": "edgeX (EDGE) 가격, 차트, 시가총액 | 코인마켓캡",
-     "source": "CoinMarketCap",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qbDU4NlRCeURHdlU0cndyaFR6bXRIa2hIeGY3NnNfU19vTHZUWV9OZWpTZjdJUXREVnJrWkZ6T0NwR2pjTzZEZy1TZUEzVEZiTThpNlNiSXpJQQ?oc=5",
-     "published": "2026-11-01 17:32",
-     "tags": []
-    },
-    {
-     "title": "바이낸스 해커, 알트코인 130종 이상 매도…약 2억7900만달러 확보",
-     "source": "블루밍비트",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGYzgzSk12OG1hOGhvRnZSYUNxeE5CN1NnWWFvNFdvMmZITVdYTENkRHhfNG1kVHRlblRRUDRNaXhoOHdxVVZicmdldWdiWS1i?oc=5",
-     "published": "2026-11-01 17:13",
-     "tags": []
-    },
-    {
-     "title": "o1.exchange (O) 가격, 차트, 시가총액 | 코인마켓캡",
-     "source": "CoinMarketCap",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05d051RGNRaXd4em4xLV9zcjduT2FkSnJrdFQ5LTduZ01jWjlMSFB3bm40UWlHZUdjanBxdUpvcmVRbTNXS2dBVnVHaENSYmY1ZVppbExKNGRtcUwyeldkUlJR?oc=5",
-     "published": "2026-11-01 17:08",
-     "tags": []
-    },
-    {
-     "title": "바이낸스, 50억 달러 USDC, USDT, 비트코인(BTC), 이더리움(ETH), 바이낸스코인(BNB) 등 관련 토큰 자산으로 보유…추적 계속",
-     "source": "CBC뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYYUR0aFVhYnhzS3F6MWZGN2t6aE5IV2lmQXNmeTdIQjFKUW1CdndETHJFY05xUERfdE42RkpRUEM4SzNIUnN1U3ZkYUVCVWxwZUpLb25SN2RraWZFTnVUOTRPUlBFN0du?oc=5",
-     "published": "2026-11-01 16:58",
-     "tags": []
-    },
-    {
-     "title": "[저녁 시세브리핑] 암호화폐 시장 혼조세… 비트코인 77,893달러, 이더리움 2,267달러",
+     "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 77,697달러, 이더리움 2,256달러",
      "source": "토큰포스트",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wLW8zQ09Welh2ZXFtOFc2WXNvN01OeVVmMlFEcklsTDRjelA2cFMxNVFIcjlyZWVxeDBwTkVYVU5IUTBUSGEwZTE1UW8zMjc4YTZuZTVxNGPSAV5BVV95cUxNZDluYkl2aUNoejdVR0N4UlEtUTluNm41MXNtSVRfWHNVNWFZS3JFSHBTNDJ3d2NjN0FPZzhUOEUzazJVb0N2SkxYRXFqNnFiNTI4amdPRk5TWkVqbV9R?oc=5",
-     "published": "2026-11-01 16:01",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UNU1sQl92amk4VTZOLUczbE45T0FsOUxQZmt3YzR1eG1CbXlJRXFMd25FbWhKa2tUSzA2WmlKc3dyTW5ROUNvZW1MXzBHNzJza1dVYTVTVVNJVjhDR2fSAV5BVV95cUxNVDVNbEJfdmppOFU2Ti1HM2xOOU9BbDlMUGZrd2M0dXhtQm15SUVxTHduRW1oSmtrVEswNlppSnN3ck1uUTlDb2VtTF8wRzcyc2tXVWE1U1VTSVY4Q0dn?oc=5",
+     "published": "2026-11-02 05:01",
      "tags": []
     },
     {
-     "title": "리플(XRP) 1.25달러 공방…24시간 고점 1.2577달러, 저점 1.2424달러",
-     "source": "CBC뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00alNsQUVESUczUGJuaVhzNUZzRkxYX2dydFJYQTFVTEpZbUlkZjRwV1VXTjBGRk93WjdVYlJjX09acTJKYzFuc3J4MWZ5TDRLdlQ2NkRaSUtQTkk4RlZYRjFJNWp2ZnFo?oc=5",
-     "published": "2026-11-01 16:00",
-     "tags": []
-    },
-    {
-     "title": "비트코인(BTC), 7만8000달러 돌파…바이낸스서 7만8043달러",
-     "source": "토큰포스트",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wWTU2VDNuRHRZWm1TYXp4aTVWbHRoaEU1eHFQN0NhU3BvbTRBb1pJRG4zMzZoOEM0aUJUZVJMdGFBWnk2c29taUVSc0hlSHVmMWpxVzExMGNlak5vS1HSAV5BVV95cUxOcFk1NlQzbkR0WVptU2F6eGk1Vmx0aGhFNXhxUDdDYVNwb200QW9aSURuMzM2aDhDNGlCVGVSTHRhQVp5NnNvbWlFUnNIZUh1ZjFqcVcxMTBjZWpOb0tR?oc=5",
-     "published": "2026-11-01 15:55",
-     "tags": []
-    },
-    {
-     "title": "9조 털린 코인거래소 \"탈취자산 95% 보충…암호화폐 출금 재개\"",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXS1RVVXM1N1p5amVRRmV1dnM1X1Y1ZngtUFRJMWtidHRtVGJmMFhLUmNTMEpxR1c0eHFHcHg0djlnWFp6MWFscnVIdTFUVXAzLUZIQ0h5T1lPZw?oc=5",
-     "published": "2026-11-01 15:55",
-     "tags": []
-    },
-    {
-     "title": "비트코인 코어, 메모리 소진 취약점 수정…운영체제별 영향 달라",
+     "title": "이더리움(ETH), 호르무즈 해협 재개방 시그널에 반등 기대...왜?",
      "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RQ2hYUGZKRVFabmpaUGcwQ01BUHVmY0Y5U2RvRmQ5NmhCb1dJWkNHSVhDUnpLVWFlaFlINVJhamdkaU9ZY1l1Y3VR?oc=5",
-     "published": "2026-11-01 15:45",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBILWRtVUJYLV9oYlo5aEJKczhWbnlCbXJOZTAyR01IWjF2VWZzdEl4NEw3RmpXd096SjVCOUN0V3dKNUstQVF4SEJ3?oc=5",
+     "published": "2026-11-02 05:00",
      "tags": []
     },
     {
-     "title": "미국 전략 비축 정책과 레이어1 시장 주목...리플(XRP) 흐름은?",
-     "source": "CBC뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01aXBZbTR5UmdXX1k4c0RsVFpCcmsxNGNhbXlIOFV0YjdPenllR1hYWDEwbU9ueVRSMHBTbEk5eHNRWWN5dG85VFd4bERlMFVHa0JCdmxYLXh5ZS1sTlRnVVZTR2h2c1Vw?oc=5",
-     "published": "2026-11-01 15:40",
+     "title": "이더리움, 200일선 붕괴…랠리 속 홀로 역주행에 2200달러 경고",
+     "source": "글로벌이코노믹",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFJtOFJzVUhteHdtMG55blZUcVAxMTYwb1FXSF90V3FEdm1jY1ZpUnl0aHVWUXRvSUpwdlE4cThyVUdZY3pSX2ZaT1JHOV95X3lXTTRrbHhZTEhJei16dDVrQUdXMmp0ZDJPRzVfckFROWtGc3lXZjBjcW93U2lyQms2cU5qM29o?oc=5",
+     "published": "2026-11-02 04:35",
+     "tags": []
+    },
+    {
+     "title": "슈워츠의 티셔츠 속 \"XRP 100\", 정체는 가격 아닌 '속도'",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yWUQ1QnFMU1Y1Q2o5QmZENDQ5U2RXczBSdl9yLTVQM3JxTks5WEZTbFBnWDFjaTlXcUhnclZlYWxRZ0tXSEN5OGhB?oc=5",
+     "published": "2026-11-02 04:00",
+     "tags": []
+    },
+    {
+     "title": "DAPPOS (DOS) 가격, 차트, 시가총액 | 코인마켓캡",
+     "source": "CoinMarketCap",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nb0U0cFhsRUpyX2N0Rk8xTzhpRXVpM2FKOXNHMndzSGhmWnZ3S0U2Nkx6T3JZZjhwQkZvTHh5Vkl5VzctUHBScE5mUG5iT1BjLWhHM0tHY2FjY0E?oc=5",
+     "published": "2026-11-02 03:03",
+     "tags": []
+    },
+    {
+     "title": "바이낸스 해킹 이후 비트코인·이더리움 투자심리 역대 최저",
+     "source": "경향게임스",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXdlA4ck9xOW1JSVB1MFAtbzZhTy1wX2Zvb1M2ejVkR2FTdW9QNXJYV2tVSjdyYkxZT19RdnJaeFlJZmVKOTlsQUF5bS1BM0ZmQUhpSFRlMFlNdDJWUzBGcTlDSVl0U2VuZl90Vg?oc=5",
+     "published": "2026-11-02 01:53",
+     "tags": []
+    },
+    {
+     "title": "비트코인, FOMC·해킹 후폭풍에 지지선 시험",
+     "source": "경향게임스",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUVWZTdUQzdDNXdxN0VYM2MzSWp0NnRrb3g5TnlmeWg2YzdiM3ZqemFub09iWkNMRFpUZjBNRkxjMEpBX0VGQnhfbm1CS3drTjhJanJRSFhwT05RRnJMQnVpb2VfX2RGMzlSMg?oc=5",
+     "published": "2026-11-02 01:47",
+     "tags": []
+    },
+    {
+     "title": "바이낸스, 63억 달러 해킹 피해 수습…비트코인·이더리움 출금 재개",
+     "source": "우리경제신문",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aMUVVT3ZuNnA4Y2FfamgtTG44WERlSmFGQ3NYMXNHUTdaR3BzMWk3cWJ0Y1VNajR2bllxNk1CaVVKaHdmN3U1RzVsbDBaYjBaY0RMUE10T1I?oc=5",
+     "published": "2026-11-02 01:37",
+     "tags": []
+    },
+    {
+     "title": "Axis Robotics (AXIS) 가격, 차트, 시가총액 | 코인마켓캡",
+     "source": "CoinMarketCap",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VU1FBZGdoejkxWkFNQk55UEpneU5YMkdBQ2J4ZVo3aFV5ZmlpaFUzTGNvb3NlalJXWE1NNzRMR2twZTRYakpsYzI4N2dnYzdsRU1nX3N2NXRMeVZZYlA1cmQ4QVo?oc=5",
+     "published": "2026-11-02 00:25",
+     "tags": []
+    },
+    {
+     "title": "[자정 시세브리핑] 암호화폐 시장 혼조세… 비트코인 77,934달러, 이더리움 2,268달러",
+     "source": "토큰포스트",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wVU5fOGlOTDBJb2VwYWp0czhyLW42bTdwcUk5VW5RZVllNGJ6Q3c2M1FiUWFRclctUjQ1WTRtWFF4TEc4bl9reXo2TnpQWUpDNE4xVVNBaGnSAV5BVV95cUxNTk9aVDBNdzVLX2k3cjROMDU3RlpEVjhES3dOai1ybzRabU5hOUpBZDlzZ1NybUZkbURFUENqT3dIUGRKZ0JKTElLM2FJR09xVFZkSndEcXRPdkZ1dGVR?oc=5",
+     "published": "2026-11-02 00:04",
      "tags": []
     }
    ]
@@ -562,6 +571,34 @@
    ],
    "items": [
     {
+     "title": "트럼프 \"난 미스터 비토\"…야당 승리시 행정권한 총동원 채비",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91ZUYxbHp1enlWaHh3LU4yQ3BRMUtfakJtSHFKNUN1WEprTnRxbFV4clVFMDluZUFMemktclFrWGJsclpnWUJoOG8zWHhXTmg0Zk9qSURaY2toQ2_SAWBBVV95cUxPbUZoSzVmXzloQUV2LTh5NUl3dGNjUDhtNTZScktsTHFxRFh0ajk4dVVIcFB0aHhtRDNmOWZpdEl5MGVGalR2SkwtWk8xbkVtTFVsbEVIZkxLbG4telo3VkI?oc=5",
+     "published": "2026-11-02 04:20",
+     "tags": []
+    },
+    {
+     "title": "美법원, 트럼프 정부의 알래스카 선거 소송 기각…상원 다수당 향방 촉각",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Sck9SQlllc2lraUlqMlRCczAzb3BnRy1mZnNER2ZqWlJpVXI4ZXM4YVRyT3ZEeUJrYzJFRlVKWVZJQzRSZ3FZWjFoclpkeTRQYXVCbkE4UDM?oc=5",
+     "published": "2026-11-02 04:19",
+     "tags": []
+    },
+    {
+     "title": "트럼프, 중간선거에서 패배하면 승복할까…9가지 시나리오",
+     "source": "네이버 프리미엄콘텐츠",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeHdZdXhoTzE2TDZYNFdxQUF6VC1JVjFOMks3LS1rcEd6TTM2OVVELWNoXzhqQ19TRUphb1JfY1N6Vy1GcnZNb04zTUVISzlTSm9mN1Z3R0NfVVBpaFJYUnZsUmdCOTlac3AtNGZhbEZmVFNXNnBOZ3pER1RxMUNqMWhjVmpRLTJiY0ZnS0p3?oc=5",
+     "published": "2026-11-01 22:13",
+     "tags": []
+    },
+    {
+     "title": "IW 연구: 트럼프 관세, 미국 무역 적자 줄이지 못해",
+     "source": "IDNFinancials",
+     "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZXZybUYtcXFfWmM3QzlFSE9DQnpTSmxFQVRHVXFtUTQ3Q0lEQWpNQTlqV1dVd2NlWm5oaGZuUWliVTFYNUpfNmkxdVVuSkM1RFlWRFdxTHVkMUU2RG5OeUdaanh1LU12UVZpWUgzQjNqNnQwNHZtQndLWGgzMWhVTWhhMFJKT3ZCalpWYWh3WHVyV2NsY1llQ19wdzNZbkdiUmpaalhMUlNzSW9fVzVNbm9uUkhTUnFSeV80cjd3bVRQc2E1SVI3UVUwVy1qd2txamVNa1BOLTRDWTJlel81dmFrT1VoYXZSRmVTYkVQMXFFVzl1VUQ5TG9wZUtRSVJhYktiUGZsU0tVT3lDNEtnRnk4LU5Gb3dQVklXYjRGbFdncXVtV3NwY28zRkhjbm9tcmR6NEVpV1A5WXlF?oc=5",
+     "published": "2026-11-01 22:00",
+     "tags": []
+    },
+    {
      "title": "트럼프 행정부, 중간선거 투·개표 소송·수사 본격화…“불법 단속 차원”",
      "source": "위키리크스한국",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CRThDUnpaSzZrREJPNXNmSWpUREtLcW54S0FwcHpuMS0ySHRxYWwySnp5R2M5bzJoRDJKcUVNeVNCc0dvaUtkQ0xJVnBIaTlYWjZjb08zNTBHc3FuOE92Vzh0Rlh0VmgxQUplOWxvb3k?oc=5",
@@ -572,7 +609,7 @@
      "title": "미 연방 판사, 트럼프 행정부에 선거 관리 공무원 위협 중단 명령",
      "source": "BBC",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqc0hKeFZGY3RBV3FieWppdkExMjVrZkxVTlY1cDRGR29vYm1oZDJYZjRXWUUtU3ltc2ZQVWFtNVF2TlllV19uUWQxNlViZTFTZnoyejF6NEpZQm5mX2fSAWNBVV95cUxONTBMNV9zZzIzSkdUd3NMMlpidnBZcGQ3dmdUUHNxQ3lFSVYzSGIxX1RlZ0V0MnJCd2U2Z1ZiVTNFV1BqemdLZzJxZTJhejhYckZaM1JOOFJkQ2k5MXNJZk5XSmc?oc=5",
-     "published": "2026-11-01 17:03",
+     "published": "2026-11-01 17:04",
      "tags": []
     },
     {
@@ -597,13 +634,6 @@
      "tags": []
     },
     {
-     "title": "트럼프 행정부, 우크라이나에 요격 미사일 등 매각 승인",
-     "source": "NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82MDk0djd2QVljVjBPVnBXd2hDS3RsZlRTMW43MXJkSDJxYUc2TG93cXdfdGhsWExZSm9SMnBtSTdUdE9hanNoU1dhU0ptWGxsRnh2SXl0VEdCYTJlSmJRUUhjTnU?oc=5",
-     "published": "2026-11-01 14:15",
-     "tags": []
-    },
-    {
      "title": "미국 중간선거, 트럼프 권력·세계 트럼프주의 시험대…패배 땐 대외 개입 확대 가능성",
      "source": "아시아투데이",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DeUY3ZElYLTR3aVNGNEk1cG1IempBeHFMcU45ZmdKVUwzYTBZYTQ0NmJsTk1LRlJ3V3BKNXpRbkpEeGZLMXRldVVWV05IZDFpSFppRzRzTFZBako5Y0hsdHI3cDNLSHZzVl9kVnN3?oc=5",
@@ -623,27 +653,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UNGpGMUhGNkp4UDF2UkF0cFJFVXpGeFBGSFRjVGNUNDY2cG1GejZZT1RMOUlaTHllM2lTTVdwR1FTT1VUSHBDR2hSSzVCYkktdVBTZ0VIWEVtNGZSbEFrS9IBYEFVX3lxTE1UNGpGMUhGNkp4UDF2UkF0cFJFVXpGeFBGSFRjVGNUNDY2cG1GejZZT1RMOUlaTHllM2lTTVdwR1FTT1VUSHBDR2hSSzVCYkktdVBTZ0VIWEVtNGZSbEFrSw?oc=5",
      "published": "2026-11-01 11:17",
      "tags": []
-    },
-    {
-     "title": "선거 사기 언급한 트럼프...미국 상원 '초박빙' [이슈톺]",
-     "source": "YTN",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WYlR6OGtnVy1fQllqZGUtV1dQSE5ITmo4aXdESC1ZLWtNLVltTDdIVC1Bck5jQ0dHMzFGMURXcWM5MC04NUY4b2tKTU8tOGZiVXlwXzlVS2xkTmlOWWc?oc=5",
-     "published": "2026-11-01 11:03",
-     "tags": []
-    },
-    {
-     "title": "루비오 미 국무장관, G20 회의서 VOA에 트럼프 행정부 외교 구상 밝혀",
-     "source": "VOA 한국어 홈페이지",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnWHExZW5CYzVrX3J3aHNVbEFnLXNaUXVOZmpjYXlReW95eWd2RFdGSV9pcEtyTWJnM2N5anFGQi16aXNwbHVNQVgxQldIcTdH0gFTQVVfeXFMT21WZ0kwZTRHakhKRTNWYVNENVhxcllqUUV1Yl9zTGthdzNWV04yNFFMekw5ei05eUtQWWRBR3F3MkI3WGxxZmhRRVZwSWc4NjBJeGs?oc=5",
-     "published": "2026-11-01 09:21",
-     "tags": []
-    },
-    {
-     "title": "루비오 \"중간선거 결과, 트럼프 외교정책 못 바꾼다\"",
-     "source": "매일신문",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tXzhxNjVyb1hqZHhSR1I5ZFBEMndBSDJrTGZFUkpJeldwWEgzQUlQTmFOVTFOLXlaSUFsN1lBUXdlc0p6MEpFMGE5Y2ZsTzRIM3pTbVVfelRPd0RyZkh6eEVn?oc=5",
-     "published": "2026-11-01 07:36",
-     "tags": []
     }
    ]
   },
@@ -658,6 +667,62 @@
    ],
    "items": [
     {
+     "title": "[속보] 우크라이나 \"러시아 점령 올레슈키 휴전 종료\"",
+     "source": "국제뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjYmJ4ai1faEVROVpBbnRSNk5kVlBlTE5UVi1uSXZ0ZlJGS180VklOOWQ2aklscHByNWJKSzA2cm9MZFlYV21tdXk4MTRCcGlwSTRhbC1hdGcwVHM4bjMzOEZOT2pUSlUxX3llSEpB?oc=5",
+     "published": "2026-11-02 06:19",
+     "tags": []
+    },
+    {
+     "title": "러시아CIS토크)우크라 전쟁 발발이후 러시아 시선은 다시 북극으로 향했다",
+     "source": "바이러시아",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EQTZpWHlnbDNlMExYajVSNmhLQ0R6QnV2TVcwTVNJWWQzbERPb3JfamM2VUJlRjFqWG9kVngyazhpR1otRlo4ajdZSmVqOVNMZ2laUTJFM2VSR2dSODZwRjdnNGhzR1AxLXVTYlFB?oc=5",
+     "published": "2026-11-02 03:10",
+     "tags": []
+    },
+    {
+     "title": "EU, 우크라이나 전쟁 종식을 위해 러시아와 협상 준비 완료",
+     "source": "VOI.ID",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE16OFFpemh3UVFYeHRRbmlCWGxmMDlIdnRhd1RVckZnb0lLa0ZJSnBNQ0t3ODhwWllvTlpVU1dWRzRrZGx2SEHSAUJBVV95cUxNWjlXalVITFFjYXBfUXpZTHVPclBPMzM5LTMyRkEtZ1VKQzlYb0NZZXh3RHphU3JvWXZHUmJ1VUUxRVE?oc=5",
+     "published": "2026-11-02 02:02",
+     "tags": []
+    },
+    {
+     "title": "교황 “올레시키 휴전, 평화협상으로 이어지길”…러·우 6일간 총성 멈췄다",
+     "source": "OBC 뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OSjB4RlVIajI4V1Rab2JjUFJZOFM3aFhtSjhsV0NUWnlHNVlyNGhIYWJ0QjBINXdaRzRzd21FOUItYUFMR0R4amtwVlJkV281Uk5kYjgtQjF3bUhlOXg4UERYY25rYXBCQnc?oc=5",
+     "published": "2026-11-02 01:11",
+     "tags": []
+    },
+    {
+     "title": "국지 휴전 연장 없다…러·우크라, 서로 에너지시설 난타전",
+     "source": "news.sbs.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hM0hIdEFzWVVHWWlscm45a1YyUnRJUDJvWXdtMHNqOWhhak94QzBQTHhrRXIydjdFWjRYY0luR1VBaHhPcUZqSEJCSHpEZm1UdjBkVjdHdXdnS2FyZFBfR2pLalpRUQ?oc=5",
+     "published": "2026-11-02 00:07",
+     "tags": []
+    },
+    {
+     "title": "교황 \"러·우크라 올레시키 휴전, 평화로 이어지길\"",
+     "source": "KBC광주방송",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fTmFkVEl1bkY2OFhvQ29aNEpjNjd2VXNxTnEwRU1oU0l0TFhqcm5wSHVoamV5YlR1WlBjRFRRanZZT3ZtM0R0alI5bTczSTRFc192cnhJUzlFazN3dlh3Tw?oc=5",
+     "published": "2026-11-01 23:55",
+     "tags": []
+    },
+    {
+     "title": "교황 \"러-우 올레시키 휴전, 평화 노력으로 이어지길\"",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YTVQtNU5GaWtBdWRQZFAyd3h3UlRneEE2cjExbmczY1d2YlgzOUVkTDQwR1hnZ3E0MjV5N0tGY2hiVzhIejc2aGk5b3dLYS1ZeW40?oc=5",
+     "published": "2026-11-01 22:29",
+     "tags": []
+    },
+    {
+     "title": "OPEC+, 12월 원유 생산 목표 동결…이란 전쟁에 공급 불안 지속",
+     "source": "더페어",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MZUFhRWRXbkhHM3ZqUnJNZGJMMlNvRDROWlY4UnZQcUlpUXJZTXljVUFDTEFrOEVZMDdJQm5RVzVKQnpTVlFOOGRrQ2pUcEhYOW9PdnpSTzRMaGs1VHUzTE9lWlVsOFFmY2kyaG9aMErSAXRBVV95cUxORG1KV0QwbG9EVDRNTmU2Ny1yS0pEWWIwUU1iTkVUYjZDdVh4N09hTGJHUkh5OWhoX0dTOWtVdDBxOFVpT3VLcFhrTFJmWk9vdkhIMy1jNkRabFpOQXJ6RGlQZFlmWUZsRzFpRHNsZy1NSU5nNw?oc=5",
+     "published": "2026-11-01 22:26",
+     "tags": []
+    },
+    {
      "title": "멜라니아 중재 6일 휴전…올레시키 주민 우크라 귀환",
      "source": "아시아투데이",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91UVVIME5jNzd0d0tzLUFJU0dYdmYwVFFDdEV0aXNTalN1Q0JvMnhScTU5eVlYaV9pOUp2ME1tWFNSMlJHOXNhV3o3T1ZGSC1idG4yeTV2dm0zaVVYMUtuRVZTU3FTcV9LdkQ3cQ?oc=5",
@@ -665,80 +730,24 @@
      "tags": []
     },
     {
+     "title": "\"전쟁 가능성 배제 안 한다\"...폭풍전야 중동",
+     "source": "YTN",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BS01sMnc4QTE1Ykw1UGdHYXhvYVhHR29FS3BqcU12SEVEZ1dWMWJiLVN0bVlXWm5aclBiT1J0dEl3aXFQZ2oyVnVXLUN1ZlU4RGhid25VR3Y1STdtb3c?oc=5",
+     "published": "2026-11-01 14:32",
+     "tags": []
+    },
+    {
+     "title": "가나는 푸틴이 자국민을 우크라이나 전쟁에 동원하는 것을 금지했다고 밝혔다",
+     "source": "Mezha.net",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3dSNnQwR3Qxa2E3ZU0wZGQ5VzhfNGpTcHVlbVRfRlRmeUtJU3c5SmVKcm05MGx5ZUcyWG9YSnhSUXczUWs5MThMdWpnT1dfdUpnOVZHSTJrMzVkdnRLeTQtbjRzbWFvck5oOThRSVhpRTYzcHVCT1JrUWtMNFU3R3pzd2YwMXlyYXFPMlV3ODNsWTA?oc=5",
+     "published": "2026-11-01 13:49",
+     "tags": []
+    },
+    {
      "title": "OPEC+, 유가 118달러에도 증산 보류…중동 전쟁에 원유 공급 막혔다",
      "source": "OBC 뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9peXNOeXNkREQzUEtubXU1Uzh0RnEtOXZ0LVR2UEFjb0tvOXhteWNwR0R2YnpDaUJZRi0wRXI1TjRhV2pfUkViUTN4U2NBSC1xUG5JemRJQzQ1ODZMU19fbGFjSDN3cVY4?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wbDJCLTc2S2NNa2RTS2Z5VDRqaTUwLUlPaUNMYVFMY2tteGc5NTBwU3drZ0JtY0RmeEV0Y2Nvcl95NTBqTEk2OGVuVW5MRDA5clVsZHlkMUlrSDdpeUQza3V2UGlxLTJQWVE?oc=5",
      "published": "2026-11-01 13:11",
-     "tags": []
-    },
-    {
-     "title": "[뉴스클레임 사설] 보복 공습이 태우는 지구, 언제까지 구경만 할 건가",
-     "source": "뉴스클레임",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IWXlrSjIwcG1WVU9WMm5kVEwwS3B2UUVPdGM1THI2akM1aGd5cWhKRWI5YlM5LUk3cEo5UE03LThXVU9mM05zUG9PMVJEb2RaT2V4VURncGhtb0pVMXVzTk9OdGZ6Y0tVeTVOdUxIVlRFTGF00gF0QVVfeXFMTUhZeWtKMjBwbVZVT1YybmRUTDBLcHZRRU90YzVMcjZqQzVoZ3lxaEpFYjliUzktSTdwSjlQTTctOFdVT2YzTnNQb08xUkRvZFpPZXhVRGdwaG1vSlUxdXNOT050ZnpjS1V5NU51TEhWVEVMYXQ?oc=5",
-     "published": "2026-11-01 12:48",
-     "tags": []
-    },
-    {
-     "title": "전쟁부터 AI까지 서로 딴소리…G20 외교장관 공동성명 불발",
-     "source": "연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5INUd0b2UwTVRSdDd2T3A2c0hab0lYRk05eUVGbHRPd2otYkV5UVVKZlZoNlplcXBPb0RtdTJiUHE4WW5uUDgtZlYySVhwbFZvT3llcnpUU0dmUUnSAWBBVV95cUxPQmdDR0QtaFozUG5zUE5ScnNVWlZuRVlROFJkWXVNNEpoWjFjRjdULThtYW5uOENyZ1Z6dHFHVGIxckhtQmNvbXJMaG9oVnZlZWhfRzl1Z1p4bHBBLVphdkI?oc=5",
-     "published": "2026-11-01 12:39",
-     "tags": []
-    },
-    {
-     "title": "미국 대통령은 러시아와 우크라이나가 분쟁 종식을 위한 합의에 도달할 가능성을 제기했다.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlFzc0dMZ1IzS0lueXBrWkZsTmNCSzBoTXR6VDlvdmR6VjNlV040eVFOTy1jb0trWVl3blpLaURlTmhKeVZIYXBmMEFhdHR6U0N2NE9CY0NDeTR0NEczUGxZb09qYlJNRFBNQzN1Z1ppcXJja3Fqa3VpUUJ3NUtkUWU4OEJ5S2pBMTlBaUZUMmFnbmdjQjBRTFU2d3VGZw?oc=5",
-     "published": "2026-11-01 10:25",
-     "tags": []
-    },
-    {
-     "title": "\"전쟁도 각오했다\"… 이란 외무장관, 칼과 올리브 가지를 동시에 내밀다",
-     "source": "한국공공정책신문",
-     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VUUQ4dE5iQ2ZpMV92ZVBpd3hQblBkY0JTMW5uLTZya3NTeWlINHdveG0tS2djMXdibWRPVVFCV2Nia0U?oc=5",
-     "published": "2026-11-01 03:25",
-     "tags": []
-    },
-    {
-     "title": "EU, 우크라이나 전쟁 종식을 위해 러시아와 협상 준비 완료",
-     "source": "VOI.ID",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE16OFFpemh3UVFYeHRRbmlCWGxmMDlIdnRhd1RVckZnb0lLa0ZJSnBNQ0t3ODhwWllvTlpVU1dWRzRrZGx2SEHSAUJBVV95cUxNWjlXalVITFFjYXBfUXpZTHVPclBPMzM5LTMyRkEtZ1VKQzlYb0NZZXh3RHphU3JvWXZHUmJ1VUUxRVE?oc=5",
-     "published": "2026-11-01 02:10",
-     "tags": []
-    },
-    {
-     "title": "휴전 중 대피한 올레슈키 주민들",
-     "source": "국제뉴스",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16bmZ2SE1aZkFQTzR0TjlhVEttVHVKRlJOakF6VkFrbGdWcDdzX2N1RC0wSXpnYUJzOXpoRm16b2pwNDU1V3ZtUDd0c2pKZGFoQ2p3UF81MHgydnVOdW1VYkFXMmJpT3RVVmNMQzJn?oc=5",
-     "published": "2026-11-01 00:35",
-     "tags": []
-    },
-    {
-     "title": "러시아와 우크라이나 간 최장 기간 지속된 인도주의적 휴전 기간 중 민간인 대피 경로.",
-     "source": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZXlZZVVGVnlwOTdBU1c5eHJYLUhUNS1rdzdKX1ZCb1I4bkU5Z2JkeEZoRFJBTlNVZ21kTi1hXzU5R0NDMndubXA5ZTZ6WGtFd3lGdlZ5RE5ieEFiN3JIY2ZWUURra1NiVDktTWNpMk12ZV9RRjZwdVhKa3BkbEFaZERNZUd5dFlwX1JQUGFNX2JLeE5rMm0tNTZtOGpIQ2QwOXRF?oc=5",
-     "published": "2026-11-01 00:06",
-     "tags": []
-    },
-    {
-     "title": "러시아군 사상자 최대 210만 명…푸틴의 전쟁, 병력 손실에도 끝없는 소모전",
-     "source": "OBC 뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OMXZ2d0NlOHhBVjQxNy0xZHpRUWpLY1pwZ00wVlM1bVF6WWZiS3U5NzlnMzRnZWFjNjRUeE1RRHJORFU3WmhMSmFWTFd0QkE3TC16azF6NjlWdVh5c0VsbnpuU3JCU3d2?oc=5",
-     "published": "2026-10-31 22:39",
-     "tags": []
-    },
-    {
-     "title": "러시아-우크라이나 전쟁: 우아한 위선에서 정직한 야만의 시대로",
-     "source": "브런치",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTLWNacTJUVjZ4dEttNlZ5YXJZcS1ySzY2X3VwVDBRczFpckhOeTgzUXFlNzF3Wk84ZElBZ01nZ1JlWURmcHktdzRrNjQxYWQz?oc=5",
-     "published": "2026-10-31 20:40",
-     "tags": []
-    },
-    {
-     "title": "에르도안, 러시아의 우크라이나 전쟁 종식을 위한 외교적 노력에 새로운 동력이 생겼다고 밝혀",
-     "source": "Mezha.net",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNk9aM05VeWdkRmJBSG4zSnpqaHUyUWViN0FGRU5sMUU0STVObG52UlJ0UURRTUNiTmtHa3NQeWd3MkxnMXRNY25KMS1LZEx0aGNlVENNOW9BSFE4ODdZcFNSUGRzRHh4aU8xWVlYeUhZY1NhUG5GUXluQkpoR0NaRGZjTlY4RnVoWDhoNVJuRUFZa3oteEFBYWxCbWo?oc=5",
-     "published": "2026-10-31 18:39",
      "tags": []
     }
    ]
