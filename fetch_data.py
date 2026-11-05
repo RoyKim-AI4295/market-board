@@ -25,7 +25,8 @@ WEEK = "월화수목금토일"
 #   "close"    = 뉴욕 정규장 종가(16:00) 기준
 #   "intraday" = 거의 24시간 거래 → 마지막 체결 시각
 US_TIME = {"nasdaq": "close", "sp500": "close",
-           "es_fut": "intraday", "nq_fut": "intraday", "gold_intl": "intraday"}
+           "es_fut": "intraday", "nq_fut": "intraday", "gold_intl": "intraday",
+           "wti": "intraday", "brent": "intraday"}
 # 미국 경제지표 발표 시각 (뉴욕 시간)
 US_RELEASE = {"fed": ("FOMC 결정", 14, 0), "cpi": ("발표", 8, 30),
               "unrate": ("발표", 8, 30), "payems": ("발표", 8, 30)}
@@ -84,6 +85,8 @@ TICKERS = [
     ("es_fut", "선물", "S&P 500 선물 (E-mini)", "ES=F", "pt", 2, 1),
     ("nq_fut", "선물", "나스닥 100 선물 (E-mini)", "NQ=F", "pt", 2, 1),
     ("gold_intl", "금", "국제 금 (뉴욕 선물)", "GC=F", "달러/온스", 2, 1),
+    ("wti", "국제유가", "WTI 원유 (뉴욕 선물)", "CL=F", "달러/배럴", 2, 1),
+    ("brent", "국제유가", "브렌트유 (런던 선물)", "BZ=F", "달러/배럴", 2, 1),
     ("usdkrw", "환율", "원/달러", "KRW=X", "원", 2, 1),
     ("jpykrw", "환율", "원/100엔", "JPYKRW=X", "원", 2, 100),
     ("eurkrw", "환율", "원/유로", "EURKRW=X", "원", 2, 1),
@@ -386,7 +389,7 @@ def update_market():
     for e in macro_err:
         keep_old(e.split()[2].rstrip(":"), e)
 
-    order = ["kospi", "kosdaq", "nasdaq", "sp500", "k200_fut", "kq150_fut", "es_fut", "nq_fut", "gold_intl", "gold_krx", "gold_krw_est",
+    order = ["kospi", "kosdaq", "nasdaq", "sp500", "k200_fut", "kq150_fut", "es_fut", "nq_fut", "gold_intl", "gold_krx", "gold_krw_est", "wti", "brent",
              "usdkrw", "jpykrw", "eurkrw", "btc", "eth", "xrp",
              "fed", "ust10", "cpi", "unrate", "payems"]
     out = {"updated_at": now_kst(), "errors": errors, "items": [items[i] for i in order if i in items]}
@@ -422,6 +425,9 @@ TOPICS = [
     {"id": "trump", "section": "미국·국제", "title": "트럼프",
      "queries": ["트럼프 관세", "트럼프 행정부"],
      "must": r"트럼프"},
+    {"id": "oil", "section": "미국·국제", "title": "국제유가",
+     "queries": ["국제유가", "WTI 유가", "OPEC 감산 증산"],
+     "must": r"유가|원유|WTI|브렌트|OPEC|석유|산유국"},
     {"id": "war", "section": "미국·국제", "title": "전쟁 · 국제 분쟁",
      "queries": ["전쟁 휴전", "중동 전쟁", "우크라이나 전쟁"],
      "must": r"전쟁|휴전|분쟁|공습|교전|침공|미사일|폭격|평화협상|종전"},
