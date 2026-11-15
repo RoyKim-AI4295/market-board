@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15 18:39",
+ "updated_at": "2026-11-15 21:37",
  "errors": [],
  "topics": [
   {
@@ -38,6 +38,13 @@
      "source": "이지경제",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzTXo1TnU4UG1HUjlMX1R4V3dzQUdzT08xSXB2YU9UZEZ0Wk1jSkR3bENWWmlWMmR4c3F3Mzc1dmYyZ3loR21QQnlzQVF6OTRGNmczT1ZOQkVCU2dCNWFxVjVfc3FpUnhhM21pYktB?oc=5",
      "published": "2026-11-12 18:01",
+     "tags": []
+    },
+    {
+     "title": "한솔제지 장항공장서 또 끼임 사망 사고…중대재해법 수사 중 '날벼락'",
+     "source": "뉴스핌",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJMldOWWx4N3k1QnpveC00ZGQ0VDJRSFphRzFNLW9feWkycUZ3WS1WaFhXV3JTOGFTZ0lqeDhKMzFfTE1nMEdoY2Y5WXdVQ3otMmF3RmF2c1FlYlZL?oc=5",
+     "published": "2026-11-11 22:40",
      "tags": []
     },
     {
@@ -87,13 +94,6 @@
      "source": "창업일보",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvNG1rYTl3WFI5MF96VWR1X2RPMUYzMzNQbEdpNUVGajFkajhxbVNUay0xNmVqd2tQaVZuMWNORnB2RVpwaXhPc0ZNVV9ja2I3V3BORGZVWHdRMGU3cHkzOVJnSVN5Y3Z6?oc=5",
      "published": "2026-11-10 16:59",
-     "tags": []
-    },
-    {
-     "title": "인천상의, 16일 공정거래·중대재해 법률 대응 세미나 개최",
-     "source": "경기신문",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YNkp0OWM5RHJMV3ZLN29jQlRkeUdoRnQ5RGFzcXg3Y1Ryejk1ZmRnSGx1RUpTdmhEb250RHVOUUEyem1tdFBCVG83VHk4aXQ2QVo1dDlyTXFEQ3lIa3RSMWdn?oc=5",
-     "published": "2026-11-10 16:50",
      "tags": []
     }
    ]
@@ -212,9 +212,16 @@
    ],
    "items": [
     {
+     "title": "이목 쏠린 ‘종부세·양도세 장특공제’…보유세 강화 기조 지킬까",
+     "source": "경향신문",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXOFJTci1pQTFHU3JLYXV4MldxSEpLQV9tb25kUFNHSzNSek1RNV9hUnFPR3Z2Y0xkRk5famdOYWdiUGVKakxENHFURW8xTi1uWjMtc2pwaFM2QdIBX0FVX3lxTFBrSXd6S2pZcnRJRm5sdUtNSzlhcEZnby1RcHo4cXlaZUw3ZFNkOGFaOVhkMUVFblZsVGY0d1Y5V3Qtbl9JV1BfNGpZRUpKejd5bWMwX0xYbkdOdUtGRXVF?oc=5",
+     "published": "2026-11-15 21:09",
+     "tags": []
+    },
+    {
      "title": "종부세·양도세 개편안 국회 논의 본격화···고가주택 과세 형평성 도마에",
      "source": "경향신문",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGM2VmRkcnVsYWhLTWowTXBfWmdOWWtjaWxCQXBCOWJZQkZISGNKV0FTcTBRcHMwV3FzSWpnRE1YQzZyMXlsbGs4TmlVbGN3bWVzQlJMd1IwUUUwYVFraFZtS19tSWVMZGdMR1JUay12eXZmUmRzVFhqWnhSblRtYktzRUVzLTlaQVkycHpmY0h1SEVxNEpnWjh6U1hQQkExOHhuelJvNVMwWVcx0gFfQVVfeXFMUEtVdy1MR21xMGUyeDNEQmJSMzZXVE1OcFJMWFpiUm5PU3p1YUFWbWQzVU13SDBjWnZoeHJfRUNFSWRKVUxJYV9PNG42VXRWTlFkZU5xbWtMY0xpSEdWUWc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXRlRU1EdkVhWDFIeFRIdnd4d1hPM3Y4WGRTaFZ1TV81TkZXN3ZKdUdCUE5qaWRoWVA2Y1NkMFhlZ0dIb0FvLVV6NWVLRlp3aW9JUGR4blFzWjhSQXNQVmhXaEQwTVViaFZmQzdBSHBTdm44ODh2MGUwUXJha1ZuT0pScDM3ZlhSejU5TldUQzZVZlJYUDhYVnpSTTlBdEZtOG1QdzFRQmp3Z9IBX0FVX3lxTFBLVXctTEdtcTBlMngzREJiUjM2V1RNTnBSTFhaYlJuT1N6dWFBVm1kM1VNd0gwY1p2aHhyX0VDRUlkSlVMSWFfTzRuNlV0Vk5RZGVOcW1rTGNMaUhHVlFn?oc=5",
      "published": "2026-11-15 16:57",
      "tags": []
     },
@@ -287,13 +294,6 @@
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jUW5FeENMQlRYbVhIZ0JNNXA0YXVWYXdPLS0tZG5zRTY1ZlRhNGE0OWVLOGZ3eTFocTZuaDE5YnVQTjFVRmRTYkV1QmpzQkNnZzIyLUdKV011Z3hkQTVBV3Uza2tsRlJEOXRKYU1Ecw?oc=5",
      "published": "2026-11-10 15:46",
      "tags": []
-    },
-    {
-     "title": "내년부터 달라지는 종합부동산세 및 양도소득세 살펴보기",
-     "source": "KB Think",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3YVoyLVRQUVVWQVdQU2ZNRjdaaHJLeE5nVUZQUS05OU9xbW05RExURUVOakJ6S1BuWjYtSEx6em1LMnNjb2ppN2ZpVjN3UmtNVmpUZ3MwS2M?oc=5",
-     "published": "2026-11-10 15:01",
-     "tags": []
     }
    ]
   },
@@ -306,6 +306,13 @@
     "FOMC 금리"
    ],
    "items": [
+    {
+     "title": "미 10월 CPI 0.4%↑·근원 0.3%↑…12월 FOMC 인상폭 쟁점, 10년물 5.15%",
+     "source": "ISSUE ON (이슈온)",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjRXVMdXNlV2ZxMXdmSEFPbHRhZEt4Sk5QQ3V2clZEcllyU3VaSmo5emFqd0o0d1VqdEhHYVowcXAyaDNJWWxLa1NCcWI1YkVOY0R0LTkwNk1ZeFlBUy1oZWh4M1ZyeWViRk9n?oc=5",
+     "published": "2026-11-15 14:20",
+     "tags": []
+    },
     {
      "title": "美 연준 빅스텝 가능성에 한은 추가 금리인상 압박 커져",
      "source": "스페셜경제",
@@ -325,13 +332,6 @@
      "source": "IDNFinancials",
      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQSmhmVjBHaE5lbzBJaV9sckdFcEh3NHo0RXdLRWJrR1ZJOUNtTjRVVVh6N210THJ1OW5JeUJWRkViZ1V3R3luRmxva0RrSFNpY1lMUXAzM0hBNEhGM25XNVh4WkM4aVhFUUkybzQ4SlFPa3VKQ0tzdDA1NHdzdnV3M1RPTmp3Mm8tRGw5NmQ1V0RVdnRDYjdrQWVtRnpwcjNGRGlDUFN4TUJNRDdpRWJldTB6QzdyR2lZN3JnMXMzYVhLLTd2QTVWRUQtc0VOLTQ0WTZwcndya3F4VG94bjVKbXJ4Vk5rbk93SkpBLW1ZbVJHdm5MM1R4UWxFNG1jN3N2N2hIUWpMQUloczlISlBKLWlaWm96UGN0QXQtQTF1RVQ?oc=5",
      "published": "2026-11-14 19:00",
-     "tags": []
-    },
-    {
-     "title": "美 10월 FOMC 금리동결 유력…AI·이란 변수에 시장 긴장",
-     "source": ":: 위즈경제 ::",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yZGQwbmxISTJXd19PV244LThDRV9rb1h4dWQ0MlR2QTRkN2tCQk0tUEpRcHg5SlhILW8xM3k5c2lOTEdqMGsyb1Vmc0hOMWZTbEUxQQ?oc=5",
-     "published": "2026-11-14 13:53",
      "tags": []
     },
     {
@@ -377,17 +377,17 @@
      "tags": []
     },
     {
+     "title": "美 10월 FOMC 금리동결 유력…AI·이란 변수에 시장 긴장",
+     "source": ":: 위즈경제 ::",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yZGQwbmxISTJXd19PV244LThDRV9rb1h4dWQ0MlR2QTRkN2tCQk0tUEpRcHg5SlhILW8xM3k5c2lOTEdqMGsyb1Vmc0hOMWZTbEUxQQ?oc=5",
+     "published": "2026-11-13 17:00",
+     "tags": []
+    },
+    {
      "title": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표",
      "source": "Chosunbiz",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5",
      "published": "2026-11-13 15:20",
-     "tags": []
-    },
-    {
-     "title": "미 연준, 내년 금리 결정 회의 7번으로 줄여",
-     "source": "매일경제TV",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaTR3YUlpRWdqMVd6ZzF0a09FSEQySHVlRmxORUZqMkhfQWRUWkJ6MFcyREJ1NDVzNXZiMkNiTzRDODhJck1VU3lwYnMtNTRyUGdZajRCMkRreUFqeG1PLUc1Q0E3THBj?oc=5",
-     "published": "2026-11-13 15:06",
      "tags": []
     }
    ]
@@ -437,13 +437,6 @@
      "tags": []
     },
     {
-     "title": "미국 인플레이션, 엔화 160엔 육박…일본 추가 개입할까",
-     "source": "BeInCrypto",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ySHRiMHM5UGxPU1E0X2NDQmxOUW10d2tXcnlvZ2EzQ0cwS3lDcG92RVhaakVhUEFBYV9kSlBEN3E3X1cyZ0hEWGliWmNTS0tCTUp0WWwtMWt0ZnlXQ3VWQVprNm1WN3NBNVJIa2ZpbWJhcWhz?oc=5",
-     "published": "2026-11-12 17:55",
-     "tags": []
-    },
-    {
      "title": "비트코인(BTC) 7만 2,689달러 지지선 지킬까…CPI 충격 뒤 ETF 유출 부담",
      "source": "코인리더스",
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pd2xGc1FqT2ZrUzV3cnBKVDN6eDZMMlNkN3kwc25ZeHVZQ3p4bVFaYkZaakpZOERIbC02YlF3d3JwZkhBZEdkR1NR?oc=5",
@@ -484,6 +477,13 @@
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjhTZEN3RkUxWEFQOUJLeXNTOGI1V3U0RS1oY0piSjV5MHktSy0wZUU1ZnlRMDJUZldYTTEwX01rRVFOZHFXbFM1dlp0TWhWYjBNME1fSjFPTWpSd2xMN0hDSFdUTkUtRmNuaDdWTXlWRjNJR3ZRSFpQSmxkSk1POTJaRkYwaWM3dmRSMmRpTXZHS0k4V0w1WVV5WkdQVjdQaVE?oc=5",
      "published": "2026-11-12 04:10",
      "tags": []
+    },
+    {
+     "title": "CPI +0.4% 다음 미국장, 먼저 확인할 숫자는?",
+     "source": "네이버 프리미엄콘텐츠",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaFItN0drdUNpWldkZHh5djJidUVGRl9LOUVOYm9VdXo4ZEVVbEU1Z2ZwdmJSeXNqTURIYVM2YVh5RENNOTVFZ3BIV2FESl8tSmpFQTk2d2xVaE1PVjZlN29hT1hMX3pvOVRMUjRZaDBlRHROTTRLYThTUTV1Q1M4Y21hYl80bXc?oc=5",
+     "published": "2026-11-11 21:55",
+     "tags": []
     }
    ]
   },
@@ -498,6 +498,41 @@
    ],
    "items": [
     {
+     "title": "글래스노드, 5만9,500~6만2,600달러 청산 밀집 구간 경고…비트코인 상단 진입했다",
+     "source": "위키트리",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pM2tHc3RRZ2VIQnZmekRKY2ZRMzc5b2R6V2tmXzNrdllJWVU4dk9SOG1NZXdiLWc1UHV6ajluSTkxTVVDbHpWU0NGY2cyM0ZhUUZLNHJB?oc=5",
+     "published": "2026-11-15 21:12",
+     "tags": []
+    },
+    {
+     "title": "리플(XRP) 업비트 거래대금 3,489억원 1위…폴리스웜 40.78% 급등",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mdmRHdUc4dXk0RVNFSHVkVFFlMzB2Rmg1QzBfLWNHTXQ2NTFIbzJzWFhFbW5aUk5WNm1rVWRLbnQtWUJucHBPMzdR?oc=5",
+     "published": "2026-11-15 20:01",
+     "tags": []
+    },
+    {
+     "title": "비트코인 가격 하락, 부정적 촉매제 부재… 저점 매수 기회인가",
+     "source": "민심뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ISE15WWZTTE9Ub2dmc1ZhZnVzWXpTSmxldTNrb0I5MmdqNkJ0aF83VmxHTTJ1dVljWEloeTJ3bHp4NXBKWkhYbEtFS3o1N09BeXFYdTIzVUgwRnlLd0tSZS11NS0ydGtGVy1KR2hB?oc=5",
+     "published": "2026-11-15 19:46",
+     "tags": []
+    },
+    {
+     "title": "비트코인, 66,000달러 돌파 후 소폭 하락…현재 가격은? (+BTC, 66000, HTX, 24시간)",
+     "source": "민심뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KSFVjSDNzcGFWaW9pUm9nV3pEU2JFc0tqMWZBLW9WT1RKSEpIaS1NX21SVnNwdDBBc01oOEdaSXFlME0xY2FUNVdPZGU2UGxpOUEtdDZpTFlOemY4ZFdEUnZrd2IyUmhteFowNnBn?oc=5",
+     "published": "2026-11-15 18:26",
+     "tags": []
+    },
+    {
+     "title": "edgeX (EDGE) 가격, 차트, 시가총액 | 코인마켓캡",
+     "source": "CoinMarketCap",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qbDU4NlRCeURHdlU0cndyaFR6bXRIa2hIeGY3NnNfU19vTHZUWV9OZWpTZjdJUXREVnJrWkZ6T0NwR2pjTzZEZy1TZUEzVEZiTThpNlNiSXpJQQ?oc=5",
+     "published": "2026-11-15 18:02",
+     "tags": []
+    },
+    {
      "title": "비트코인 9000만원 돌파",
      "source": "이코노미블록",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9CRHV3ODNjODdoTEc2cFNNanp3ZVFsYXlXVUUzWjVHQ0dSdTk5NGVPd09YXzJlT0VtUm54M1lDLWE2V0RMMTRKOEsxcno?oc=5",
@@ -509,6 +544,13 @@
      "source": "코인리더스",
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZT0FheXF4UXpBOURsNnFsVFdPcHgwN29SSnpINW5MRDRibmxNdEp3dHZZa19TNGl6YklfbmFBbHZfSVMzYVk2cEdn?oc=5",
      "published": "2026-11-15 17:25",
+     "tags": []
+    },
+    {
+     "title": "코인원, 고객상담 위탁업체 해킹으로 개인정보 유출",
+     "source": "이코노미블록",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wdm84X016MFlqNlM3dXNVaXpoOHhkLXlzdjdJWHRrVzR4Sm1uUE55eXcwSS15bjdhZV9KdDNrR0pnUHJPRnlZbWd3OGJRZmtn?oc=5",
+     "published": "2026-11-15 17:05",
      "tags": []
     },
     {
@@ -538,48 +580,6 @@
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fWGF3OHEwMHJHemtYcW1nRm5QeFk2ZVQ1TXBuQjlnMmpyWEItSWs4ZUZTYlZiQXIwcE0yZldsUVY3c3JRMmZfbWtR?oc=5",
      "published": "2026-11-15 15:08",
      "tags": []
-    },
-    {
-     "title": "이더리움(ETH) 1,802달러 회복할까…ETF 자금 이탈에 롱 청산 겹쳐",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hS0gxZ2dMb3JqRS0wQ3pSamtDSHgtal95Q20ySmR3SWE5OEJpMHJwMmFCLWdwekJGckRnMDh0U1B1U1BwY19samdn?oc=5",
-     "published": "2026-11-15 15:06",
-     "tags": []
-    },
-    {
-     "title": "[분석] \"비트코인·이더리움 선물시장 투심 약화\"",
-     "source": "블루밍비트",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxMnBQU3FyU2ZlQUZFVEQzYzJ2eE1pWDhfQk5PdEhqT1FKTEgwd2FYa25aTUNSWGxFcElFak0zaXNxTkJDSXhLa0xNX2N2dlUy?oc=5",
-     "published": "2026-11-15 15:02",
-     "tags": []
-    },
-    {
-     "title": "리플(XRP) 1달러 붕괴·일주일 새 18% 폭락…다음 지지선 0.90달러도 무너지나?",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZSEdaUVpJVldrR0pKb01QSTI3NHA5N0FkNWdLWlFPVy1sNjREZ2RSM1lieWs4RWFPXy1xTnBJeHoxYWlpRmtYeUFn?oc=5",
-     "published": "2026-11-15 14:54",
-     "tags": []
-    },
-    {
-     "title": "[속보] 비트코인(BTC) 8,968만원대…폴리마켓 6만6000달러 미만 확률 83.5%, 이더리움도 주목",
-     "source": "CBC뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MV2FpQWIwZkwzRkItQXJyVDRxZ1ZmQXU5U3QxNlFsRkNTQ1dkYVZiMDhlZWhxWWtFUmRJTllDQVE3LVp1SnFMT291QzJfbktSRW5Ua0NNQXhzX0F2UTlpUTd6VzIxQ2Jq?oc=5",
-     "published": "2026-11-15 14:35",
-     "tags": []
-    },
-    {
-     "title": "비트코인 6만 2000달러선 추락…2022년 대폭락 악몽 재현되나",
-     "source": "www.2news.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40RVB5cGJiaVVSaFFqS2JMYjdtazJaVW9PRnVTTFE4VTBNcHkyb2EwOTd6eEVzOEExWG90RVZxLTl5dVh3YTl1ckF0NDk2Y1k0aWQ5NkpDZ2k4YlV4VUdlU1dFZDl0Q3VB?oc=5",
-     "published": "2026-11-15 14:31",
-     "tags": []
-    },
-    {
-     "title": "[Weekly Coin] 젠슨 황 사임 충격···비트코인 '폭락'",
-     "source": "시사저널e",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tTGZTdUVudGRvVUpLR0otNUFXbjdJa2VOaXFRaENUd3F6NWpNNElhVUFrejhsamV4TTMwbjdHc2NJSVJvakM1MWxhNFA5WkhHRjdyUGFnQ0tvNGRxTzk2ajU0TVVXVjQwRlEzM053Q0dYc2lNZXfSAXZBVV95cUxNLUxmU3VFbnRkb1VKS0dKLTVBV243SWtlTmlxUWhDVHdxejVqTTRJYVVBa3o4bGpleE0zMG43R3NjSUlSb2pDNTFsYTRQOVpIR0Y3clBhZ0NLbzRkcU85Nmo1NE1VV1Y0MEZRMzNOd0NHWHNpTWV3?oc=5",
-     "published": "2026-11-15 14:08",
-     "tags": []
     }
    ]
   },
@@ -593,10 +593,24 @@
    ],
    "items": [
     {
-     "title": "트럼프, 중간선거 패배 뒤 첫 해외 순방…“아세안정상회의 주목해야”",
+     "title": "트럼프 협상 나선 이유? \"이란 미사일 최소 1500기, 전력 회복\"",
+     "source": "이데일리",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMXVuLUxkazQwNlp1SkVsc2ItR2trTnl0ejJHOWNLZ2Rmd2JrSnNLTlc2c2ZWNDAwVWFuWlJLSFg5Yzg2RTRyU3d1eDJ2WjFLazUzTWx0SWh2QlRKb3lFM25MMTQyd2wxUEZQTnl6MG5ia3o4QzdEekxKYmJ1V3pkTg?oc=5",
+     "published": "2026-11-15 21:21",
+     "tags": []
+    },
+    {
+     "title": "\"美 의회, 트럼프 관세 뒤집기 시도할 것\"",
+     "source": "마켓인",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVLXBjaDZTMXdsWVZIdWRjOUVpZjdHLW1KM0JzV0xvNnQ1bkpxUklKOTR0OEwxd1M1WUVtcjBTQ25vN0IzV2xJTk0xaHNmbUtYdGx0dFZqNkxpV21DbjQtbEVpS3R6bERJbVFfQzdpd0pwVEk?oc=5",
+     "published": "2026-11-15 20:16",
+     "tags": []
+    },
+    {
+     "title": "중간선거 패배 만회 나서는 트럼프…첫 순방 무대 ‘아세안’에 쏠린 눈",
      "source": "한겨레",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQejlfM3JsQzRrdWltS2RBampKLWhkb0J1eExUNnA5WFlRU1k4c2JmNmhfc3p5UUR3eHRXZDJOZGQ5NDdsZXZiOEZXWmFwel9pdXVibnducmIxQXI1QUZhc2NfWnNYWElpZ2RWRy1Ud25uYXZIZFV0UjJmWElxNHFPVXl3?oc=5",
-     "published": "2026-11-15 18:10",
+     "published": "2026-11-15 18:54",
      "tags": []
     },
     {
@@ -649,31 +663,17 @@
      "tags": []
     },
     {
+     "title": "알래스카, 美민주당 주지사 당선…트럼프 압박 '韓 LNG 투자' 변수로 - 머니투데이",
+     "source": "머니투데이",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVaXVuNjVLcE83X09NU3NOWlJqVEp3bHl6ejY4dmtDcl9ldHo2MWhCRDhCTzFCSlNtWTlUNzBuQ2dlaU4yQTV2LXIwa1VvYlR1Z2N1ZTNQRi1pYmJGWGE4Wno1TzN5YkxM0gFuQVVfeXFMTnBSaFo1T19tZ2F6bmtGblVZRGNaZWNnXzNxZE1LejVMVXc1WG12YzdHcWdfRjNYQ1ZaV3Z3bS1WbTFaT0R3VTc0TW1VOGNNcDZITjFBOE1kcVJOV3RXUS1tLVowQU45V2Q0OGVoVkE?oc=5",
+     "published": "2026-11-15 08:10",
+     "tags": []
+    },
+    {
      "title": "“규제 풀기 직전 엔비디아 주식 70억원어치 샀다”…트럼프, 이해충돌 논란 확산",
      "source": "데일리25",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rajUyMExmR3otSml4QzFiaXlPdUZHZzRtNENycFFpQzFxX3E1aFBVZHo3MTRGNVFDNjZQQW5RaGhQSHc5NUhBTXUyV2d0bkprYU5Da3hFUjdLSjB4QTFEbnNYeXp4V08td0VqRw?oc=5",
      "published": "2026-11-15 07:30",
-     "tags": []
-    },
-    {
-     "title": "트럼프, 작년 AI칩 수출통제 풀며 \"엔비디아 주식 사들여\"",
-     "source": "중앙신문",
-     "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZ0loT193SmJ0NmM1VXIzZVJrWS1XTkFJV3gzVVJNcWpOMmFRUWVXeHhnUy1CUk9hdFZRdU9GZzlFc2M3bjJGYXh1TVNmajVLMGVMUHZCVDRTaTRtQzVpQk8zQlVkWE5TcTdid0d6MTBEQThha1F5N0EwM3JOWnE5elRBZjhoSUVaX0RHamxuOFI0WXRvaWVWcmpub3pEdHJaR1pIVWtaLUlCb1VYXy05NnpnNEJWMkR5aUlNTEV0Zm9COXRvbmpfWDk2c2tpUEhWcTdSNWZyODhEUnhQcmxQbzN3aHA5Z0FMbVBsTjh0bVJsX0g4cVRHRkIxNTI5dXYwX1loeGNUUnRvdzBQeTNKZkZuWDlLTWgyQlJmMnFCazJ2SHdfZ2JSM1BkN0NfT1lOYkdNUmhsVzhpeDBncU8tZzd5VjBsNjFKRXhpSWg1NkUxQjhsYkd3cDN5UlFLQUx4?oc=5",
-     "published": "2026-11-15 00:27",
-     "tags": []
-    },
-    {
-     "title": "\"트럼프, AI 수출 규제 완화 직전 엔비디아 주식 대거 매수\"",
-     "source": "뉴스1",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56N2JhV0Y0dzRZeFBBVkNGVFAtTWdUSEE5ZEpUc0hKQ3M2aW54ckIyUlpYejJvUVd5Z180WU4tZ2VLbksxV1pKMHF1ck15ZWlSNVBZZlQ2SWY?oc=5",
-     "published": "2026-11-15 00:14",
-     "tags": []
-    },
-    {
-     "title": "트럼프, 개보수 앞두고 워싱턴 D.C. 골프장 비판",
-     "source": "Mezha.net",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXJjT1BoaGpmeFhvSWY1NllzSnhVd0s3SmVVNlVJakxGOUFRaWdpVHpGZnRiSl9OR3g4eTR6WWRUaUJic3VmSEVQaVpzN3U3NTNXNTY4OWdCNmtLbXluYzl2Z1FkMjlXS3lQdzV6MGExbjBPQjZJTVI2YmlpWGMyY0hmcTJCTnhoUWgtNWxTUzhydXFIXzFlLTNtQQ?oc=5",
-     "published": "2026-11-14 23:55",
      "tags": []
     }
    ]
@@ -688,6 +688,13 @@
     "OPEC 감산 증산"
    ],
    "items": [
+    {
+     "title": "11월 15일 휘발유 및 석유 가격 업데이트: 일제히 인상",
+     "source": "Laodong.vn",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3hUMnh3Z3RXcFVGN0EyZVBCZXpXcjd2ZG9oVU1Lbi1nbHI3QVFXTENYUm5EWVhpQy1kUzJ1ZFNzT2ZTVFltdGVxd2lzeWF2dFZvZEJ0aUR3SDktLVZBYzNnZk5sQWJDdlZZTWJ5b2Juamx2aG5ZOVBZcWxvaldBVi1jd1VUd3ltbHhybGlNU3VlRXcwdmc?oc=5",
+     "published": "2026-11-15 20:49",
+     "tags": []
+    },
     {
      "title": "트럼프 입에 출렁이는 유가…최고가격제 출구 '안갯속'",
      "source": "뉴스토마토",
@@ -745,6 +752,13 @@
      "tags": []
     },
     {
+     "title": "‘석유 최고가격’ 4주간 동결…“중동 불안 여전, 물가 안정 고려”",
+     "source": "한겨레",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZdlNqdWt4Wnl4Q29jWk16N1ZQbkZOVDc2TkdWVENodGhwVkc3WUd0RXd6OHFYX0FYaGlUNnk3Ym1CU3R1c2FYV2pUT25wYWEwMlhxWE9lVGgzaU5oQnZNNkw3cVpVejNaQkppNllRU2tPdw?oc=5",
+     "published": "2026-11-14 11:57",
+     "tags": []
+    },
+    {
      "title": "뉴욕증시 기술주 약세 속 혼조···국제유가도 ‘널뛰기’",
      "source": "에너지경제신문",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rMHF5SWdyWGhiWnB0X3NhNHRrUTd4WGJHVFN1bFpORnJja1NyR04zcVdnU0xsZ0lVRGl1T1BzaWRsZXdGRExhdFpNNWY3czg0ejNfWW9ld0xwM0k?oc=5",
@@ -756,20 +770,6 @@
      "source": "Mitrade",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mZEJGSXRteHpwSzE4NlRMYnV0aG5oUlBJV1JEeEUydkVualBhNGdBMTltcS05SHI1RENXa0dDQmtsaWhnY3k2QkxFeFUyR2JEUEJFWk9mYU1UMmM5bER0TEowbExuZ3VwWE0wdzhB?oc=5",
      "published": "2026-11-14 10:52",
-     "tags": []
-    },
-    {
-     "title": "국제유가 상승에 달러 강세…달러인덱스 19개월 만에 최고",
-     "source": "서울경제",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qYUZzRFlzdHNfSkI4MlduanF0ajlTdlo4QWIxNFdYc0ZJMnNvWU9QX01tR1FhNk1vY0R6SzliUzdGcVVqYkJvMTM2Q1Y1UlhkRnfSAVNBVV95cUxNV2hvSDMzeWNRNy1LalFRNXZrWUdJMmRZRXpqN1o4SDluMkJZU05ENGlpYVNEN2hrc0NmY1lLV3FSNm9lVmp4cUgtaWxRZ1Z5YjJDbw?oc=5",
-     "published": "2026-11-14 10:47",
-     "tags": []
-    },
-    {
-     "title": "국제유가, '공급 과잉 전망에 혼조세'…WTI 소폭 하락",
-     "source": "https://www.ppss.kr/",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fQ0xmTXZVeTJaQURVX3d2NEpUMWl1U2xJNV94QVJIQlY4aGtRYU1CVWpRUWFZZjh6YTNGNHBpc093ZlhOcWNjM0ZvNFZ4UG5oOHdPekFtOXpiWkJJalU5YmtjeG4?oc=5",
-     "published": "2026-11-14 10:45",
      "tags": []
     }
    ]
@@ -784,6 +784,20 @@
     "우크라이나 전쟁"
    ],
    "items": [
+    {
+     "title": "우크라이나, 러시아 주요 산업 도시 공습",
+     "source": "Laodong.vn",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVFlPX0xDcFNLbEQtTUlNS3p4RE5iOEF6YnZjcDkxbm5jZmllYVBMY09uaEJKYmR0RU03OXJvUjdKNWMxZ3NzeUdqcVk4TU9MejZyU3lQUkVubmxiTWZVUnJIT2liLU1uYnVFSGhVQ0hBY0tPZkRqQTZuaVJjZFJZYVZEbkhxNXhndlNTYk1UX0ROdEJ6TU43eENCbw?oc=5",
+     "published": "2026-11-15 20:12",
+     "tags": []
+    },
+    {
+     "title": "[항톡] '평화와 전쟁 사이'···중동 바다 가는 포세이돈",
+     "source": "이뉴스투데이",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40Q0dlTWR2TDQ2UWluRlkzN0NKTjNpajhhM0Z0bnRkNERWLVJ1ZEV4OXA3enhCOWR6YktzdVdfeFY3TWF1NTBsOFpWbHRFTm0wSlUwTi1UNXpieDJTalUtZ0JSZFZ6YjN6REN3dWNBVFHSAXRBVV95cUxPZUhreTVIQUI1X210d3N2cFBIRk1LS1M4Zml1azVtNkdGT2wxZ081ZXNKeXM1cmtXb2VGVzN6ZVZyaDhON2s3UlNiS2M0azJ5bG1WQUhDaHY2Yzg0R2NMNW4yNXlMOVFVQzNOdlZtM1hmVTVyTw?oc=5",
+     "published": "2026-11-15 15:16",
+     "tags": []
+    },
     {
      "title": "쿠슈너 “우크라 종전 위해 러시아-유럽 직접 대화 추진”",
      "source": "Chosunbiz",
@@ -852,20 +866,6 @@
      "source": "연합뉴스",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlZnYwSjlwQV9iRG1JczdFV1NIZ1lzWnFja0VENHhYZUU1Y2hOMnFfNklXclBJTnZKZDViRnYyR19yRE00dXZQLW44WHVQVWRKaUwwdkF1a1k4U193TWhqWdIBYEFVX3lxTFBlZnYwSjlwQV9iRG1JczdFV1NIZ1lzWnFja0VENHhYZUU1Y2hOMnFfNklXclBJTnZKZDViRnYyR19yRE00dXZQLW44WHVQVWRKaUwwdkF1a1k4U193TWhqWQ?oc=5",
      "published": "2026-11-13 17:41",
-     "tags": []
-    },
-    {
-     "title": "이란 대통령 “이스라엘이 트럼프를 전쟁으로 몰았다”…중동 전쟁 책임론 격화",
-     "source": "OBC 뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaaW53VlFmMGg5cjFSMC1hUEcyQUJmUVF2dUNVVjI4aDlyZnVMd3FWc0gwU05YdFB4TFFNMnFrN3pQbDJGbTZlOTl2ZURIakFuOVJJaElBQzBkbThMSWxTcUZTYXF5Nkl0SlE?oc=5",
-     "published": "2026-11-13 16:46",
-     "tags": []
-    },
-    {
-     "title": "중동전쟁 여파에 유럽 가스비축 최저",
-     "source": "이투데이",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBac3pMS0Q3aE1TQ3E0RFIxM1FxY3NQa1R5cnE4WUNGSWJhc2VIYUJLQnE3SDdJS2Y3MkVRakhKdlh0dWI3R3NraUV5YjdDRUxaSjBmeVJNUTBMYjJYaE9aN0FLbGRtNGFq?oc=5",
-     "published": "2026-11-13 14:05",
      "tags": []
     }
    ]
