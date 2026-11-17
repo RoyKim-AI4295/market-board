@@ -1,9 +1,13 @@
 {
- "updated_at": "2026-11-17 09:48",
+ "updated_at": "2026-11-17 12:47",
  "errors": [
-  "양도세 · 장기보유특별공제 개편: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%9E%A5%EA%B8%B0%EB%B3%B4%EC%9C%A0%ED%8A%B9%EB%B3%84%EA%B3%B5%EC%A0%9C%20%ED%95%9C%EB%8F%84%2010%EC%96%B5%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
+  "중대재해처벌법: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%A4%91%EB%8C%80%EC%9E%AC%ED%95%B4%EB%B2%95%20%ED%8C%90%EA%B2%B0%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
+  "노란봉투법 (노조법 2·3조): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EB%85%B8%EC%A1%B0%EB%B2%95%202%EC%A1%B0%203%EC%A1%B0%20%EA%B0%9C%EC%A0%95%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
+  "양도세 · 장기보유특별공제 개편: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%9E%A5%EA%B8%B0%EB%B3%B4%EC%9C%A0%ED%8A%B9%EB%B3%84%EA%B3%B5%EC%A0%9C%20%EA%B5%AD%ED%9A%8C%20%EC%88%98%EC%A0%95%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
   "연준 · 미국 금리: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%97%B0%EC%A4%80%20%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
-  "국제유가: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EA%B5%AD%EC%A0%9C%EC%9C%A0%EA%B0%80%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko"
+  "가상자산: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
+  "국제유가: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EA%B5%AD%EC%A0%9C%EC%9C%A0%EA%B0%80%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
+  "전쟁 · 국제 분쟁: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%A0%84%EC%9F%81%20%ED%9C%B4%EC%A0%84%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko"
  ],
  "topics": [
   {
@@ -601,87 +605,87 @@
    ],
    "items": [
     {
-     "title": "달러 강세…트럼프 관세 쇼크 낙폭 모두 만회",
-     "source": "매일경제 마켓",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEaVBKWkM4Yk1HQXEzaDZZaU9hS2pOUm9YUm1wVGd6QzdFMmVfbmxPQTN3Rk4tY1JNaEdqZ1FvcjVXRjllV0N0TC01cXZJZW1ldXc?oc=5",
-     "published": "2026-11-17 09:11",
+     "title": "트럼프 ‘비자 체류 제한’ 또 좌초...행정권력, 법원 앞에 속수무책",
+     "source": "조선일보",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMTJ6TkFlRWJRZGlDbXhaNGt4WnVpRkgxRm80T0N6eWlTblhEUmxLZkJoLUI3SW91cjJ0MVhuQUIxemZWc3FOV1BpY1d6X2U1WnZVeVo5V2laU2JJUy01bjZidHR6UkNwbzdnQjdWSlhxYlp6OEVrMWgtX09UdGNiV1BRbmxtMGhoQkRhV2J0SjB0U1JPdlBJN0J5SFBsQQ?oc=5",
+     "published": "2026-11-17 12:17",
      "tags": []
     },
     {
-     "title": "CNN “이란, 트럼프 행정부 고위 당국자 겨냥한 ‘더티밤’ 공격 계획”",
-     "source": "Investing.com 한국어",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VMmJoUzg3ZDlLS2FFNVFDOEJHZHN2VXJUMV9YanQycTZFbDAzZDBGTzEydTN2dWwyWnNxcDYtY3R0MG5YelpuMHpaNDZvRDkyLWdmVDRHQ3p1Y1ZZOEZkUjlqTkhGQ1FJU043X00wYTZfRE0xY0xR?oc=5",
-     "published": "2026-11-17 09:07",
+     "title": "트럼프 행정부, '젠슨황 스캔들' 선긋기...\"간첩 의혹 증명 안돼\"",
+     "source": "티제이비",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoRzNFaVdGZHNhbGZmWUpSd0NFOEUtWU5ZaTlqNThnaWtwNGNxX0N2c1o3bVJaLTF6SnpEdGNuSmRwQk5Xc3ZrNG9FMHQ4SF8yMWdLaWVhbnRKdkxr?oc=5",
+     "published": "2026-11-17 10:54",
      "tags": []
     },
     {
-     "title": "젠슨 황이 들춰보인 트럼프 정부의 '민낯', 구멍 뚫린 반도체 정책[워싱턴나우+]",
-     "source": "한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pNVlpYTQ0aGZ2N21oejJjX2FZd2xwbVVJRUVxWGxMNmV2amZHR2pHeEpvYXpvdG1sTDI1RnI1VjNfWXNHMVBPZVFIcEdJYU01TmdURk5yaW4wUQ?oc=5",
-     "published": "2026-11-17 08:30",
+     "title": "美법원, 트럼프 ’유학생·외신기자 체류 제한’ 제동",
+     "source": "연합뉴스TV",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EeC1ZWHZDWEhTeFFvLUNBRGpSR2sxcXRoUkhlS2plWkpLbWFYaWp5WG04TG5PQk10RXZaUzE2TnI1UlF4VUVRdTJrVFI0NFE2RzcyWkk4VnJnRWhKVHhMMXktZXQ4QWM?oc=5",
+     "published": "2026-11-17 10:53",
      "tags": []
     },
     {
-     "title": "트럼프, 젠슨 황 복귀에 열린 입장…러트닉 경질설도 일축",
-     "source": "초이스스탁US",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CQ0xmWlVLN1FveFNuSlJvQjB2eWE3QVhRaG1haFcyaHFCMTZVa0pCSzBOcG4tLURBOFpwTTRIWmx5ZTlWQ012ZEIwcHVnbms5eElxNnlYYXhhTW51SWotT0prR2VUdFk?oc=5",
-     "published": "2026-11-17 08:12",
+     "title": "트럼프 행정부, 중국의 해외 AI칩 우회 이용 차단…동남아 데이터센터까지 규제 확대",
+     "source": "펜앤마이크",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04aDZTU3NqbmdrRGpDdmVhZmVFTThnWWVHMzdfZ3ZnSkptZWdlOEdod2xRRUhscTRCdVlITnl6U0F4emt5OEFHZFI2Z05oWDlRRHBhYXlzNm9qQ1FYMG9ObjBTaGVpR2lLUVlB0gFvQVVfeXFMUHBRQlpQdVduNkt5V3E0TG5HclZmZmJlLS0xc1ZMLXhuRjhacmtSYlFpckNKY0hRWkhpWVlGMTFBMERLM3hqSjdSOVhZRWNqQ29rbmk4WkpxaEw5M0ZHWlpIMk53N0pOWmZVNjAwM3Rn?oc=5",
+     "published": "2026-11-17 10:31",
      "tags": []
     },
     {
-     "title": "캐나다산 자동차 관세 50% 위협…벤슨, 트럼프와 협력 의사",
-     "source": "토큰포스트",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RbVcyaWpYaG5oMzdaNmE3NS1BUEFsX0E3RF83TXhBandPWXBOQjZVLVNibF9YRFFkYjl0WHVzNEgwZjVXZTRyVkphMjVKbXBFQWpuR0Rn0gFbQVVfeXFMT3dBQUNVeE5mTGtUREQtM0lVOERpN05LYnkwVFZkMWxHamt4T3A2MTdGa2lMSU5NNFE5dkRoUS1ZNzBTcExlTEszb2tYSDBxME1BQTVPNURRTHBhRQ?oc=5",
-     "published": "2026-11-17 07:52",
+     "title": "트럼프, 엔비디아 주식 '최대 830억원 규모' 보유… 中 스파이설엔 “입증 안 됐다”",
+     "source": "전자신문",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83c0ZCQmtQZEE1WUhlSnNYU3o0ZUd2T0tRV0t0ZHNoRTJWaFNFNWJHdGpuZmdFdEhUUTNMLW1lRVJSM0pqTVNFY053U0IwUQ?oc=5",
+     "published": "2026-11-17 10:30",
+     "tags": []
+    },
+    {
+     "title": "'中, 관세와 제재만으로는 안된다'…트럼프 행정부 인식 확산",
+     "source": "SBS Biz",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxYlQ4VXRFRm9HWTVhMjZGMzZTSkl4X1hjMXAxSzh2cHFRRmhfY0VjbmxQVVVEUUR2M0lCTWo3RVUwLUhnOXlOMUVETjRHbUh5dVc40gFYQVVfeXFMUERzMFdZbGw5UlN2S3NBNG10YmpTQk9qWERRRllxNEQtREsyWW9HcWRnVUJKV1Z2WDA5UGY2UUtsbEs4cjlXV3o4dzdoQ1VScGJpc2UzUy1fdg?oc=5",
+     "published": "2026-11-17 10:25",
      "tags": []
     },
     {
      "title": "[단독] 트럼프 ‘유학생 체류 4년 제한’ 결국 무효…미 법원 “법률 취지에 어긋나”",
      "source": "한겨레",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3LWNzQmlKYjVJZXU0T2hlMXZvdk1fN0IyZzM1S1NxLU1vTUgzdkJMb013SDh4U1ItdU1ibVY3eWRfMGxKVFloZ0ZOSGlLQmVBY0RlMEFSQ01ySllfSzhiNDRudmEwNWQ0MFRUOTZIZw?oc=5",
-     "published": "2026-11-17 06:47",
+     "published": "2026-11-17 10:14",
      "tags": []
     },
     {
-     "title": "'젠슨황 스캔들' 美, AI반도체 中 원격접속 차단...트럼프 \"스파이 아닐 수도\"",
-     "source": "KBC광주방송",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pcmx2MmFpTmhYMEhaWFEyRXV0dGJZYUtocWZSbTBYV2NQLTdwR1JoWHE4VzZHeHVBQktjVVpEQlhMdkhXeTF6ODF0U1lIYmVYa2VOaHlxUXR6TGVQZXdRag?oc=5",
-     "published": "2026-11-17 06:09",
+     "title": "\"트럼프 파고 넘는다\" 광주상의, 26일 수출기업 통상 대응 전략 모색",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Si00X2QzVHFLNGxlWTdaZ18tdVc3OFo4dmx3LVlWQm5sQUtCN1FOdW9DZHlMc2JWVlZReGFscE1iWnFSUXBBVTlsUzQ4RXFBY1FldXBRNWN4YVBZZjJhZ9IBeEFVX3lxTE01bDUycGNrZDlfeG5YMHo2QlhqamdRQjBOaUw1bi05aEJ2M0JrVGFHU2xfcGhMRWFLMXVURHlWWDZ0MTRackwyemRneE9tN1ZMbVcwRHpZUGhTU2UydG1aSVhnMktTSlRkOHhWdkE3TFpBelJWT0xNNA?oc=5",
+     "published": "2026-11-17 10:12",
      "tags": []
     },
     {
-     "title": "트럼프 행정부, 항공관제 시스템 현대화 위한 추가 예산 요청",
-     "source": "VOA 한국어 홈페이지",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sUHRnbHdzR0hFb2NKQ2lHYzJRenBxVGh5a282aTJXOGlEMktyZ1VuZ3Zvb2FIYmJ6eHNzSUpJUjRCbXRMSjZYd3FIVXJsQW1XZklwVE1naUVOcVhwX3JMUkJGQXQzSjI4b0hGT29DUdIBb0FVX3lxTE9sUHRnbHdzR0hFb2NKQ2lHYzJRenBxVGh5a282aTJXOGlEMktyZ1VuZ3Zvb2FIYmJ6eHNzSUpJUjRCbXRMSjZYd3FIVXJsQW1XZklwVE1naUVOcVhwX3JMUkJGQXQzSjI4b0hGT29DUQ?oc=5",
-     "published": "2026-11-17 03:17",
+     "title": "'달러화 강세' 트럼프 상호관세 쇼크 낙폭 만회‥\"AI투자, 관세 부담 상쇄\"",
+     "source": "MBC 뉴스",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtY1UwVjRWMWpnZXRRWDNaYTNxRWVNZ2pmQlJxZWItRi1QSG42bjMtRnA3YlozdmhIS3lBZldDMER6SjFaX2ZNbVBKTHpQaHRDOERWUS04ZEN2X2M2TE9Da053TldBYThDc2ZsVDFydmR1cTBF0gF0QVVfeXFMT0d0dVc2cXN2VmVKcXNTQXdJUGEwNm10LVhiMkVMeTNvWEdKQmpsRjU5eGNHTEFSaFdYRTFQeERJdzEzV3ZvZGlnLXJSNFN5X2VBb3ZRM0dHalpERnZQVld6T2RMblpBRmJ1TFJ6ODdSTFM0VWc?oc=5",
+     "published": "2026-11-17 10:07",
      "tags": []
     },
     {
-     "title": "트럼프 행정부, 15개 교육기관에 민권 조사 착수",
-     "source": "Mezha.net",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2RSWFpTeDBiQzhEaDN1di12WlBWVGxZNm16UlFRWnVuZEZVRlBibmVZSEsycnRrQ3E3bk03X0NpSHowd0hORzFtR1hRQ1pGTmlMOWFrRWFwbk5SWHh1Sl9LMXlneVdhUmlRSVNqQkQ5RnBxMnVBWlhQY2lHV2tFY1ZnVE5IUUYtYjJKaUk3STRaQk91RlAwcFlsdXN5UkdDdHBOanB0UQ?oc=5",
-     "published": "2026-11-17 02:23",
+     "title": "트럼프, 방중 직전 AI칩 원격이용 차단…동남아 데이터센터 겨냥(종합)",
+     "source": "뉴스1",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TRVE1WU5rRW51c1ZXdVQ4aktIMzlrSjhBVG1RT1NpaTZKUTYxVkVwQlFPbmJwcS1KenBONkRsb0JqT1lDYWpMRjFOd0hmVDBTWDY3UlNnWkc?oc=5",
+     "published": "2026-11-17 09:51",
      "tags": []
     },
     {
-     "title": "트럼프, 항공 대란도 바이든 탓…관제망 교체 예산엔 여야 공방",
-     "source": "한겨레",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Rkp5VFJrbENQOGJ6ZGFCRFZiS3Y0WHV1ZHBjT2dwWjlUWHFMX3AyTXZONTRYVmhZVVU2NnJmS0x6RVpKMWdxZ1daNVB3VTRhS2NiRlZEY24zbm1XbzJRU2U3Q21xYk1vaHVjWFpRSQ?oc=5",
-     "published": "2026-11-17 02:17",
+     "title": "트럼프, 회계감사원장에 행정부 참모 지명…독립성 우려",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjTUVLZXNXdHZOSHVrTHJVV2pLRXpZMFdHM2w4TTBySnZpTmFNaVhKOWhnMENINk5YRlE2YXlyM3pWTXNpRFZnTFpUS01EOUFCZ1FpSVZmcFJXUlBVU1dCWdIBeEFVX3lxTE5SeFpSQTlFcUREbnBrMHR0MVVZTWhDUkEydDgwMFc3TE5uVnRNV2dxeXY0Uk9wQlJuMUttUlNMZy1Id0U3SnJHZWZjV1JQLWYzeVd3WTdIZ1Y0dmdKTlJyVWp5d0hWNVl1Z1U3Vkw3Wnk3VHBYRFJpVQ?oc=5",
+     "published": "2026-11-17 09:46",
      "tags": []
     },
     {
-     "title": "트럼프, 멕시코 관세 두 배 경고…이민자 행렬 차단 요구",
-     "source": "토큰포스트",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWjZSbGlvdmVyUXV3UmRKdWNsZUQ2LVpzZjlWcWl5dUdiWU9NRVFCY2U0SzZrRW9DY29wOUJ4Q3l1UVhmT0VtVWs1TEM4c0VsZks2M2530gFbQVVfeXFMTXZFVzZrQlhWMFdZczRuVFRsWExMVTBZaF84WjN3ZzVLNnl0Zk9rZXBVM3dINXRlem1XUXhJSDJiXzVzNkdfbmJldnA0T1FSRkRyOHdxVFFRTk9maw?oc=5",
-     "published": "2026-11-17 01:22",
-     "tags": []
-    },
-    {
-     "title": "트럼프 “중국서 김정은 만날 수도…시진핑·푸틴과 함께”",
-     "source": "에너지경제신문",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nLWNiTGRmeUg4T0NQYktzUkllUFl0NjlrbGVzSjJwVGlMSklZWUtCUEdHanpSNlY4bXpUcnZ0MmFHT0d2OGJXOHVocUVudmh3UUhZUG1VYlBKNWM?oc=5",
-     "published": "2026-11-17 00:47",
+     "title": "달러 강세…트럼프 관세 쇼크 낙폭 모두 만회",
+     "source": "연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TeWliMzVzeHl4WXF0b0NnaUVsdXJ3S2pfNE1MXzRZczY1REhlbXYyWHB1Skl3QWlLWWhveXlLNXNpU1o2MkpUOUJUbFZYSG1mbFhhWjVBN3FrMW5UVnpkWtIBYEFVX3lxTE1TeWliMzVzeHl4WXF0b0NnaUVsdXJ3S2pfNE1MXzRZczY1REhlbXYyWHB1Skl3QWlLWWhveXlLNXNpU1o2MkpUOUJUbFZYSG1mbFhhWjVBN3FrMW5UVnpkWg?oc=5",
+     "published": "2026-11-17 09:11",
      "tags": []
     }
    ]
