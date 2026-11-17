@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17 16:53",
+ "updated_at": "2026-11-17 18:54",
  "errors": [],
  "items": [
   {
@@ -1034,9 +1034,9 @@
    "name": "S&P 500 선물 (E-mini)",
    "unit": "pt",
    "decimals": 2,
-   "value": 7422.5,
-   "change": -16.5,
-   "change_pct": -0.22,
+   "value": 7408.75,
+   "change": -30.25,
+   "change_pct": -0.41,
    "date": "2026-11-17",
    "history": [
     {
@@ -1277,13 +1277,13 @@
     },
     {
      "d": "2026-11-17",
-     "v": 7422.5
+     "v": 7408.75
     }
    ],
    "source": "Yahoo Finance (ES=F)",
    "time_label": "최근 체결",
-   "time_us": "11/17(화) 02:40",
-   "time_kr": "11/17(화) 16:40"
+   "time_us": "11/17(화) 04:40",
+   "time_kr": "11/17(화) 18:40"
   },
   {
    "id": "nq_fut",
@@ -1291,9 +1291,9 @@
    "name": "나스닥 100 선물 (E-mini)",
    "unit": "pt",
    "decimals": 2,
-   "value": 27309.25,
-   "change": 25.0,
-   "change_pct": 0.09,
+   "value": 27173.0,
+   "change": -111.25,
+   "change_pct": -0.41,
    "date": "2026-11-17",
    "history": [
     {
@@ -1534,13 +1534,13 @@
     },
     {
      "d": "2026-11-17",
-     "v": 27309.25
+     "v": 27173.0
     }
    ],
    "source": "Yahoo Finance (NQ=F)",
    "time_label": "최근 체결",
-   "time_us": "11/17(화) 02:40",
-   "time_kr": "11/17(화) 16:40"
+   "time_us": "11/17(화) 04:40",
+   "time_kr": "11/17(화) 18:40"
   },
   {
    "id": "gold_intl",
@@ -1548,9 +1548,9 @@
    "name": "국제 금 (뉴욕 선물)",
    "unit": "달러/온스",
    "decimals": 2,
-   "value": 3876.5,
-   "change": 23.5,
-   "change_pct": 0.61,
+   "value": 3870.2,
+   "change": 17.2,
+   "change_pct": 0.45,
    "date": "2026-11-17",
    "history": [
     {
@@ -1791,13 +1791,13 @@
     },
     {
      "d": "2026-11-17",
-     "v": 3876.5
+     "v": 3870.2
     }
    ],
    "source": "Yahoo Finance (GC=F)",
    "time_label": "최근 체결",
-   "time_us": "11/17(화) 02:40",
-   "time_kr": "11/17(화) 16:40"
+   "time_us": "11/17(화) 04:40",
+   "time_kr": "11/17(화) 18:40"
   },
   {
    "id": "gold_krw_est",
@@ -1805,9 +1805,9 @@
    "name": "국제 금 원화 환산 1g",
    "unit": "원/g",
    "decimals": 0,
-   "value": 166693.0,
-   "change": 1535.0,
-   "change_pct": 0.93,
+   "value": 166241.0,
+   "change": 1082.0,
+   "change_pct": 0.66,
    "date": "2026-11-17",
    "history": [
     {
@@ -2044,7 +2044,7 @@
     },
     {
      "d": "2026-11-17",
-     "v": 166693.0
+     "v": 166241.0
     }
    ],
    "source": "국제 금 × 원/달러 ÷ 31.1035 (계산값)"
@@ -2055,9 +2055,9 @@
    "name": "WTI 원유 (뉴욕 선물)",
    "unit": "달러/배럴",
    "decimals": 2,
-   "value": 85.38,
-   "change": -0.34,
-   "change_pct": -0.4,
+   "value": 85.78,
+   "change": 0.06,
+   "change_pct": 0.07,
    "date": "2026-11-17",
    "history": [
     {
@@ -2298,13 +2298,13 @@
     },
     {
      "d": "2026-11-17",
-     "v": 85.38
+     "v": 85.78
     }
    ],
    "source": "Yahoo Finance (CL=F)",
    "time_label": "최근 체결",
-   "time_us": "11/17(화) 02:40",
-   "time_kr": "11/17(화) 16:40"
+   "time_us": "11/17(화) 04:40",
+   "time_kr": "11/17(화) 18:40"
   },
   {
    "id": "brent",
@@ -2312,9 +2312,9 @@
    "name": "브렌트유 (런던 선물)",
    "unit": "달러/배럴",
    "decimals": 2,
-   "value": 92.15,
-   "change": -0.29,
-   "change_pct": -0.31,
+   "value": 92.63,
+   "change": 0.19,
+   "change_pct": 0.21,
    "date": "2026-11-17",
    "history": [
     {
@@ -2555,13 +2555,13 @@
     },
     {
      "d": "2026-11-17",
-     "v": 92.15
+     "v": 92.63
     }
    ],
    "source": "Yahoo Finance (BZ=F)",
    "time_label": "최근 체결",
-   "time_us": "11/17(화) 02:40",
-   "time_kr": "11/17(화) 16:40"
+   "time_us": "11/17(화) 04:40",
+   "time_kr": "11/17(화) 18:40"
   },
   {
    "id": "usdkrw",
@@ -2569,9 +2569,9 @@
    "name": "원/달러",
    "unit": "원",
    "decimals": 2,
-   "value": 1337.48,
-   "change": 4.23,
-   "change_pct": 0.32,
+   "value": 1336.02,
+   "change": 2.77,
+   "change_pct": 0.21,
    "date": "2026-11-17",
    "history": [
     {
@@ -2812,7 +2812,7 @@
     },
     {
      "d": "2026-11-17",
-     "v": 1337.48
+     "v": 1336.02
     }
    ],
    "source": "Yahoo Finance (KRW=X)"
@@ -2823,9 +2823,9 @@
    "name": "원/100엔",
    "unit": "원",
    "decimals": 2,
-   "value": 837.6,
-   "change": 3.17,
-   "change_pct": 0.38,
+   "value": 838.2,
+   "change": 3.77,
+   "change_pct": 0.45,
    "date": "2026-11-17",
    "history": [
     {
@@ -3066,7 +3066,7 @@
     },
     {
      "d": "2026-11-17",
-     "v": 837.6
+     "v": 838.2
     }
    ],
    "source": "Yahoo Finance (JPYKRW=X)"
@@ -3077,9 +3077,9 @@
    "name": "원/유로",
    "unit": "원",
    "decimals": 2,
-   "value": 1470.8,
-   "change": -0.28,
-   "change_pct": -0.02,
+   "value": 1469.4,
+   "change": -1.68,
+   "change_pct": -0.11,
    "date": "2026-11-17",
    "history": [
     {
@@ -3320,7 +3320,7 @@
     },
     {
      "d": "2026-11-17",
-     "v": 1470.8
+     "v": 1469.4
     }
    ],
    "source": "Yahoo Finance (EURKRW=X)"
@@ -3331,9 +3331,9 @@
    "name": "비트코인",
    "unit": "원",
    "decimals": 0,
-   "value": 88057000.0,
-   "change": -472000.0,
-   "change_pct": -0.53,
+   "value": 87727000.0,
+   "change": -802000.0,
+   "change_pct": -0.91,
    "date": "2026-11-17",
    "history": [
     {
@@ -3574,7 +3574,7 @@
     },
     {
      "d": "2026-11-17",
-     "v": 88057000.0
+     "v": 87727000.0
     }
    ],
    "source": "업비트 원화 시세",
@@ -3586,9 +3586,9 @@
    "name": "이더리움",
    "unit": "원",
    "decimals": 0,
-   "value": 2489000.0,
-   "change": 7000.0,
-   "change_pct": 0.28,
+   "value": 2470000.0,
+   "change": -12000.0,
+   "change_pct": -0.48,
    "date": "2026-11-17",
    "history": [
     {
@@ -3829,7 +3829,7 @@
     },
     {
      "d": "2026-11-17",
-     "v": 2489000.0
+     "v": 2470000.0
     }
    ],
    "source": "업비트 원화 시세",
