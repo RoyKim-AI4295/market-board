@@ -1,6 +1,10 @@
 {
- "updated_at": "2026-11-24 14:23",
- "errors": [],
+ "updated_at": "2026-11-24 17:36",
+ "errors": [
+  "연준 · 미국 금리: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%97%B0%EC%A4%80%20%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
+  "트럼프: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%ED%8A%B8%EB%9F%BC%ED%94%84%20%ED%96%89%EC%A0%95%EB%B6%80%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
+  "전쟁 · 국제 분쟁: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%A0%84%EC%9F%81%20%ED%9C%B4%EC%A0%84%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko"
+ ],
  "topics": [
   {
    "id": "sapa",
@@ -13,6 +17,38 @@
    ],
    "items": [
     {
+     "title": "세아베스틸, 前 대표 중대재해법 집행유예에 \"안전관리 책임 통감\"",
+     "source": "더팩트",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zNXJiUTAzenUtaW5JNHpyTmNlNVRLcVktUUEyZ0RVaWJQRnVQbW1BTkV2TWhRZVNtT1NsUHpvVldhd1lMWW11U2xpSUNyT3p3UGJpV0tJelZKUdIBVEFVX3lxTFBRbjJMVUVwZXhwZjdVbUg4eEtFclZuU0d4eE55QW4yeDV0OWhNcWRzLXFOOVh1UVJhRVp5aFdKamh4dEdnTnplaDR3YnR5X0RVVHRFdg?oc=5",
+     "published": "2026-11-24 17:10",
+     "tags": [
+      "판결"
+     ]
+    },
+    {
+     "title": "세방 창원사업장서 하청 노동자 사망…중대재해처벌법 위반 여부 조사",
+     "source": "지이코노미",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3ZW5kMkhkbERSeldRTTFJelM4VjhMSWNVVGg3NjVVZTlIazV0eGd4T3Z1eDRfRTI4ZTQ1T3VtaUZ6Yl9fTFJRSUdvRnlIalJpZG5FR19rMEpaQVhkZjgtRVlYQUo?oc=5",
+     "published": "2026-11-24 16:06",
+     "tags": []
+    },
+    {
+     "title": "세아베스틸 전 대표, 중대재해 1심 집행유예…산업계 \"경영활동 위축·불확실성 우려\"",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94SDlCSzhjSm5LdkN4QVEydWtBVTZ4U2xPV3YxLUpGdlhESGQyblRLTVloTVpZV3lWejh4U0ZhWERacUkzemNMRXFuWFdpZ2k3LW5tMi1TVHM3OHNFRV9FdtIBeEFVX3lxTFBTSGNVdC14Z3c4UWtvOVpfZm9zNFA4TklGdk5fNVpEQ0xzRE9QZ25fYlNId0NuanFfdi1wYmJjMi1DOXZhTERjbTFLU2MzUnNTSXpHVERYakczOURFQzFhSmRuZXdsbm5VQ29aRTEwSDFadDVJS2lDZg?oc=5",
+     "published": "2026-11-24 16:03",
+     "tags": [
+      "판결"
+     ]
+    },
+    {
+     "title": "건협 충남ㆍ세종시회, 불법하도급 및 중대재해처벌법 예방 실무교육",
+     "source": "대한경제",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KdHJKS3dVWUJ0UDFyMWZhbkhFRk50T1lfalhxQm5IbHE5WDU0ZTdkUUtoNGV4TGVTN3BrV0NnN29fMjl5b05lSFRhTUc5ajAxMXo4T2RYU19PdURvakktLTlaNHE2a1hYemNkSHZwSHh5ZjMt?oc=5",
+     "published": "2026-11-24 15:26",
+     "tags": []
+    },
+    {
      "title": "아베스틸 전 대표, 중대재해처벌법 위반 징역 2년·집행유예 3년",
      "source": "안전저널",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SSTJBWTBSTGNlZldFVm5XZFktR1ZweDFzZ0p1SGJQQ3VHeGhnWlRqU1hpQ01tWlVZRTQ3dnJUb1VtM2JSd2JWbHB0d1dHZ0RVWVBoNHk5LW5qejR0R3o1TzRkeEVfdFU?oc=5",
@@ -24,7 +60,7 @@
     {
      "title": "10개월간 노동자 4명 숨진 세아베스틸 전 대표 ‘집유’…중대재해책임처벌 실효성 논란",
      "source": "세계일보",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jNkx6STNqVEFlSnFjSlBQbXRmNzRyUUoteFIxV2w3MFE5Tmg0X3hRRThIZl9FMkJPUk9DdzhvZ0VfNmpGWi1JNHozQlRHeVpyenQtONIBVEFVX3lxTE9jNkx6STNqVEFlSnFjSlBQbXRmNzRyUUoteFIxV2w3MFE5Tmg0X3hRRThIZl9FMkJPUk9DdzhvZ0VfNmpGWi1JNHozQlRHeVpyenQtOA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wSzFpeWp4WVNpMkI2c0RsZ180dmdDY1NnODA0SEpXRzdfTnNwbFFnYXNudE1STGFpYUY1eGd4S2FpV2lvWV80bFBVN2xoc1lkTW1YeEtrbWY?oc=5",
      "published": "2026-11-24 12:30",
      "tags": []
     },
@@ -70,41 +106,9 @@
     {
      "title": "창원 컨테이너 적재장서 트레일러에 깔린 60대 사망…중대재해법 조사",
      "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52S1BQY2VYd0ZZR29vdG5xQjlGaUtFbE41Y1lGd1YwMVVybUp0c0pyTHcyVVFCdE1ZNkh4ZkZuSXYyWUs4VFh5WmJ4T0t1RUZFYWxMczhBODRRazFwS3RPZ2xadnlUM3l4UUxZSlNPQWdwbUJXd1psetIBeEFVX3lxTE52S1BQY2VYd0ZZR29vdG5xQjlGaUtFbE41Y1lGd1YwMVVybUp0c0pyTHcyVVFCdE1ZNkh4ZkZuSXYyWUs4VFh5WmJ4T0t1RUZFYWxMczhBODRRazFwS3RPZ2xadnlUM3l4UUxZSlNPQWdwbUJXd1pseg?oc=5",
-     "published": "2026-11-23 22:02",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oaVFPaGFFMUZpaVc5SHFxRzNlQ1VkYmlLNUhxR2RGNnYtV0RULVh3VTJDTWM4ZHRVUVRTU2RCWFRKR2I1MXIwdHdPYl8zX1NiY2VKNzZrSGRjblBPcVZXbdIBeEFVX3lxTE52S1BQY2VYd0ZZR29vdG5xQjlGaUtFbE41Y1lGd1YwMVVybUp0c0pyTHcyVVFCdE1ZNkh4ZkZuSXYyWUs4VFh5WmJ4T0t1RUZFYWxMczhBODRRazFwS3RPZ2xadnlUM3l4UUxZSlNPQWdwbUJXd1pseg?oc=5",
+     "published": "2026-11-23 22:00",
      "tags": []
-    },
-    {
-     "title": "거제시, 중대재해 예방 위한 역량강화 교육 실시",
-     "source": "웹이코노미",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zTE9TbERfekNacTRWSXJnbkswR3VOQzBwNWhQLTBaNXRBSzJmR2tsb0RGakpDa3lnTExxaFpuR0pmOTBFdHJiSnlUWE9xUUNpOExHa1NKZUlsa0x3TDlnYjFzd0lsUTNlaWFVcGNrbWx0QQ?oc=5",
-     "published": "2026-11-23 21:25",
-     "tags": []
-    },
-    {
-     "title": "세아베스틸 전 대표 중대재해처벌법 1건 추가 '기소'",
-     "source": "세이프타임즈",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByUGNUSkoyZUg3d1dwQkNNa1p3OHZkRTc5Z2F4aWhHNHEwa3JBV2s5TWhMOUZhMVVpZnFlN2pWQUpWS3VpR3JnVGdhYV9ibDc4NFVjYkpnUDFOTjNZbk5OaWkwNzNQdHMzQlQtaUV1dHdJM2vSAXNBVV95cUxQclBjVEpKMmVIN3dXcEJDTWtadzh2ZEU3OWdheGloRzRxMGtyQVdrOU1oTDlGYTFVaWZxZTdqVkFKVkt1aUdyZ1RnYWFfYmw3ODRVY2JKZ1AxTk4zWW5OTmlpMDczUHRzM0JULWlFdXR3STNr?oc=5",
-     "published": "2026-11-23 19:52",
-     "tags": [
-      "판결"
-     ]
-    },
-    {
-     "title": "중대재해 ZERO…의정부도시공사, AI 스마트 안전관리로 지방자치 혁신대상 '최우수'",
-     "source": "경기도정신문",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHOGtrbGY1N1RNWldzQlFOemh3TWtGTDdGRHlMcUZQTVo3ZXpDWEZsQmJhUjRrb2pHNzV3ZVA0Tjg4cHNuQTBySFBISzEtZ1EyMktqaGtiRjhlZVBXUlZHcFMybExMMEc2?oc=5",
-     "published": "2026-11-23 18:17",
-     "tags": []
-    },
-    {
-     "title": "안전공업 화재 책임자 12명·법인 기소…대표는 중대재해법 적용 : 사회",
-     "source": "재경일보",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tTmNZTG9INjZ6SXlYRWliQTltWmFhU0pjZXNLWVJwdFB1R2NtXzg2ZXNGSzJ0U2tCMnhMZmpoZl9fSU9iODhNZ09aQQ?oc=5",
-     "published": "2026-11-23 17:32",
-     "tags": [
-      "판결"
-     ]
     }
    ]
   },
@@ -118,6 +122,20 @@
     "노란봉투법 판결"
    ],
    "items": [
+    {
+     "title": "한화오션 하청노조, 원청교섭 외면에 공동파업 선언",
+     "source": "데일리한국",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zNkF2SVdJNkxxbmRkU1IwMXJmUTlKTXBkZGJDWGJmN2sxLXVUZENmRXIwOUpWd0VrWElMMjZ6dU1idnZ6MTVoN3VGMDdabzhXcGl5bWlTQ3lVa0tta3dWLURrOVlSZkNvcHBNb2xLTdIBc0FVX3lxTE56Q3VMOUZfOXFONHB0ZXRkaVpXX1lCWmFSQ0ktZ0E4SjltZUJjWVAwM001NGtrNnJCODVuOHlZSjE0Zy1nY25hZEgxMkVLYkx0cHR6aXVnaEVRN3R0ZThzSlBoTktpVGFjclJxLUNCV2ZzYm8?oc=5",
+     "published": "2026-11-24 15:22",
+     "tags": []
+    },
+    {
+     "title": "고공농성·단식투쟁 이어 공동파업…한화오션 하청 노사 갈등 점입가경",
+     "source": "부산일보",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01OThWSnRYYngxVEtya2Y0bVNaUWc4OXpadFVxeUFfTTFBaTFYZkFuaG0yTEtWTDJYOW40MEhtZUI2dWRhX0FIT2RrU3hINVlONVktRDRVcWlTc0k4aVhUUWVkR0xmdnppVDFKa2dKSDJqb1c1Y1BR?oc=5",
+     "published": "2026-11-24 15:08",
+     "tags": []
+    },
     {
      "title": "정점식 \"노란봉투법 등 악법 반드시 폐지\"…경제6단체 만나 정년 연장 신중론",
      "source": "프리진뉴스",
@@ -137,6 +155,13 @@
      "source": "이투데이",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSREJXdHNyZTE0YkZXWGZoeWdPRURlRDNVWVJNNDF4VnFhQ1lySjBnSlZOaURaNzhRMGtZdEcxUGxqY0hZWmdRSVUtaTlsdzdValF0YQ?oc=5",
      "published": "2026-11-23 16:26",
+     "tags": []
+    },
+    {
+     "title": "한화오션, 교섭대표 전무→상무 격하...노조 \"교섭 의지 후퇴\"반발",
+     "source": "공정뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JWGNXV19zMmRjY0JSWDN1RDkzV2NSMWdwQVFlMWJYYmlZVHUzSTE4cnJBVkpIZWdOeTlTOW1jRzhVcVZZOGpPZ0k2aEVhUDZuMnFpYWcwZHB4RmpUOTlteW01QWNCb0dZZVE?oc=5",
+     "published": "2026-11-23 13:04",
      "tags": []
     },
     {
@@ -180,30 +205,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USi13OW5MOWRlLVlnQy1iaWVManl2SFVSVFA4SHItOWJyRjlTc09LYlRWS2VHYjFROU9ZZVVKZVF0a3Q5LTlsQ2lPb1VvNHFOTEFZZHNB?oc=5",
      "published": "2026-11-19 17:26",
      "tags": []
-    },
-    {
-     "title": "개정 노조법 시행 7개월…원·하청 교섭 '무엇을 어디까지' 쟁점으로",
-     "source": ":: 위즈경제 ::",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkYXFRaFhxSG9FUWRtcTJaTllsNlRCYmlaVzZUOXk4ak9qc01LQVBuMTlrYmpRX1ZEUWRmMFRkLWJ2QkVObU1mY3g3c1AtSFVCMm43cw?oc=5",
-     "published": "2026-11-19 17:00",
-     "tags": [
-      "법 개정",
-      "확정·통과"
-     ]
-    },
-    {
-     "title": "“원청 안전관리, 노란봉투법 사용자성 판단서 제외해야”",
-     "source": "헤럴드경제",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LYVpreTRHQnMxVWN2bVhhWV9nakQ5cjJPS3Ffd2ZiajRValJSX3EwOVd5ZFlpcHIxQy1LbDNOWkNPQXpOSW1NMHJ0dkwwbTExdmtXZU1R?oc=5",
-     "published": "2026-11-18 11:04",
-     "tags": []
-    },
-    {
-     "title": "노란봉투법 대응 전문가…김상민·이시원·이정우",
-     "source": "미주중앙일보",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tWDZsWTVzdk9Tb3RLZk5pOGU5cDN4N3NJYnl4V1h3T0FxdWFUNEc4QmRURndBbURXU3d2by1GeC1JZG9IXzZWcUUzdkd4ZUxwSFZVR2FabnNsZkxwRnBFLWpB?oc=5",
-     "published": "2026-11-18 05:22",
-     "tags": []
     }
    ]
   },
@@ -220,6 +221,13 @@
     "장기보유특별공제 국회 수정"
    ],
    "items": [
+    {
+     "title": "안덕수 국세청장 후보자 \"장특공제, 불가피한 사유 비거주 예외 필요\"",
+     "source": "뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5YU9CcWpQMENoR0lpSXhPc0d3YS02bU9BM1JQOUhhOTNkTkFhR2g3bldyOV94RE1PLW9KVk1iaEI0SXhFM0UxeEwybUl4WnZXd3lLUF9SbmR5Ui05UHpGetIBeEFVX3lxTE1uVENzVEFtbFE2VmEzTXh6d0xZeG8zend3X2RWTFdPakVkN0t0VGxqVHJjV29aekRoMHEtaUdsQzRxR2pOckFkUURNcVIzTzZsNGhJM2szay1kWk1NeTFKMHdQaDNpUWZKbVlSLXhxRDhTdk1CVDh2aA?oc=5",
+     "published": "2026-11-24 15:39",
+     "tags": []
+    },
     {
      "title": "부동산 세법 개정안 확정 이후 달라지는 세금 체계와 핵심 변화점",
      "source": "블로그차트",
@@ -283,15 +291,6 @@
      "source": "한국일보",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcGJpdnZJcklydWlScWNYVjNDMk96Sl9qdFdMSktGZUludW9UZ2FyOVRVa0dWT0FzeHhTeGdkZHdHX1Y5UkN1d0Rfb0V2NGJZMjAyM3dLWTVSa2N1MnZRcmI5RzBKbnY0TW9NV3lfMkxGcmvSAXNBVV95cUxOVHBiaXZ2SXJJcnVpUnFjWFYzQzJPekpfanRXTEpLRmVJbnVvVGdhcjlUVWtHVk9Bc3h4U3hnZGR3R19WOVJDdXdEX29FdjRiWTIwMjN3S1k1UmtjdTJ2UXJiOUcwSm52NE1vTVd5XzJMRnJr?oc=5",
      "published": "2026-11-23 11:29",
-     "tags": [
-      "법 개정"
-     ]
-    },
-    {
-     "title": "野 종부세 14억 통일·장특공제 유지…세법 8대 수정 요구",
-     "source": "SBS Biz",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PMG1kUjNpa3NIUGpjMXN6YmRuUVJrRWFyc01DMGlpYzVCUnVKclVwUGZmc2dpaWpBWnE0bzVkZ1ZINDhpX0hxUXJDRVV1aUZxUWlR0gFYQVVfeXFMUGpfai1iazJPR0ptLUZaZXppWVNNWW1HMkVSYVpRZmg3YW9sS0RnUXRvR1AxWFVNanJPdUVaRFJ3M2dFZVhVZEI0MjEzMjdiWld0RmJnLV9mQw?oc=5",
-     "published": "2026-11-23 11:04",
      "tags": [
       "법 개정"
      ]
@@ -440,13 +439,6 @@
      "tags": []
     },
     {
-     "title": "주간 전망: 미국 7월 비농업 고용 지표 주목; 팔란티어(PLTR), 샌디스크, AMD(AMD), 스페이스X 실적 발표 예정",
-     "source": "TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPa3NiaVV6UW5MVHFZU0dRN1I0NVEzOW5Oc0Q4M1ozYkNVSFJZYTk4M0hkLUVRRWN3bGl3V1JiUUt4b3J6VjBEQndheUZDQ05tdXN3bXRkczRUWS1iX3lmSnVXem1WNV9NOV8tZVhiaWpFbkplaGlTcUJRdXdjYkVYQTVMTXFFRy1VV19uemNncU5vTWkySGtOVFJzSUIwNkpNREJhZ2pndnFyUjZjaVNKRmota3Z4QThHMEpuaUdlWnhITVRZMUVVUVFkUnJndExHQmx4TU1ZcnhXaVpvRHJtQkhXb29VX2FscGVpci02VHNWSy1PS3QxTGJGb3ljczdRbTA0b2VlTQ?oc=5",
-     "published": "2026-11-23 11:40",
-     "tags": []
-    },
-    {
      "title": "주간 전망: 10월 CPI 및 PPI 발표 속 코어위브, 시스코, 어플라이드 머티어리얼즈 실적 발표",
      "source": "TradingKey",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMHZMZ21KNjhhOFFvWjJIYmFybklJbXRidk5QeXg0ZWh6Z3dkSl9XSU85NlFsUkFEdEdWT2Z5YktLeGtEeUd1V0ZhUHBNWkJTR3hzemtPbE5qdzJZN1BETGRVOTBwdGVXelExSVliNlV3RUxNNTdmaUViR3BVbmFyU1pNU2ZfWERXVkNFb09CbWh4WTVxeU1zd203S2s3ZUZsX0NiRDlZRi1ibnl3TUs5UjF4YUZpZm44UklHMmZ0QllaSl9BYTZnQnZGVDlBQVpJU180?oc=5",
@@ -489,24 +481,24 @@
      "tags": []
     },
     {
-     "title": "[주간증시전망] 반도체 충격에 4900선 무너진 코스피…다음주 美 물가·한은 금통위 '변동성 주의보'",
-     "source": "이투데이",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRUU1kMmIzQ1g0dFQxNDNicm1TRWtMYlJNMWxxWUc5ZjB5bTZzbVpPakRFSmFkQmpVZ0RBbW1kSXFyNE5xV2FyRHF5RUdwaXViMWVMeA?oc=5",
-     "published": "2026-11-21 06:00",
+     "title": "[금리·물가 예측] 유가 하락에 11월 CPI ‘-0.2% 상회’ 80%, 하루 새 5%p↓",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PVklfdlUzU1duU2lNZVoyYU45SzZtendJVEI3VEFCb0FWLWgzbGZkZEYwVVh3U29WdEE5WXhyYnJqWGNyc25WRkFB?oc=5",
+     "published": "2026-11-19 19:05",
      "tags": []
     },
     {
-     "title": "일본 엔화 소폭 상승…CPI 발표로 일본은행 12월 금리 인상 기대 강화",
-     "source": "www.tmgm.com",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNTQyUzZMd1owWF9Lek1hbDY5WGV5NzB5U1RROWJUaDZLX2djODlpN1BFSWZISTdFRlU2MGR3UUxHNXA2MVBVS2VmWnltUTJyLVpueXdGcEN2ZzBSTS1NLXVISXduWF90NEpLajB1MDJtWi1CMk8zLWxtTWd1aFVvNWpoaHIybVdMTFFjcWxHRTZkNlBJNm1keWNvX3BXN3FqQTZraTc3UWJ6UHlGb1NLTWNDLWY2cU5TRWxuSXBPMzRhcFZnX05IU1ZFMWdEbVg3bDdLeHpKVEJENDFlVEMzcjlBSDU?oc=5",
-     "published": "2026-11-20 15:57",
+     "title": "소비자물가지수(CPI)란? 2026년 읽는 법",
+     "source": "Mitrade",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNzlPRl9FS0V6VjBHTEJxVzQ2a284RzQyTklrVmVzeFpOUGxaQ0FnSnVjTFg4NUtjaTZMWEdZN1BQRHB2WUxkREl1QU50UUdjRy1RQzNESWhvbXJQcDZFTUJzVlJLbTdYaFFmYVFuakpaZ1IyU1FQYzUwdUI1VDlRRnJrVTNVaTc1OFZ1OUppOEtuWF9wNi0zcHdpMA?oc=5",
+     "published": "2026-11-19 17:00",
      "tags": []
     },
     {
-     "title": "달러 숨고르기, 엔화 CPI 상승에 강세",
-     "source": "데일리바이트(DAILY BYTE)",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXk1dk16VkNZcEhjZjB2bFVzVEZwck1ZMVhJeXBOQUotczlVWDY4SHJ0WU1sOGVrdndwTlNGbUplTnNXYmE2OUNrZjd3VURqWkNkSEppTUlGZy1RX3dEdkIyallxV1hhaDVtUmdZMUljN2JFZ3JCV09fU2RaRi1FZHVpVlZNV21pQjQ1UzFVUGR1N0prb1NhVw?oc=5",
-     "published": "2026-11-20 14:03",
+     "title": "[속보] 미국 10월 소매판매 전년比 6.8% 상승…CPI·PPI 이어 경제지표 주목",
+     "source": "CBC뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdDUwRzktc3Q3akF4OEkyTUprWnVvOE5JWm9GUFdjS3JTUzN4dHZWRnZZT1JVaTlfUGRNYWFJeEtsUUJZbVZ6M1MzSXdDYmxmMlByUWVZZUpQbWZRUEhLUG4zWlQwNXNL?oc=5",
+     "published": "2026-11-17 22:31",
      "tags": []
     }
    ]
@@ -522,6 +514,76 @@
    ],
    "items": [
     {
+     "title": "[데일리픽] 엔비디아로 돌아온 젠슨 황…리플 CEO가 말하는 XRP 수요처",
+     "source": "디지털투데이",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlSXRuQ0s5NXdPZVlaLXluYzh3TGRsQXVLOEtSNVpianlfdTdFQ3NBa2lPaUtsR09wbWVSeDdvcWlqbGdzUE0yZDVoX1l6SE1vY2tsYzBHX0QxU0VlellpcVc2ZUxSclB2NE1sWTlINTJNanM?oc=5",
+     "published": "2026-11-24 17:05",
+     "tags": []
+    },
+    {
+     "title": "암호화폐 업계 관계자 \"리플(XRP), 피해야 할 알트코인 1위\"",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rTlIwMTNKLXpmY3Y3X2E2bUE1VnVGbEQ2WXdqNDhrTWVqRnZWSk1oQ2ZpVkhQeEtrSGJ1azlYb0kyUmdJQWVaTWhn?oc=5",
+     "published": "2026-11-24 17:00",
+     "tags": []
+    },
+    {
+     "title": "\"달러도 10년간 가치 반토막\"...리플 CEO, XRP·비트코인(BTC) 장기 수요 자신",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wN21nWHJZWHlSTDZjZlZLZEhwLWpKOEVFaVdUdGl0d1dkUkxKb2hhTjRkdmpmZU5ZR2Y4TElWYWJzYUZiNXNhUE1n?oc=5",
+     "published": "2026-11-24 16:10",
+     "tags": []
+    },
+    {
+     "title": "[저녁 시세브리핑] 암호화폐 시장 하락세… 비트코인 60,388달러, 이더리움 1,698달러",
+     "source": "토큰포스트",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45NXNBV05sVFI5SHc4aEpiMUtRR3ZRYWRxbk9VRXZ2TFhYU3htdHhnOE5DWWQ5QzJxeUJ0TEE1WUYwM0lJZGRCa1hyUWZMdHB5OVFOaHJITWrSAV5BVV95cUxObVBnTFlvUl94WjZNemVQNlBRZV92ZktidXR5ZjhGdk9sYUFyUnBUbkNzU24wWm9MOU9oeDlINVViUXZQcVZSRFVUQ1NfOHBDT2hyeXIybjcwN1ZYdURR?oc=5",
+     "published": "2026-11-24 16:01",
+     "tags": []
+    },
+    {
+     "title": "이더리움재단 AI 중시…보유자 포기점은",
+     "source": "BeInCrypto",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1VHNYRXcyZk8zdEItWEZ4UDNHenR1M2xZS3FZYXVjTnRreHZwMmRYXy1KRnZDMVlHYkFOczQtNl9ZZjlicUZzMlNadll4dDdNUHZray1LVkVxRmRSVU5sS2lCcUZOX0k4NVRURjRsejdBN3J0R1hhd3pscDFoUQ?oc=5",
+     "published": "2026-11-24 15:25",
+     "tags": []
+    },
+    {
+     "title": "[시세] 이더리움(ETH) ETF 돈 빠졌다…1,682달러 지킬까",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zMUtONnJ1d3hnaW13Y3JmRGFvalp0QkdoTTJHa1hmRF9aUVNvNEdBc1RXbTRRUDJ0VkE4SlFMTjdDTTRuTXRiLW9B?oc=5",
+     "published": "2026-11-24 15:08",
+     "tags": []
+    },
+    {
+     "title": "[시세] 비트코인(BTC) ETF 유출…6만 1,996달러 넘을까",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84VXhzZGszd1ZZcW9Jcl96aHFRb2FlQzBndUszMEVoaF9tOEQ4VWtPNmRVQnlhNUFrV1VtLTQxdmRCMF9IdFA4SXZn?oc=5",
+     "published": "2026-11-24 15:07",
+     "tags": []
+    },
+    {
+     "title": "[시세] 리플(XRP) 거래량 155% 급증…1.00달러 넘을까",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11RjRoNk5YQVFHNElYWTNXT1d4WEZqV21pU0oyRlhlYXFGa2tGcGRzNmZvb2F1Rzh0b2tacFV6aGR3WFVQYkJRaG93?oc=5",
+     "published": "2026-11-24 15:04",
+     "tags": []
+    },
+    {
+     "title": "[시세] 도지코인(DOGE) 홀로 반등…0.0544달러 지킬까",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCWDZvMlNhM3NpYXlUay1meU4zYi14OGJtY2V2bU85dFhobGRuUEF3LXh0RXhvTUVRNXg5Z0pVMFI2ZkE5VzRKRi1n?oc=5",
+     "published": "2026-11-24 15:02",
+     "tags": []
+    },
+    {
+     "title": "리플·스텔라루멘 반등 벌써 끝났나?…고래 매도세에 연중 저점 재시험 우려",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wa2t0TUpfS2RLN3lXNVdXZkUtMFVBX0Q2UEI0UjdBUFU0Y1hTWEJyM01Tc3Z0N0NmT1hKUWNnd3dXZVlTLXlaT0pR?oc=5",
+     "published": "2026-11-24 14:56",
+     "tags": []
+    },
+    {
      "title": "미국 이더리움 현물 ETF, 하루새 8490만달러 순유출",
      "source": "디지털애셋",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zc0RWcE9LbGI0T2xNRE1UejF4N2YtTTc1V2syS2tJVW1WNE5hVC1vdFVFLWgzS040OGRjSWVma3FMenllaXBySm0xWmp2N3FTRDNfaDZXQnFFekFLdkxVYlpXQlZOWjhyb0xVYVpUUm5fdw?oc=5",
@@ -533,76 +595,6 @@
      "source": "한겨레",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HTXB0VFJoV3JWcW9iY3ZPc3JzaS1nR1d4WEkzbFB0OXk3VDJrZG1aQlNFMlJ3UjJKMVU3MlM2UzZZQnFLNWllNjFDRjloRUU2cFJyU2lma1FFUmQ4Qmg2UDdjWXZlR2xUWWdWLW94RHhEdw?oc=5",
      "published": "2026-11-24 13:54",
-     "tags": []
-    },
-    {
-     "title": "\"제로 아니면 100만 달러\"...세일러, 비트코인(BTC) 변동성은 '선물' 주장",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RN2VzazVzM3hGNmhrWUVmdWE0Nk5KSmNjZ3RjcEVFbUgzeEJOY0VnejVHd2NCc1N0WHpmNHJ0YVN0d0lqLXdQRDVn?oc=5",
-     "published": "2026-11-24 13:50",
-     "tags": []
-    },
-    {
-     "title": "이더리움 DEX 거래 94% 폭증…솔라나는 12% 뒷걸음",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UODVBZ2xqVGJyaHlNRGRWSU9iU1VUVkVNM3N0WTE0Y3QwQkRjc3hJaUMtN084cjVBdE1jU2ZFMVh3djhKTEdkanVn?oc=5",
-     "published": "2026-11-24 13:47",
-     "tags": []
-    },
-    {
-     "title": "빗썸, 장기 미거래 고객 잡는다…최대 1이더리움 지급",
-     "source": "데이터뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2aDIzdXdReFhjQVJ0Q3JXd3ZRVU9kOGZRSEFKMU5HelVTZ1JFaXdEVDl5cXdmUVE5SzRYM1RldnQ5amxza1dXWUFyaEIzYk93elNMZTY3NDMyak5uTDNV?oc=5",
-     "published": "2026-11-24 13:40",
-     "tags": []
-    },
-    {
-     "title": "美 CFTC, 비트코인·이더리움·스테이블코인 운영 준비금 인정",
-     "source": "디지털투데이",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43XzJfckptSmZZZllUUFFuT0ZEcVo4QTQ1d3M4bUlmUUoybkVGWnpTRk1VaUJFSU1ZMHh4Mk5CTWhKV2R6MjdBOXhoWm9UYVhQY3A3S3ZUajByY3doajY0NmZERDZaRU5uaXFfZnBVUmFheVU?oc=5",
-     "published": "2026-11-24 13:38",
-     "tags": []
-    },
-    {
-     "title": "이더리움 재단, 보안팀 두 배로 늘렸다…양자컴퓨터보다 AI 위협 대응 시급",
-     "source": "디지털투데이",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ud1ZmRzlnSVJzYlIwQ28xLXJPMHZSeWVybVRnQ0FwTzd3ZG5Rd3dua1VBYS1IT3hNLWZKODBqUnE4Nk1QMzNXVFdKbDYwY1dhcDZvQ2ltNFg2aVVfaGIyVDhMSHU0R0RoZzJDUFotTFRQVDg?oc=5",
-     "published": "2026-11-24 13:35",
-     "tags": []
-    },
-    {
-     "title": "리플 RLUSD 유통량 29억달러 눈앞…XRPL, 이더리움 바짝 추격",
-     "source": "디지털투데이",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nc2RTckVvYllPejNDUnZ2VzlGQUE3enBhM2dDYlQxUUJYeEdJeVVfWGlDcHRHZHdWb2VKSUZIdzBoUEpLU1VoSFBMZnBHT28yWmtHWExwZW9oY0xyZlpvSTBPX0FTcWIxVjNuRkJad3FTV0k?oc=5",
-     "published": "2026-11-24 13:29",
-     "tags": []
-    },
-    {
-     "title": "엔비디아 주가 급등에도 비트코인 뒷걸음",
-     "source": "뉴스클레임",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sdVNlLWtjOXh1c0lPd3ZwYTVXNlVCajU5NXpyQzkyZEdkLVFkWU40TUdjMlJvN0lSVGhPdnlqbU1mellGQmJfN0tOb1ZHcGlyS3Yyckc2MHJnOHhMNEt4bnl6TklNeGVGdS11QkFOONIBdEFVX3lxTE5jdWpLNkFqZjJlcEQ2ejlPR1dYVlZyLVI4amxqZzFiRGNGSmlWR0RmR2xvSWF4ZVhXdFdUdThMeHJwc2FGRDFzbkRMTWxoeG9wYzEzVkR4aHNGMjRYUE5xV1R1Q1JoSlMyMHZUdmhzbjRldVBH?oc=5",
-     "published": "2026-11-24 13:27",
-     "tags": []
-    },
-    {
-     "title": "이더리움 231만원선 조정…메인넷 거래 증가세 이어질까",
-     "source": "잡포스트",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNWnVYcy1sa1YwSEZNaWZNQ1BiZ3ZUUXQ0TUVlTnVjMl9lMHhBd0MyRGthYTJmQ21EMG9rOWI4Z2FGbmNYWWZNTFJxcm9Mejk1UkhDNWptV2Z2Y1llWXRBQ29sQmhVT2ZUbnJXb05R0gFyQVVfeXFMTi1zTnZIOThKMkZaTzh5U1hFUS0zYVZBNXJQTG5CbFUwVjdyb1JYNUdBc1BaZ1dOU3RDMzVKQTBiNUhIZUdsU2dmazZzUFZ6VS10OUxyWktCTkpBT1R5cVkyNGZnOF8zY1Nhd0NBWUlQOE5n?oc=5",
-     "published": "2026-11-24 13:12",
-     "tags": []
-    },
-    {
-     "title": "기요사키, 금·은·비트코인(BTC)·이더리움(ETH) 실물 매집 강조...예측 적중은 글쎄?",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pa1NZWFpUa3U1V0Y4U2NST1NNNTh6aUtSNDNYQ2E5OU1KU0xaLXAyYm9QZWxNOTBtZlphdzgwVUt3YmsyM0IzbFJn?oc=5",
-     "published": "2026-11-24 13:10",
-     "tags": []
-    },
-    {
-     "title": "[청산 리포트] 비트코인(BTC) 숏 64.97% 청산…세 코인 하루 5억6,904만달러",
-     "source": "코인리더스",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yN0J1ekk1eEZhSFMtU2pxTHh1Z1V5WEJSZ3RuYndGN1dPVXJOb3hKQlV1NXN3akhubDhTbnhxTEtEOU5uNWQ5X05n?oc=5",
-     "published": "2026-11-24 13:01",
      "tags": []
     }
    ]
@@ -713,6 +705,48 @@
    ],
    "items": [
     {
+     "title": "국제 유가, 80弗대까지 하락…내년 상반기 70弗대 전망도",
+     "source": "한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjQ1NqaFpWcVhTZkZKYkRNVXF3VzZSVHFHUFpUd3lidHpqd0dSRDNyTEJac3J6REZHb0JsZXpCMks3anhXdEV4UHJka2FzVFlnX2x4UHBYSTR6Zw?oc=5",
+     "published": "2026-11-24 17:30",
+     "tags": []
+    },
+    {
+     "title": "리비아 샤라라 유전 재가동 등에 11월23일 국제유가 하락",
+     "source": "에너지신문",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MMm8ySlZib2lkUzJnekRUOWV4V1VjR25GaklBcWk1VUxmOGl6VlRNeHFMcnBzMFBPMFBFT3duUWFQaFZGemxXUmRBTGRzOUtCcllwNllCR19MMTUxZmlPZDFGNjU1YVRFckY1a1NZdlYwdw?oc=5",
+     "published": "2026-11-24 16:53",
+     "tags": []
+    },
+    {
+     "title": "유가, 호르무즈 기뢰에도 '뚝'…브렌트 석달 만에 최저권",
+     "source": "마켓인",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OVTlCeU1RYnVGWWtLZmdONV83V2NtMG14YWNDOC1Ga1MwUUVNTVFPRXRrR09FWnNmSWpKZFhNS2x0Mmc4WXRkWUFFTS1QRTdBZzA5RVM3RnV4OG9QVW9UYnU5QU9qajNZcHNNblZMdTNkQlE?oc=5",
+     "published": "2026-11-24 15:50",
+     "tags": []
+    },
+    {
+     "title": "원-엔화 환율, 1원 이상 상승하면서 845원 중반대 기록…달러-엔화 환율은 국제 유가 하락에 158엔 후반대로 올라서",
+     "source": "산업일보",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9BNERjUXBwMjdCMi1wSmJQNldPeFRIYUxnYmZabmlZVGVRaW1KVGlCWTdfLUpKWHlqNjJLWGdFNm5tZWFj?oc=5",
+     "published": "2026-11-24 13:55",
+     "tags": []
+    },
+    {
+     "title": "정부, 내년 1월 원유 도입 물량 75% 이상 확보-국제유가 80달러대로 하락",
+     "source": "미디어파인",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wNmtEUlhHQkdwZmF5NTVDSW9SckVWc0hvd2ZuQzd4UGpxNkVrejZxbGFMOHVMY1dHakx5U19KRmdId1d1ano2Wm9qaFBldHA3VHJudTliYU5KeTV1bWZIdEEwZmN4RDlSMkxwd0dn?oc=5",
+     "published": "2026-11-24 13:17",
+     "tags": []
+    },
+    {
+     "title": "로빈 브룩스 \"엔비디아 반등에도 달러 강세·유가 하락은 위험 신호\"",
+     "source": "데이터투자",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tUjJaSEc0dUxHN1gwNEk3MXU2eEFWSWxiS0tCZ2VXU2paWWtFNmJsRkM3T0ZwWWVrVjNZR2ZSNHZEM0FlcnRxdzk1T2t4azUxdzIxSHNHUjQ2Vzc3TU9nUWFzX3BJX1lpVHVTcURYOEJNWFU?oc=5",
+     "published": "2026-11-24 13:01",
+     "tags": []
+    },
+    {
      "title": "브렌트유 89달러·WTI 80달러…공급 과잉 전망에 3%대 하락",
      "source": "파이낸셜포스트",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52cllEN3YzTVVub1c3cndtcjFkQVJrcTRUREJUck5jMzM2LUlkbHhtQUhZREtQQ1h4NThVclFOclgxTmQyZVFVV3ZWUmVEdG51MU5mRG04c21SbGJtaC1jMlZwcElGalRjR1RDRTlGUUlJRXdt?oc=5",
@@ -734,16 +768,16 @@
      "tags": []
     },
     {
-     "title": "원달러 환율 1345.9원 마감…국제유가 3%대 ↓",
-     "source": "중기이코노미",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZzRwR3VmRTNvTXNkS3NlajN5UjhfV2diOGtDQl9qZjlkb2xrdmRPcnA2ODZ4d2VkMFp3eHRHTGk0R3ZDYnJFMDBoNnRndXg4NDhJWklnR2Fkd2FKRXBHcFU5THAyYVJ2d2c?oc=5",
-     "published": "2026-11-24 10:05",
+     "title": "[국제유가] 공급 과잉 우려에 WTI 3.88% 급락…3개월 만에 최저",
+     "source": "굿모닝경제",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZUdOMC1WeG00UDFXeVZUOEpFVkVFaHlFY2t0Q0wwZU5GcGNDMzlWRnV0bU1ZRjZSaXRGZkNTYW5pblZ5ZXNLYzVGX01mRjB4SUE4SGpveURzQ3htSDByNjFNSW9Va21SZjR5aA?oc=5",
+     "published": "2026-11-24 11:15",
      "tags": []
     },
     {
      "title": "국제유가 3%대 급락…최고가격 기준선까진 17달러",
      "source": "중소기업신문",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84QXpQTl9HXzZvQ2FSNlJEY2ExM1BXQmFCLUpwTnNReGpkeDhZblV0c0EtdmZMY0NqRi1uNFJPaGRheXpET3ItRXFEMGk0ZlpRUHBqUHBRMnltUDdYSjBZeVBJeDNUNjdiWUpHYzlR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fZTkyQ2doZzRBWl9CRlllMnN3UXNZMUFnT0haQW9Valg1S1l5NVo5UjFEcHQ5MmJHTkRyeHpIRFl3SDVMbHhaR2R1SmV6d2llbTNuREtIQ2JZQVVfQU9rdVBVLUhXWloteVNDRA?oc=5",
      "published": "2026-11-24 10:02",
      "tags": []
     },
@@ -752,48 +786,6 @@
      "source": "뉴시스",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFUWdzak0zZWZJTlhsbnU1cDdhZHBYYXZMSzNsQ1pDZmFJaWl6T01XM3FueHR0dDhwb3NOVTlrQ1M5U2FoRlhzUEM0elJMZmU5ckU1ZUREal9XX3dpbnhLZdIBeEFVX3lxTE14bUJGWTJrcjRwUjBjTEZXUE5BY2RCekJubzZ1SW1CcTU1UGxpczd2a2E0ZmRWc0NOMWZMekE2R2V2ajN0VURwUE1xZldaSWpmS09zTDVhR3JSc3EteXAybUI1NEVUTzROdnNJMnNuYXpCYkhweWRZVw?oc=5",
      "published": "2026-11-24 09:59",
-     "tags": []
-    },
-    {
-     "title": "오늘의 미국 원유 가격 | USOIL 가격 차트",
-     "source": "Mitrade",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mZEJGSXRteHpwSzE4NlRMYnV0aG5oUlBJV1JEeEUydkVualBhNGdBMTltcS05SHI1RENXa0dDQmtsaWhnY3k2QkxFeFUyR2JEUEJFWk9mYU1UMmM5bER0TEowbExuZ3VwWE0wdzhB?oc=5",
-     "published": "2026-11-24 09:47",
-     "tags": []
-    },
-    {
-     "title": "국제유가 3%대 급락, 3개월 만에 최저… 브렌트유 89.37달러·WTI 80.17달러 마감",
-     "source": "파이낸스투데이",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IU2xpMlVLX05xSUxrY3NxSWJXeWM5NEdTWi0wZW5mNHR0MFI5bUVtQmR4ejhITFJMc1ZBeDUyS196dURLNEpXWE53R0c1eUlLdjQwZ2w1ak5QUHNjUEpnSDFtYWNuWlJJT0syNQ?oc=5",
-     "published": "2026-11-24 09:23",
-     "tags": []
-    },
-    {
-     "title": "국제유가 하락세에도 국채금리는 높은 수준… 물가상승 압력 장기화 가능성",
-     "source": "문화일보",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VRk5SWHBwTVREVC1JdzB0R0J0QTlJb3JQTzF5QXVjZWp5a3VXRkRRbGN2WTZkejJYdm1iekhIUVU0a05sR0NEN1VwMU45Q0x0?oc=5",
-     "published": "2026-11-24 09:16",
-     "tags": []
-    },
-    {
-     "title": "국제유가, 미·이란 종전 협상 기대에 하락세 진정…WTI 80달러선",
-     "source": "블루밍비트",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmWlN1VXVMdXR6TzRVa1J3LXFaS3hWMWZvYzRZWWlpQ1hUM29LTkxqMGZ5MzZZNl9uMXNna1RqUkp0Uk5qcW03ZEZNRXQzNktW?oc=5",
-     "published": "2026-11-24 09:15",
-     "tags": []
-    },
-    {
-     "title": "국제유가, 중동 긴장 고조에도 원유 수출 회복세에 하락 흐름",
-     "source": "서울경제TV",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Qcng4SEJTMVQ1X1NRNFk3NTk2enN6c2wtWTlnYi1zMm9vNGRZbnItTUloSWNkYmR1alcxWERZY3RLTzVUdzVCeVJwOUVMVUhyQnAzMW04UmlrZ2swUGZybUFDb2Q?oc=5",
-     "published": "2026-11-24 08:48",
-     "tags": []
-    },
-    {
-     "title": "유진증권 \"내년 유가 상승에도 정유사 수익성 악화 우려\"",
-     "source": "연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oSFRoS0RGa18tN09nczdtbGtoYnVmbE90Z1pyQlQzWmlEdDhfUHoxaFRUaEdNNFA5dDR3S0Vqa2Q0NVVWRTdwZE45TnZSOGNQYVdUbGpzYlo3ZDg?oc=5",
-     "published": "2026-11-24 08:39",
      "tags": []
     }
    ]
