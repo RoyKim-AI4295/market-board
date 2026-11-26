@@ -1,6 +1,10 @@
 {
- "updated_at": "2026-11-26 15:59",
- "errors": [],
+ "updated_at": "2026-11-27 02:16",
+ "errors": [
+  "가상자산: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
+  "국제유가: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EA%B5%AD%EC%A0%9C%EC%9C%A0%EA%B0%80%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
+  "전쟁 · 국제 분쟁: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%A4%91%EB%8F%99%20%EC%A0%84%EC%9F%81%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko"
+ ],
  "topics": [
   {
    "id": "sapa",
@@ -13,10 +17,31 @@
    ],
    "items": [
     {
+     "title": "오도창 영양군수 '관리감독자 철저한 안전 관리가 중대재해 예방 핵심'",
+     "source": "국제뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oVTdzV1NMTVdxRGk3VUtON3RNaXlnWVR4NEpGZFU5eE1Ja0hZQVR0REhiRWUxY2FYMktkdmV4SnpGWUdVNW51T2puYnV2WFU4U0xsdDJ6N1ozYThUa3RkX19yRlFOZnhCaTAxQ3lR?oc=5",
+     "published": "2026-11-26 19:12",
+     "tags": []
+    },
+    {
+     "title": "충남교육청, 재난·중대재해 담당자 역량 강화 연수",
+     "source": "놀뫼신문",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RZktRZEJHVC1mMWRnWFpkcWRBQjVkVHlscmRtRDRSS3hoNnVOdW10eGg4Q19FNXhiTU9hdUZsY29ibVNkZEVQWENuQTdEcnZsbDhlbnBnZV9DV0o2T1E?oc=5",
+     "published": "2026-11-26 16:15",
+     "tags": []
+    },
+    {
      "title": "영양군, 중대재해 예방 위한 안전보건교육 강화",
      "source": "환경일보",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Qa2V1a1VCZEl6M2xIUWpTeHd2NzJzWWpnbFZqZTY0eUk4d0x4RlZoZkp2bk5VVDRpdzZ5R3NXc0NLS2dxQURWN1g5eG5IT2VUdll0SUhmVE1qYVRnOHZVMVJfWDg4emJR?oc=5",
      "published": "2026-11-26 14:57",
+     "tags": []
+    },
+    {
+     "title": "KTX 임성리역 공사현장서 60대 근로자 추락사…중대재해법 조사 착수",
+     "source": "무안신안뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcUNuS0lCSTBkUkE0SEg4Wjl0RG5VenBTN2pUTHdpZS1sbDFoM3NRTGxIQ1ZoMUVuRUlsRC03Y3NZaW8yak1tQlBGSjRqRUZwSS1COTE4S0k3MVR2TkJHRVVMcXpSSVlFcEE?oc=5",
+     "published": "2026-11-26 10:28",
      "tags": []
     },
     {
@@ -29,7 +54,7 @@
     {
      "title": "김철희 세아베스틸 전 대표, 중대재해법 1심 징역 2년·집행유예 3년",
      "source": "CEO저널",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92R0MwR1JsN0VTbmMtOGRCaVFUTmRHdzQyTTg1Y1U3X1NLTGlXT0wwN0MxQlh1ZTFxT2Z2c3FhaF9rZ3ZFWnZWY0poRzkxS1V0VHR5TXJWRWcxN3NPYng0al9CcWJnZ9IBa0FVX3lxTFBjeGdLN25FTGZKNjRXMDBobXB1TnlwMzNNaTR1WXcxTkJPaEs5S2tQZGh5TTlWNktna1F4eWN1eEZGc3JuTHFNcVRYUTQ2TEpWd0dJamJJTlZPT1EtNXBUdTlyWEFubUpmbmxj?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XLWlycVdrNkVURUJxY1ZINkNNT0EwbklHNERWaVloYVVXWHJVV2xOblZIdzQxUWRFdmZMeWRoYXV1eGhYWVdBck9waWRkRWtFNWZWTGdKdjdMWjgyVFlCQ3dBWEZ1LTTSAWtBVV95cUxQY3hnSzduRUxmSjY0VzAwaG1wdU55cDMzTWk0dVl3MU5CT2hLOUtrUGRoeU05VjZLZ2tReHljdXhGRnNybkxxTXFUWFE0NkxKVndHSWpiSU5WT09RLTVwVHU5clhBbm1KZm5sYw?oc=5",
      "published": "2026-11-26 09:54",
      "tags": [
       "판결"
@@ -52,19 +77,10 @@
      ]
     },
     {
-     "title": "세아베스틸 자회사 중대재해 1심서 벌금 2억5000만원",
-     "source": "비건뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rMENKNFBadFJhZHd0VmJhT2Z0S1JrNnhZaE5lVk9iWXR0SWdxcWFvRmNHeWlBZXh3TEY1NmwxQl9HZFRNUHYzbl9zbDluWG9jSHFCY2pvWXJnUkdQaEdIeU1NVE9RQQ?oc=5",
-     "published": "2026-11-26 02:35",
-     "tags": [
-      "판결"
-     ]
-    },
-    {
      "title": "충남교육청, 재난·중대재해 업무 담당자 역량 강화 연수 실시",
-     "source": "굿뉴스365",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42Rjltd1ROLXZaa1VlQU9PaVNidVpoY3FnQS1WbXF3WXNTN0dsLTRnQ0RaV3RiMW82V1JlOUlaemkzMkhVRzBfWVlkbmFBcDl2Tmp4d3N5QXljQXVHMEZobjdiQTZXMFMzZDcwbmxpTVotbWJPWXc?oc=5",
-     "published": "2026-11-25 23:30",
+     "source": "도민연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JZkVsVXdqdGpKNUxxZ3oxLTNsU1VKN3VCX3JLdnZTYVJuTTJXblhmelFmbmV2dHhGaVdlRjVFTW16ZmJ2VG9rQ1R0bkxIT09IblhEdE00dDZfN0ZZbkh4dXczTDBhbWdqZXc?oc=5",
+     "published": "2026-11-26 00:00",
      "tags": []
     },
     {
@@ -75,33 +91,19 @@
      "tags": []
     },
     {
-     "title": "이천시, 중대재해 예방 위한 하반기 안전보건 교육 실시",
-     "source": "경기1뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzOEtGSm1ZTXExUUxHVVVjYVFaNWg3QnBsU0hlU2xSbFc5TzUyVUZwTllLdGJWNEJ1dGp2YlhoMDJfUWkzSmRNMGQxOWpfYUZDRjFMdVhBalVtZjRkREs2dA?oc=5",
-     "published": "2026-11-25 18:36",
-     "tags": []
-    },
-    {
-     "title": "세아베스틸, 중대재해 1심서 벌금 2억5000만 원…전 대표 2명 집행유예",
-     "source": "페로타임즈",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZEpHU0t2ZDlvblowa0pvZ3hQZ0FQc1JMdGJ6ZTROUmpsaEVOOWJRZ3N1NV9UbTlFZWRyTE5PZ2VCNC12R2J0MmRaaEN5NkRDeUNYZ1V6TGpLVmtzdU1OWTNlbExjbDVEM3VtbA?oc=5",
-     "published": "2026-11-25 17:45",
+     "title": "세아베스틸, 중대재해 관련 1심 판결",
+     "source": "스틸데일리",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nb1Q4MzFGSS1FRHItUlZDbnp2V3lBQnZMOVNkYlg2b3RkMENYMjBhVUVNaVpicnp5Ny1oTEZYSDFEZThXTUhVODdjdFpmVU16TU1rMnNJa2VjYWJuX3F3ZGVnSWxWYzQwNmR4dm1sM2HSAXRBVV95cUxOdHJJOTVVa0lRcWwxN2xNblZvRlFkMU1DZUdrNERSVDctUWlEc1Vfal9FOUlPSmNEM05vYlJQbXdTeWdud19YWTBfNmV3Rnlib2V6U0N3RTRDaTNMcTQ0TlNvRGZ5QnZtUDV0Rmc0eHltX0poMw?oc=5",
+     "published": "2026-11-25 19:20",
      "tags": [
       "판결"
      ]
     },
     {
-     "title": "서울시회, 중대재해처벌법 강습회·회원사 법률·세무상담 실시",
-     "source": "대한전문건설신문",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0TEZsX042Y0xHd3JRUEpjY0V1c1piTF9FLTZqOTBPQUZYU21BNDIzcWtDdGxTMmk0RU13SzQ5LVBsemF0aVZkUzNzZDJhUk8wbElfQlEtanVMZmtqWXdkeWFmREFNYmEw0gFsQVVfeXFMTVZoVVAzSmpJcHlNdkZ5NWExTlRBTE1wV011LVZrc0ZDVDhlYVR1eGtYWGRuaTZjS3B1Rmo0bms2V1J5dC1aM2NJSkZOR3JMcnR4YWZNY2hmbm54MXEtVE1ZUml1UUMzemFGTzdn?oc=5",
-     "published": "2026-11-25 16:43",
-     "tags": []
-    },
-    {
-     "title": "다스코, 아산 태양광발전소 공사 현장서 중대재해…1명 사망",
-     "source": "페로타임즈",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TbDUxTzJiVElrbHQ0YzlydlZSODVDWmFDcUd5NXhtTjRfdXMybkZTREh1T3FQYnVFdzl5MUV3bnVzejFja2ZXbXFGbzFPZjl2eW9tZms0Wk54QXlUeFdBekp3TTdWdkRvSGJWZQ?oc=5",
-     "published": "2026-11-25 16:35",
+     "title": "이천시, 중대재해 예방 위한 하반기 안전보건 교육 실시",
+     "source": "경기1뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzOEtGSm1ZTXExUUxHVVVjYVFaNWg3QnBsU0hlU2xSbFc5TzUyVUZwTllLdGJWNEJ1dGp2YlhoMDJfUWkzSmRNMGQxOWpfYUZDRjFMdVhBalVtZjRkREs2dA?oc=5",
+     "published": "2026-11-25 18:36",
      "tags": []
     }
    ]
@@ -117,10 +119,45 @@
    ],
    "items": [
     {
+     "title": "세코 원청 사용자 판정 불복 행정소송",
+     "source": "경남매일",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GUlBJNjVwNXQ4UkVySWYtX1JIQmJFYVA5ZnB4SHdfTkFUN29HaE1EaGYzVTZBYjN3LXVpX1lVaGhYMGVzeDIyMkNwOU9hTlhBREhOUVg1d2xEemNOQzR6U1lWZW12VTdu?oc=5",
+     "published": "2026-11-26 21:08",
+     "tags": []
+    },
+    {
+     "title": "민주노총 “원청 25곳, 노란봉투법 사용자성 인정 불복 소송”",
+     "source": "이투데이",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3LXN1cVpUbEc0MzVQU3Rrc0ZWaTVNdy0wa01hOE9lMEFTQmJfY2NZX3d3Wktnem9BVUJhSUlwZFlFMXg1b3FMMlQ5azk2WGpiaFMzTA?oc=5",
+     "published": "2026-11-26 16:25",
+     "tags": []
+    },
+    {
+     "title": "[통상전쟁 2라운드] 산재부터 이중구조·노란봉투법까지…노동시장도 통상 압박 사정권",
+     "source": "아주경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04aFF5OWFqZVZmWkdFelB5RmN2NXVKMmRXdm9pbmZhVkM4N2ItaU1sS0x1dFBJTkRWV3N2RldOcl81Q3ZSUHhRTU9VajdjRzViTTJaSG44M2pKUdIBWEFVX3lxTE5sdk9sTFRCOEJ0dVlvSU1ncUF4MkR3VkpmY2M3NWRmcjhMOTNuUWFsMWtJUU1EbzdRdUVhS0RuYW1CcW9QT0V5YmwxWEoxYWVtQkd5blBjLWs?oc=5",
+     "published": "2026-11-26 16:22",
+     "tags": []
+    },
+    {
+     "title": "[美 과잉생산 관세]파업 처벌·하청 저임금도 원인 지목…노동정책 '통상 리스크'로",
+     "source": "전자신문",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtZ3ptQjlsVHdiT1pTOWFZQXVyNTVxcWhISHVzb181eUlremk2Njd0U0YyXzEtR2VFNDdCS0FOTHNGYTVhZXdETk5XZmFSUQ?oc=5",
+     "published": "2026-11-26 16:10",
+     "tags": []
+    },
+    {
      "title": "한화오션·현대차 등 원청 25곳 줄소송…민주노총 “노란봉투법 무력화”",
      "source": "아시아투데이",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQmNxTlR1dVhVWmVtOXpuTmoxXzNhY2d0TkJPYXphVkkwdC14SmYxMHV3QWpSV2c2Ql9rdFpJaXJxOU1xZDIyWGMyVGppQS1SRGUwWXBNMmRNQ1FuRFUxT3huazlEOThvNXJjYQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiSjlnMUtsdk10TFVyUmREOTl2amhXbU1JanBoaUlBX3dLcGVZUkZGUzc0VmNVR1EyZ2dBY2dmbFZQdkpBU1ZqOVk4cFlKN0VuNHRPLWw5Q3Z6QklQNlFPM3poTENGbnpxc2ZJNE9B?oc=5",
      "published": "2026-11-26 15:34",
+     "tags": []
+    },
+    {
+     "title": "노란봉투법 시험대…경남도·창원시 ‘세코 노조’와 교섭·행정소송 병행",
+     "source": "경남도민일보",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56N2EwdjVNaEg2cERabmI0SVpCb2dWNHAzQXNWR3hTbXFUd2lCcnJqbDRwem1oeE5DXzFWYlFiUlhfNFFiczZPVzRhVTdwUmV3SW5KLWVOUlNuODlGblVfRlo4VFlGUHdreWc?oc=5",
+     "published": "2026-11-26 15:29",
      "tags": []
     },
     {
@@ -166,41 +203,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UVhDRFVGeUNVM3Fueml5em9hUGFvTzYxam1GZnpNdVBoY0NULTFnTEs2bEpScWM0eDJwQ3JTd0lPVENkUHpNUk50VTNfb0hFR256X1p4N2ZfbUVLSE5ST1NtaWY0VlpvXzUyQjQzcGQ?oc=5",
      "published": "2026-11-26 10:19",
      "tags": []
-    },
-    {
-     "title": "김희철 한화오션 대표, 하청노조 12월 9일 공동파업 예고…원청교섭 결렬",
-     "source": "CEO저널",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KVmhkbW5sZ3UyN082UFlnYk94cHpiMzVVZzY5ZEhRQmNsd1hmWXBHME1XZHlnb3ViV0l4cUU2SEZTZG44Z0FNbUVWRzZPNjhVdl9QMHFlSm1kRWJISHg1TzRncEpBd9IBa0FVX3lxTFA2MjFod1E5WlBZZ2NzSmVNMHp0REhWWjY3OGdGN3pZWnRvUnBvWTZ3U2xwdllJMjAtdU5yQ1dlZnZRckdyR3p5MGJ2TW41aURQYlZOeHNpdVVXdktTSXdZRkhSTlZRY1phMG93?oc=5",
-     "published": "2026-11-26 09:55",
-     "tags": []
-    },
-    {
-     "title": "노란봉투법, 로펌만 배 불렸다... 불복 소송이 타결의 3배",
-     "source": "조선일보",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2huNjVmU0xValNTWHFpaVhoa3FIMEtEY3Fod3BEMHhjYWg3dldFVVREOEJrbS0xdHVzazBRdlp5Vl9WVHlCeWU3YVNZNXY0M0tzMU55NTRhaHVYVjRhVUhOVFFBcnZ4SjRHSmxfT1VRNTZmV1lZc3hMSFBseFB2T0dR?oc=5",
-     "published": "2026-11-26 00:52",
-     "tags": []
-    },
-    {
-     "title": "“한화오션 교섭 거부에 노조법 무력화될 처지” 경남 정치권 공동 대응",
-     "source": "경남도민일보",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rTXAxNWVLV1liQm9LOFZPWm5YZTN6bGVaYVVEY3l0dkk5REtTMDVaczJTQXBXWHFhR2phWkNpM0Y2LXBNUExIUHFEZk9ZQmFrcG5lUm5rTUEzV1lRZzdxWTR6UjFFOGI3Rmc?oc=5",
-     "published": "2026-11-25 14:29",
-     "tags": []
-    },
-    {
-     "title": "노란봉투법 첫 시험대...한화오션 교섭에 전국적 관심",
-     "source": "부산경남대표방송 KNN 뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2S3ZBdmo3MTNXWHd2aEpISmZDNUFpQjJQcC1fMnJ0VzNPa0YwZG5MMERhcjVwVzFuZVE0NzNGakNLTTFRYzA4UEZ4aVhmN2g0dU5lVA?oc=5",
-     "published": "2026-11-24 19:50",
-     "tags": []
-    },
-    {
-     "title": "한화오션 하청노조, 원청교섭 외면에 공동파업 선언",
-     "source": "데일리한국",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zNkF2SVdJNkxxbmRkU1IwMXJmUTlKTXBkZGJDWGJmN2sxLXVUZENmRXIwOUpWd0VrWElMMjZ6dU1idnZ6MTVoN3VGMDdabzhXcGl5bWlTQ3lVa0tta3dWLURrOVlSZkNvcHBNb2xLTdIBc0FVX3lxTE56Q3VMOUZfOXFONHB0ZXRkaVpXX1lCWmFSQ0ktZ0E4SjltZUJjWVAwM001NGtrNnJCODVuOHlZSjE0Zy1nY25hZEgxMkVLYkx0cHR6aXVnaEVRN3R0ZThzSlBoTktpVGFjclJxLUNCV2ZzYm8?oc=5",
-     "published": "2026-11-24 15:22",
-     "tags": []
     }
    ]
   },
@@ -218,10 +220,17 @@
    ],
    "items": [
     {
+     "title": "[집중분석]민주당도 우려한 부동산 세제개편…장특공제‧종부세등 '도마위'",
+     "source": "더퍼블릭",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01MGVtRFBRR3UtYmxoQnNxdERVcmlLVUs5bGlhdy12UllmenlaLV9wMmZuZk5iWUdFRm04NUNJM1cteGFGUS1Qc3Fadk1KNmhNNzZ4Z0Nna1JxbjdSWmVpYm55NEVScHV0VlRz0gFvQVVfeXFMTU9jcmRBakp4amRqclE1dFk2R1VNRjhnNkhURDJIaUZmYUF2elBDS0Z5NmltTnNrVGktLWl6aDNvZTRteDFubXBuUmNzSVlHeWdIVmNqbmtCMV9oQW1UdlluQVRnNEJQYjFORVhReTVj?oc=5",
+     "published": "2026-11-26 17:39",
+     "tags": []
+    },
+    {
      "title": "[단독] \"장특공제 보유 공제 2%라도 유지해야\"...與 의원들도 종부세·장특공제 개편 우려",
      "source": "조선일보",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmtvcnpOMlc5RXpDUEZvcWJGZjd4d2ZNdmpCMnNJY1dQUnZodGcxU09WTnp4M2pwdGdoTTNxUm5xdVc3OWZYVFUyUjY3bExEU2FDdnlCeHA4ZC1vNk1MSExhNy1aT2Q3QWJ3YkhsNkhyTUVLblNRSDR6OFFnb0x3d3haamFvSC1PZ084VGdfeHM?oc=5",
-     "published": "2026-11-26 14:34",
+     "published": "2026-11-26 14:38",
      "tags": []
     },
     {
@@ -235,8 +244,8 @@
     },
     {
      "title": "부동산 세제 개편 정부안에…국회 “매매·전월세 매물 줄어들 우려”",
-     "source": "매일경제 마켓",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpbjVVaU9iYjYwLVhFYlhHZC0yQlBCSkVpTWZ4S1lKSUVSR3N6Mms4SDN4ZWF2dTNMcXNJeVR1T2owVzVCQU5oc1ZGVmJBSnFSS2c?oc=5",
+     "source": "매일경제",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnZ2hQZlRCaDQ2U18tZnRkQW9mbUI5b2tNclVhY2x1N0lQRUNiRkdtbmNEVnR4a2xBMk9QM2VvUlNmSGZmTVAydHZEUHNBRXNqQk1xbA?oc=5",
      "published": "2026-11-25 16:46",
      "tags": []
     },
@@ -272,15 +281,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rdGtZbkJzRW45cG9tQ0E1cHl3YW84Nmphd2dVd2o2RDFDWG43cXZvc1Q3ZEdXTlptQ3JrS2dWWFp6eDhjbXNKU3VEanA0U3doc3A2TGhKUVdVZ9IBWEFVX3lxTE0tUGs4OGdSWDJ2a3FodmR5OEpBY3NuTDl0TFRXaHRndFlXamY4SHBGLUN3ODJ2TGllV1piQjR3WjA0d2wtMVhLTUdCVEZGNzRQckI2VnppdmM?oc=5",
      "published": "2026-11-23 16:51",
      "tags": []
-    },
-    {
-     "title": "국힘·개혁신당 “정부 세법개정안 전면 수정해야…다음 총선은 심판 선거될 것”",
-     "source": "동아일보",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0M3ZES0NGMjlrNlczaTVrU0lMSkQwaVZzaXZVWUdDRkJqcmdiNGprczUwaWZma1UyOE9hSmZyUU5FX3liTFJYMExiczhyb2JvamY3dDBJU2h0UXRhVWhhQlZwd1ZHQdIBZkFVX3lxTFB0M3ZES0NGMjlrNlczaTVrU0lMSkQwaVZzaXZVWUdDRkJqcmdiNGprczUwaWZma1UyOE9hSmZyUU5FX3liTFJYMExiczhyb2JvamY3dDBJU2h0UXRhVWhhQlZwd1ZHQQ?oc=5",
-     "published": "2026-11-23 14:10",
-     "tags": [
-      "법 개정"
-     ]
     },
     {
      "title": "국힘·개혁신당 '수도권 주거 혁신포럼' 의원들 \"부동산 세법개정안 전면 수정하라\"",
@@ -326,6 +326,41 @@
    ],
    "items": [
     {
+     "title": "[금리·물가 예측] ‘1월 연속 인상’ 56%…근원물가 3년 최고에 4%p 뛰었다",
+     "source": "코인리더스",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52LWw2VXpfR3FuQkRTQlozU0pjWmlaaGt1ekpHMmpLTFY4RXYyUlJFc1pIMmlDa1dvWnlKUE9jOG9mdHdOZWtFMEZn?oc=5",
+     "published": "2026-11-26 19:04",
+     "tags": []
+    },
+    {
+     "title": "FX스와프, 한은 인상에 1년물 상승…12월 FOMC 앞두고 고점 반납",
+     "source": "연합인포맥스",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aUGloQk9xN1ljbWJ1WU1tMUo5am85SHgySXZrdGRxTDdMVUZTTmp4TlpQeDlNalFVV1IxNDBiendfRWNWejNGb3FMMXhwRWtiWTVHLW5Odlc5ejZzRnFISTlUQmNoUXRtRHhlVUxLZ1jSAXRBVV95cUxQWXlGcDExYTlnZUhNZGIyUjVyN3dJS2RsNHMtZnd6V0pZQlp1SnMwZHBfNkM0eWx1djVQNEt3QVowSFFjWVRqT1hYWjJKd1I5d2g2Y0lFQ25aQVV3NUZhZWZRVDd3X0tJSFFmOUdjcVBYM1VLWQ?oc=5",
+     "published": "2026-11-26 18:00",
+     "tags": []
+    },
+    {
+     "title": "한은, ‘긴축 기조’ 유지…학계 “연준 따라 추가 인상 불가피”",
+     "source": "시사프라임",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00akhEWWRUZXAtb24wZjhlWi1PeHRNeTFwaHcwTW1mM3BqZUJ0Y3RjRUF0ZGZfSjE3Y3hscnQ3X2VMcUhsZFFmbG44c1QyQThwVkswS0swNWZ1cGx3U3ZQdGM3VFRmMVpGTm80V1Zn0gFyQVVfeXFMTlVIem5EaW1iSy1waGNiUG1VV0czZ3JWdzdWZmUwY0E3VlluVTJRTkg4RnN0ZWpBaUlWUmpwcThMbFZjWllBMUNQOWdlY2RFdEF6T3VGTl8tbnNCOTE1dHVKbjJWNEZEcTVmcTdiX2wtWXpB?oc=5",
+     "published": "2026-11-26 16:09",
+     "tags": []
+    },
+    {
+     "title": "연준 의장 딜레마…인플레 억제냐 시장안정 속도조절이냐",
+     "source": "매일경제 마켓",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaM2NaYmwtVjNYX1Zmc04zTlp1NHFEektkelB6UjcwM1JMY0NhdktrSnoxd3NacDVZOEZaek5LMnZxTndyb2VFNzkyUVFYOF8wU2c?oc=5",
+     "published": "2026-11-26 15:56",
+     "tags": []
+    },
+    {
+     "title": "미국 연준 잦아들지 않는 인플레이션에 12월 기준금리 높일 것이란 전망 : AI 기업들 자금 조달 부담 커진다",
+     "source": "허프포스트코리아",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GeUV4Unc5UnRnamp0Tm9zTnZ6TDIyRE11LU1oTk5nQWt3NmhfS2NuVm9YYlNtQUVydjNtUlRvSDg1ckNFQlMya0lkalVOaGd4NWVub1RJQQ?oc=5",
+     "published": "2026-11-26 15:56",
+     "tags": []
+    },
+    {
      "title": "[기획] \"한은 다음은 연준\"…12월 美 금리인상 예고에 '긴축 도미노'",
      "source": "매일일보",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sMUcxYllJSkpPNlp5SGxvbkx6UVUteVdwTlhzTmFaYW4tc2lUYzZJVDNhZEJtT211Qk5KbUFkaTZUQWxsb0JmZktLMnVnZ0R1d2FYSnhMSEZxZTBnaWY5cDBYeGc?oc=5",
@@ -337,6 +372,20 @@
      "source": "오피니언뉴스",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3TGg3OXNER0RnM1Bwb0pOQ0dzRXJldWJWYzRWQ1Y1QzZjWm42c2ZudkV3UXQwTjhYZXdJOHNRdEY5MlhEVE43WHhjd3VseTJidktfUUt3MC0zYUpVN2dudlZpeXMyTHp0Rllxa3JxcDJsUQ?oc=5",
      "published": "2026-11-26 14:20",
+     "tags": []
+    },
+    {
+     "title": "美 10월 PCE 3.8%·3분기 GDP 4.3%… 연준 12월 금리인상 무게",
+     "source": "블록체인투데이",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNaWxjUU90RkJveUtvOVdINGxXcVVCbkl2VUlJc0ZibDJmRjlFc2dYMjhwQnNRdGotS2tYbWZ4MUkxQm1fNFpxUGgxaVBFOUU0NG5vb0ladmR1Zm5NSEVsSlRMemVmcTZTOWY1NEZac0Y?oc=5",
+     "published": "2026-11-26 14:12",
+     "tags": []
+    },
+    {
+     "title": "[포커스]한국은행 기준금리 3.25%로 인상…2027년 성장률 4.1% 전망, 추가 긴축 가능성 커졌다",
+     "source": "창업일보",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2UlB6QjNzS012VEZ0THZmS043WTZmZGVJU1NaQ2NIbGJDM0dsZ2ZTZl82VGRyQzY5QkloR1N2b2lXOFViN3RpSmZxLUpvYS1OdW5DRV9FWFN1M0tPR0U5eHhlRmt2TGhX?oc=5",
+     "published": "2026-11-26 13:55",
      "tags": []
     },
     {
@@ -358,55 +407,6 @@
      "source": "스페셜경제",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sbWFUY3BiWTBMQTJUZDg3MTMyLVR3REZmdGlvaDhRX2xybkVXalVpUFhaalhuTVlEQ0xYYW04d2ZfRDB6cm54TWFDcjdIbktQb2Z1ZkMwdm8xcnM5emx5QkNISEVsMjZEZkktRw?oc=5",
      "published": "2026-11-26 11:52",
-     "tags": []
-    },
-    {
-     "title": "美 10월 소비자물가 3.8%↑…연준 12월 금리인상 전망 굳혀",
-     "source": "금융소비자뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RZFRLR0xjbm1PSThleUVBLTBlSmwzODQwY0xIMkVFLTdOeWlZLTFVUVFYTi1haTNIYklDZnBaOTNFMTBKMl9aSTlNZENVMVFkbFdCaTFwSDgteFhzZ1RVODJXOHlZTTNsdkE?oc=5",
-     "published": "2026-11-26 11:20",
-     "tags": []
-    },
-    {
-     "title": "美연준 “물가 압력 지속ㆍ임금 상승세 확대”⋯12월 금리인상 힘 실려",
-     "source": "이투데이",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByNW0xMlIyLTJ3WndBMFVXQ0RyNExDM0ZJVHpablV4bHlYMld1NUpBRnE1VzQ2bEZMVjhHc3dSNGNhRGNhTk1LV3ZmODMxX3RYZW9XRg?oc=5",
-     "published": "2026-11-26 10:45",
-     "tags": []
-    },
-    {
-     "title": "한은 금통위, 26일 기준금리 3%→3.25%로 인상[분석]",
-     "source": "사이렌스",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVUXhSQm9fM3JZVm96aGpERjE5d3NBazlvaHRiVTkzMmYwYnhWV2dudHRaOVdBOHlqT1Jrb1RNUUdrTWl2QjZRY25SVmp6RTA?oc=5",
-     "published": "2026-11-26 10:25",
-     "tags": []
-    },
-    {
-     "title": "한국은행, 기준금리 연 3.25%로 0.25%p 인상...올해 성장률 전망 3.9%로 상향",
-     "source": "생생비즈플러스",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeVBFWHZaaTVlekZITTVWT2dqX0Mtb0g2NHZZYUE1TUxwSWRGVXdHdk9LbDNvREs2Z0J5X3NCS2FxUDdDU21aSy1MVHN6d054blZ5cmNJdXhQWThpV2FocVBLSExuQW0yamlfcA?oc=5",
-     "published": "2026-11-26 10:24",
-     "tags": []
-    },
-    {
-     "title": "'기준금리 3.25%' 2년만에 최고 수준⋯고성장 속 물가 대응한 듯 [11월 금통위]",
-     "source": "이투데이",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nV01zaE1ieFdydm4xd2FoWmtJQXQ2SnRuUDhSa0xyTFlMeGtabkN0SjRKSnJZYXRTVkd4eDN2dUNxRWs5T1pJNWc1YmpXNk5mcEVySg?oc=5",
-     "published": "2026-11-26 10:24",
-     "tags": []
-    },
-    {
-     "title": "월가 \"美 신규 관세에 연준 추가 금리 인상 가능성 커져\"",
-     "source": "KB Think",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TTDVxVVZyQm5UdTZSaGdhVVNKRU9QMHZFVGNkSEtKRVFyZ245M1ZTU2VsbzBYTms5bzVqT01HZ0RGcUN6WFdZQ3VNUkh0X0N6U3VXRnRmQTE2Wm9tZlFnR0pPZU85QmRzZm00TTlKUWNmZw?oc=5",
-     "published": "2026-11-26 10:19",
-     "tags": []
-    },
-    {
-     "title": "금리 인상폭 어디까지?...연준서 나온 '빅스텝론' [자막뉴스]",
-     "source": "YTN",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Wb19ndzhmUWlRMUt0b1BlanNVcy1xeVd5LU1IQU9iMTMyWS1MLXZYUklEZS1iLXNocTJUR2d6SDhmNlV5MGRPcTRVU0FPNDZkcUlWQ0RtQ1h5ajhvSWhsdlZ1XzA5QkZBYVBwRUt0czRRcFlSeHc?oc=5",
-     "published": "2026-11-26 10:17",
      "tags": []
     }
    ]
@@ -442,6 +442,13 @@
      "tags": []
     },
     {
+     "title": "美 10월 PCE 물가 3.8% 상승…3분기 성장률도 상향 수정",
+     "source": "이포커스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GbTlFZ3FURnVWQjRfdGRLa3JWaXFCVGRGVE5HaWtoakZxYU84Z0steXlxdkZGUTdWMmY2RE9KYTJTd1FHenJqa2VucVVmdUxGOXRGRG5SSnlVYzVMU2JrMTkyanp0THhHb1Z5bnBn?oc=5",
+     "published": "2026-11-26 08:50",
+     "tags": []
+    },
+    {
      "title": "호주달러, 예상 웃돈 CPI와 연준 금리 인상 베팅 맞물리며 주춤",
      "source": "www.tmgm.com",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGdsSlp0UWZJdVhaVlFrQU5qQTlmdHJ6alpNdlJhT3RMYkxFcFItNm9abXhMWlFVMTBYSEpYbnhnOVlyTUFGV0dybGh2U3NrcTlSVUJBNm5sRXJoUDFmN2h6Qm0zWnNqc1hvNGI3blQ1bmJGVjVhcTlLXy1uQzMxS01TQWN1SmNxdEhyVWMzeXkxUTRyVnEwNGg1RXA4YUNfNmFWUTE5YWZVZHdtVXZWaTVpNXJIY2JSa1A1YmliRDY1NXlxZlZxOE53?oc=5",
@@ -453,13 +460,6 @@
      "source": "재경일보",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yVEY1eXB6eENRSUdpWDJWR3pFVTBqWXVnWWhqSVFzUWhvMWdfazluMG5jZURZdzB4ejZjN1d2YU9kN2Y5MVEwMHktYw?oc=5",
      "published": "2026-11-26 08:00",
-     "tags": []
-    },
-    {
-     "title": "비트코인, 예상 웃돈 PCE 물가에 연준 금리 인상 전망 강화되며 장중 한때 5만 8,000달러 하회",
-     "source": "www.tmgm.com",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHFfWGUya3VOWDFEaEo1M3UxbjJHT1ZuYmxZWThEdklSSEhMcm9zRlBMdGhsRTljUXBEN3ZVT0F0N1BUZEViRk5fb0gwUHczbkZwZWxFN2lUT2NfTENhV254ak1EZWZnYklScWRFaEptTlA0WUhPRGdKNnNiemZxX2JOaVJOX09BQllRSE85UUF2UzhUWGNjV1FvVWpzRVkwZW5zRnp6ckI0R184aFBWd283YnhPdDU0S0VvRGJDVnhuZ0FuQ0QtUXYybWM2RnYzS1MyZm8tNk9Cak0?oc=5",
-     "published": "2026-11-26 03:11",
      "tags": []
     },
     {
@@ -612,87 +612,87 @@
    ],
    "items": [
     {
-     "title": "반도체 키우는 것도 문제?…트럼프의 달라진 관세 명분",
-     "source": "비즈워치",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwcWNKQy03TmhSWWJFMXlHLVMteUd6VnFjTVVxLW1RanJ0MXlCS0RaV0JoNGRUUEVacWtpWVBnbVRfQnNYRFlqcTY4LWlEdXhIZkhQNEE5QnBYbWFMN09GVkFWSmVuNlkzblp4Nw?oc=5",
-     "published": "2026-11-26 15:46",
-     "tags": []
-    },
-    {
-     "title": "트럼프가 두들겼던 미 최고 명문 하버드, ‘매가(MAGA)’ 강좌 개설했다",
+     "title": "다시 관세버튼 누른 트럼프… 비과세 투자·노후 적립금도 문제 삼아",
      "source": "조선일보",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd0hHLUx4WjN4MV9wWTAzM01XQkp1dUowZUV2N0o3dFhnanF1Y3N4VENBajhkak9XSXhEeW84bDkwNDJ2M2prMWpRSVVvRC1RYjhhNjhqWGd3YWhXOW5sNXpPbjFIUDBSTVJkVEZqMV9vUmRqbDJMMmVfMjRVdzJYeWd0d2psaHZxLWxQZ0NRQ1lBbUIwaVBZSjE0M1FMdw?oc=5",
-     "published": "2026-11-26 15:46",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOHRwdjJMbU1kOG9WMzVjQ1ZlaC1yT05QV0l6bzdEYUowaW5PYjVpZnJXeUQ4aV9uSlJ0aXQzZXJfRWlpVHpwVFI1MVNMVWZabS1RTHdJMF9CY0ZfemF0eEpDTDFINFpEUXZHZE5kcHlJZXdXN2U1amJocFp1NGVLYnB1VWNVcm4tSXB1NmRRa2J5Rm5GaDdXWnlqQjBkZw?oc=5",
+     "published": "2026-11-27 00:50",
      "tags": []
     },
     {
-     "title": "트럼프발 관세 방아쇠에 무역갈등 또 ’부글’…각국 긴박 대응",
-     "source": "연합뉴스TV",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50SWdjNVNCZEZVN012MTlYZ3d4Nkp4U3BQb2JLZXB2bi1yQWJ3VE83TklteTVqSGM5X3RoSUM4dGM1SzJselc4ZnlKWjJZbU1nbnFmM3NBXzBnZVNsWjJxY212X3Vibms?oc=5",
-     "published": "2026-11-26 15:42",
-     "tags": []
-    },
-    {
-     "title": "트럼프 ‘관세 마이웨이’에 中·EU 부글부글…브라질은 보복 시사",
-     "source": "미주중앙일보",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hdlM5b1dLMUg2cmNoaXU1ZTdZRm5pRXVrT1JyekJ3TWRmU0xYWC1aNFZMaTB1YWtoNzZRVU1paUhxcUxFRmdPVjJJZUk1S2xDTko3THl5LU1YbFB0YzVuUktB?oc=5",
-     "published": "2026-11-26 15:32",
-     "tags": []
-    },
-    {
-     "title": "또 시작된 트럼프 관세 위협에 EU '부글부글'…각국 대응 '분주'",
+     "title": "관세 집착 트럼프…15% 방어했지만 25% 여지",
      "source": "SBS 뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RSzJIUmJTLWhIQ2h6S2ZsYUVoYVd2M2tpeVlkNmFCNzJGX3NkcWtFS2tCaTJlQXBBOFJkWnZ1VTZaYnpnMWVmT3NSZkpMTkVjLTZsVVF6aHZVSTk0dGIxOVZyUmVGN21uUlE?oc=5",
-     "published": "2026-11-26 15:28",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lY3NDY0NfM21RVXQ4akNPMi1lc1BNZHJCcjdsY2FUX1lBNEgyaW5LSE5zLWtOU21nek94N0NTTVpLVk9Ed1E5ZERnckdvUjJvZm50RThPX2R1aHlGNzlOZ0JRdUVvaFA3ZHfSAWZBVV95cUxQZzFYaTFwd08yV0t0elh5WFJ6LWFhSEJZMmVUVmh2QjRKSTM2UENvQXdQbzk3d0FnbjRlQkcyeTZmRkRZYVg3UnhFV1dMWkRfTm9PTmZxS3BYN3RHRzE1aW1JM2xJTWc?oc=5",
+     "published": "2026-11-26 20:33",
      "tags": []
     },
     {
-     "title": "베트남, 최대 35% 트럼프 관세 폭탄에 여론 부글부글",
-     "source": "아주경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iamtpWnhTaTlkTmFidDduQ2t2MUZMNmJGQUd0VUVJVkgwQkVsckR0dFhGVWFWeDdMQi03TEgzT20wOGx6aFNCMm9lY3pkR0VZZHZOdWxUUXpOd9IBWEFVX3lxTE5WUGxPUTNGNWZWRnA3Q3dYTkRxV0w4OUh6cmI4aXFodHg0SFVtaGpEbE9neDg1QlVZQ2hINGJKb3ZrZDR4Q1ZlY01vQVRkaUZpZ0dLYS1EZXE?oc=5",
-     "published": "2026-11-26 15:24",
+     "title": "트럼프, 중간선거 졌는데도 관세는 '마이웨이'…14개국 과잉생산 관세, 한국은 15%",
+     "source": "프레시안",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yc0FTaG16aEFsQmtHYTd3X0FJR25pY2pJWXpsNDR4RFpFV1VSWkdCaVJDblVwUXdYbDRNNTBhNEhsaFRkS2t1c2YzYmxKWmdlX2ItbnJVUW1nSDlPZDVSLUV0dG5kLW5sVG1r?oc=5",
+     "published": "2026-11-26 20:12",
+     "tags": []
+    },
+    {
+     "title": "\"결정적 패배가 될 것인가\"…‘젠슨황과 한 배’ 트럼프 운명은",
+     "source": "JTBC",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9taERHaTNET2tudG8xbEJvbXIxcXRqcldGU2hFMlhQSVJfc1c0bjlWMGlmUE4xU19pUkhQaUtOR2x1SWdENlB3YndOZ19nOTNkOTBVUQ?oc=5",
+     "published": "2026-11-26 19:44",
+     "tags": []
+    },
+    {
+     "title": "선거에서 패배했지만 트럼프는 수입 관세 정책을 확대합니다.",
+     "source": "IDNFinancials",
+     "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOd29vcTI4R09hWExYWXItb0prcnM3N3kyV2wzSjRDS2t5MDhtUHdCY0RtaTJLVF9jaXliTThxOGUzTEFOVHI0Rm95U05FNkpqekJEb2hXWG9GYUhOTHc5QmViTG93NzRSbEhVN241ano2dkJpTFVDQlNWZkUwbUlhM21XTnRDcm00SjVGWFBFd05ldzdLTzJ0bWRSc2lLLTczLTRxeFgzQkR6cUxKSDA2N2ktR2RadjA2WG1RcXZyREtvNzlEMW9wVkZsRzZiSXI1UlVvVlpxOUpfa2FxRm9ZY3RHc21WYi1Rd2U2X19rOU1IVnNFU1Z1SFlRaVNEWnlaVmczREpaN1k3TW9lYTAtZ1F2T1B4V2RRdXJ4SUZHNzlSOFpoVkU2WFJqQzNoQXRDeVlHSV9VMHNUZDZYSXJwX3I2YXJDTWRZY3plbmhxOEl5V25HeTFQY1g2emdxT2FWdlF5UDEzdjlIbzd2VEs4M2NOZWZsVEx5TWgyYURHWGFheGJPcDFhWXBMbw?oc=5",
+     "published": "2026-11-26 19:00",
+     "tags": []
+    },
+    {
+     "title": "[여적]트럼프가 걱정한 한국 노동자 월급",
+     "source": "경향신문",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOMWl1aHZmS0ZVM2pCR3BGelc3R3psSlFYZC1mazZZRElZT3hhVUFJSHlNWDlhNktZaWlvbnVVdVlCT2pKd1RkNWVubXg4UF9EN282V3VqR0xJUdIBX0FVX3lxTE4ydE5nLWRqUlYtSVM2XzhoaWhHaDV6S3N0MUt4dVgtZklXSGRqRTJVTFRESWlGdUlNeWNsMGdWUzZjQm4zUlRnU1JrUHFIaGlETlJOVlVMZmcxUU1INEVN?oc=5",
+     "published": "2026-11-26 18:56",
+     "tags": []
+    },
+    {
+     "title": "\"관세 40% 때릴수도\" 中 압박.. 트럼프, 내달 정상회담 협상용?",
+     "source": "파이낸셜뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yX1g1RkI5NUQybXRRMDBoeEtCZ1lxQ1lIaTU2VHRvd2VIYjlzZ1FnSElZODZWMmJyOTRYand0WVZueWdJLXdGanRhbVpGSURiM1Iyb3YtSjc4QQ?oc=5",
+     "published": "2026-11-26 18:28",
+     "tags": []
+    },
+    {
+     "title": "반도체 주도 '4%대 성장' 역설…트럼프 '25% 관세' 표적",
+     "source": "뉴스토마토",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fZFVscWhvQkZhNkhxMVRuMDh4Y0x4aE44al9DU2hFdnJDb0R1eVV0WVVGLTdPRGV4MjFJTXl1cXJSUHd5SVpSV0lob0trblUyZXZZeXh0VEc4YTJvLVdScQ?oc=5",
+     "published": "2026-11-26 17:41",
+     "tags": []
+    },
+    {
+     "title": "'40% 관세' 협박까지…'트럼프 폭주'에 G2 전쟁 재점화",
+     "source": "뉴스토마토",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VS2NpRlB3Z2hVN25zdEpZTUVJYjg5X1BSbDRDU1J3b3lOSTZybkdBdHpnSGozRjZqS3JpNHZfWXJnZ1Q5eHkwbU9Kdl9nY242TUxTUW1BVXRzYlpBa04zTA?oc=5",
+     "published": "2026-11-26 17:38",
+     "tags": []
+    },
+    {
+     "title": "15% 관세 방어했지만…‘3대 메가’까지 겨눈 트럼프",
+     "source": "경향신문",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Vk1lQ19jX3d6aUgyc1h5b3NIQWJ1UlUwMVBraTUybnl3UzdnSTlydGRhZjZtcjg4TDdsUUVMN05vbGFGb2didFdrc05nc3FacTVZSVd5LUV6UdIBX0FVX3lxTFAtMGJ4Z3pCUjgzdXBVanhMZDlWVXVKcHNrUnYtUGVvQXFnU09ldkhSOVJFNjMzY2JXOUNGOG96U2dZX2F6T0lZM2JmTTJWSkJxOVlOTGYwQXE3LW5Xc29R?oc=5",
+     "published": "2026-11-26 17:31",
      "tags": []
     },
     {
      "title": "트럼프 또 관세 위협‥한국 '15% 상한' 유지",
      "source": "MBC 뉴스",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FdEYzcXVSdU5ERVhKbEtvcGR4QUNzYlRWMXF6N2RaZVNnYkhLVlZsV2FvWFNYSlZRb0thQjAxM0paWVlGakNqWXlSUlVOYWxxcU1JNExUSERhTUl4bWROUzZKQVNvalRuY2ZhXzg0S3NrOHdiUldzV9IBeEFVX3lxTE81a3BtT3NNN1dRTnlkWldXcF9vVmw4dUNRZ1pfWFpWbE5DNFFicVJvakc5dW9DN2FqbHlzbnZqOEl0MkVHWjNiQnhJQmZ2V2UzRGxXdmlLNHJ4dVhaek92dWtZZlFRQXkzcXNlamRZb0FjTVQ0aDJFVQ?oc=5",
-     "published": "2026-11-26 15:20",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YU0FyQjlwMjlVNmhZZERobnlRM1hCX1pDVHp4Wlp4WFFRVEV0OUJHVmhPMmQ2el9hMUxQclFFTTFIY3FYMWdWd18wWXZQakNReXRvSFktX2E3eFlMX1hlbGxRSGVVSm1lZGdMNWpackdNaDhFekZCctIBeEFVX3lxTE9BNjEtUUtWMnFJb1FZaFpVQ21WdkNSQW9mODlhWS1kbzVseFF6WWR1N3NBQkZLT1RXczR5TXdlWGVWMzUyMkZFTTV6c1ozcXBRd0ZCcGI4MnIwOTc4elMtZ21ZbkQyemFsdzlRckJmaWN4elVwUUJfVA?oc=5",
+     "published": "2026-11-26 17:02",
      "tags": []
     },
     {
-     "title": "중간선거서 심판받고도 관세 강행한 트럼프…'민심'보다 '권력' 택했다",
-     "source": "뉴스1",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oV2x0T0FnN2dTN2o3YlkzNUdGRzJELS1uSUVmVHZ4MUpzZ0U5TkFrRUczNGtqNHlsNDJuUlB6M0RpclRMcEZ5eDVTN1NtaTdGZDFJOHI4VEg?oc=5",
-     "published": "2026-11-26 15:16",
-     "tags": []
-    },
-    {
-     "title": "트럼프, 선거 참패에도 관세 드라이브…美 안팎 반발, 법정 공방 예고",
-     "source": "뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5velZ3UDliZFg1NThpcWxmUHJiU1R1SzAxa2U0LUtILVYwOUJNUEhOdWYwV0tHdE9wQ0FIMEhNaWNBS2NHTEhtNWg5aWRhU05SM2V2WVc5TkZJQ1NmRXlWT9IBeEFVX3lxTE9qdHFmX0ZNVGtDb2NEOEpxM1hNaUVaTUlNRXE5Ri1TMUIweVZneElEVVdOZFZiWkh6eUlpaWR2Q3Nfalk4ZXh6RldJNk80enFPd2F3dks1RXpnTHVQRTIyNjMwbGRRSjM5czlTOFVVTVc4NDVQVV9fcA?oc=5",
-     "published": "2026-11-26 15:14",
-     "tags": []
-    },
-    {
-     "title": "의회 뺏긴 트럼프, 국정 지렛대로 ‘관세 마이웨이’ 고수",
-     "source": "한겨레",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSEFCSm1YbmhuMGVaOGc0Q0V1YkMyZnNXVC1ONkFFaVZXWV9sQTZSTmlmMHFRNjJ6V1ZlOXRQZTFfT0s1dkg3aHlVbE41M2oydDdWWmF3Z3RuSGZiZGltTWJkWUlCSTRJSWl1Wm9FaDVRcE5DX24yMlg4QnB3VjN0dTNB?oc=5",
-     "published": "2026-11-26 14:59",
-     "tags": []
-    },
-    {
-     "title": "트럼프 미 대통령, 범정부 사이버인프라 보호 계획 발표",
-     "source": "지디넷코리아",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tMnYwcTFIb2tialk0bUVXRG04cEtJS2dSVkFrRk9RTU5FeFc2bHlYbWRLVkQ3ODdDa2RnQWswRlMtQ2VSek0yUUlGMGlCMGl3MHNLeGxn?oc=5",
-     "published": "2026-11-26 14:57",
-     "tags": []
-    },
-    {
-     "title": "뉴슬후] 트럼프의 ‘관세 카드’ 재등장 ‘中 관세 40%’ 위협의 진실과 파장",
-     "source": "데일리연합",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwSzRWdFhVdGFUdEVBVWNnVXRjSFlhVkY1UnFCdDhrV1dZMG0yNFhzcXFaakRXZ0RSdERLTUFXUnRweERNSTFkS0R2RFRsendlRXh4R3Y5YWF2UQ?oc=5",
-     "published": "2026-11-26 14:50",
+     "title": "트럼프의 관세 질주…민주당도 못막는다 [1일1트]",
+     "source": "헤럴드경제",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWMFdMRWx6YlpWT1EzMlhZWTh2dDgtNjEwVHRBRVJLY2xyaURxellTY2NTNUdjcmNlOTk3MXozOVlDMHNHZUVyR3g5ajdPS09Kb3hnRDhn?oc=5",
+     "published": "2026-11-26 17:00",
      "tags": []
     }
    ]
